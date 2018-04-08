@@ -39,13 +39,13 @@ Eyni əhəmiyyətli yolların kəsişməsində sağdan yaxınlaşan üstündür!
 
 |		Mexaniki NV	   | Non-Mexaniki NV      |
 |----------------------|----------------------------------|
-`minik-yük avtomobili` |`tranvay`           
-`motosikilet`          |`qatar`            
-`traktor`			   |`velosiped`
-`avtobus` 			   |`asma mühərrikli velosiped`
-`traleybus` 		   |`moped`
-`A1 kat motosikilet`   |`araba`
-`özügedən maşınlar`    |`qoşqu`, `yarım-qoşqu`, `yük-kirşəsi`.
+`Minik-Yük Avtomobili` :car: |`Tranvay`       :train:    
+`Motosikilet`     :bike:     |`Qatar`           :bullettrain_front: 
+`Traktor`	:tractor:		   |`Velosiped` :bicyclist:
+`Avtobus` 	:bus:		   |`Asma mühərrikli velosiped`
+`Traleybus ` 	:trolleybus:	   |`Moped`
+`A1 kat motosikilet`   |`Araba`
+`Özügedən maşınlar`    |`Qoşqu`, `Yarım-qoşqu`, `Yük-kirşəsi`.
 
 **Avtomobil qrupuna aid olan NV-ləri:** *`minik-yük, avtobus, traleybus.`*
 
@@ -59,71 +59,81 @@ Dayanma, durmanı qadağan olunduğu yollarda NV məcburi dayandıqda, NV-ni iş
 # 3. 
  <h1 align="center">Kategoriyalar  | Date: 29/03/2018; </h1>
  
- **1.** `Velosiped` və `arabaları` yollarda sürməyə **14 yaşından** icazə verilir.
- 
+ **1.**  :bicyclist: `Velosiped` və `arabaları` yollarda sürməyə **14 yaşından** icazə verilir.
+ ___
  **2.** `Asma mühərrikli velosiped` və ya `mopedləri` **16 yaşından** icazə verilir.
- 
+ ___
  **3.** **[A1]** - mühərrikin işçi həcmi `125sm^2`, və mühərrik gücü `11kV`-dan çox olmayan motosikiletləri yollarda sürməyə **16 yaşından** icazə verilir.
- 
- **4.** **[A]** - bütün növ motosikiletləri idarə etmək üçün **18 yaşından** icazə verilir.
- 
- **5.** **[B]** - minik avtomobili və icazə verilən maksimum kütləsi **3.5t**-dan çox olmayan yük avtomobilini idarə etmək üçündür. 
+ ___
+ **4.** **[A]**  :bike: - bütün növ motosikiletləri idarə etmək üçün **18 yaşından** icazə verilir. 
+ ___
+ **5.** **[B]** :oncoming_automobile:- minik avtomobili və icazə verilən maksimum kütləsi **3.5t**-dan çox olmayan yük avtomobilini idarə etmək üçündür. 
 
 Qoşqusunun icazə verilən maksimum  kütləsi **750kq** olmalıdır.  Əgər qoşqusunun kütləsi **750kq**-dan çox olarsa vəsiqəyə **[E]** kategoriyası əlavə olunmalıdır.  **[B E]** - kategoriyalı vəsiqəni almaq üçün ən azı ***19 yaş + 1il təcrübə*** lazımdır. ***(18+1=19)***
 
 Oturacaqlarının sayı 1 + max. 8 nəfər daşımağa icazə verilir ***(1+8=9)*** .  
 **[B]** kategoriyalı yük avtomobillərinin banında **`sərnişin daşımaq qəti qadağandır`**!
 ___
-**6.** **[C]** - icazə verilən max. kütləsi **3.5t**-dan çox olan yük avtomobillərinə aiddir.  
+**6.** **[C]** :truck:  - icazə verilən max. kütləsi **3.5t**-dan çox olan yük avtomobillərinə aiddir.   
 
-Qoşqusunun icazə verilən maksimum  kütləsi **750kq** olmalıdır. Əgər qoşqusunun kütləsi **750kq**-dan çox olarsa vəsiqəyə **[E]** kategoriyası əlavə olunmalıdır.  **[B E]** - kategoriyalı vəsiqəni almaq üçün ən azı 21 yaş + 3il təcrübə. (18+3=21) 
+Qoşqusunun icazə verilən maksimum  kütləsi **750kq** olmalıdır. Əgər qoşqusunun kütləsi **750kq**-dan çox olarsa vəsiqəyə **[E]** kategoriyası əlavə olunmalıdır.  **[B E]** - kategoriyalı vəsiqəni almaq üçün ən azı ***21 yaş + 3il təcrübə*** lazımdır. (18+3=21) 
 
 Oturacaqlarının sayı 1 + max. 8 nəfər daşımağa icazə verilir ***(1+8=9)*** .  
 ___
-**7.** **[D]** - sürücü oturacağından əlavə sərnişin oturacaqlarının sayı 8-dən çox olan avtomobillər aiddir. (Avtovuslar). Qoşqusunun icazə verilən max. kütləsi 750kq olmalıdır. Əgər çox olarsa "E" kategoriyası əlavə olunmalıdır. "D E" ən azı 26 yaş + 3il təcrübə. 23+3=26.
+**7.** **[D]** :bus: - sürücü oturacağından əlavə sərnişin oturacaqlarının sayı 8-dən çox olan avtomobillər aiddir **[Avtobuslar]** .
+
+Qoşqusunun icazə verilən maksimum  kütləsi **750kq** olmalıdır. Əgər qoşqusunun kütləsi **750kq**-dan çox olarsa vəsiqəyə **[E]** kategoriyası əlavə olunmalıdır.  **[D E]** - kategoriyalı vəsiqəni almaq üçün ən azı ***26 yaş + 3il təcrübə*** lazımdır. ***(23+3=26)*** .
 ___
 **8.** **[E]** - icazə verilən max. kütləsi **750kq** olan qoşquları idarə etmək üçün.
+___
 **9.** Hərbi qulluqçular: **[CE], [CD], [D], [DE]** kategoriyalı sürücülük vəsiqələrinin hər birini **19 yaşdan** əldə edə bilərlər.
 
-## Kəmər 
-**Yaşayış məntəqəsində kimlərə təhlükəsizlik kəməri bağlamamağa icazə verilir:**
-1) Operativ NV sürücü və sərnişini.
-2) Hamilı qadın.
-3) Yaşı 12-yə çatmamış uşaq.
-4) Geriyə hərəkət manevri edən sürücü.
-5) Sürməyi öyrədən şəxs.
+## Kəmər :passport_control:
+**Yaşayış `məntəqəsində` və `məntəqədən kənarda` kimlərə təhlükəsizlik kəməri bağlamamağa icazə verilir:**
 
-Yaşayış məntəqəsindən kənarda:
-Operativ NV vasitəsindən başqa hamısı.
+|		Məntəqədə	   | Məntəqədən kənarda	         |
+|----------------------|----------------------------------|
+`Operativ NV sürücü və sərnişini.`    |       `---`    
+`Hamilə qadın.`          		      |`Hamilə qadın.`            
+`Yaşı 12-yə çatmamış uşaq.`		      |`Yaşı 12-yə çatmamış uşaq.`
+`Geriyə hərəkət manevri edən sürücü.` |`Geriyə hərəkət manevri edən sürücü.`
+`Sürməyi öyrədən şəxs.` 		      |`Sürməyi öyrədən şəxs.`
+
 
 # 4. 
  <h1 align="center">Sənədlər, Vəzifələr | Date: 30/03/2018; </h1>
  
-**Avtomobildə bu sənədlərin olması mütləqdir:**
+**Avtomobildə bu sənədlərin olması mütləqdir:**  :bookmark_tabs: :page_facing_up: :page_with_curl: :passport_control:
 1) Sürücülük vəsiqəsi;
 2) NV-nin dövlət qeydiyyaat şəhadətnaməsi (Texpasport);
 3) Etibarnamə (Dovernost);
 4) İcbari sığorta;
 
-**Avtomobili əldə etdiyiniz 10 gün ərzində qeydiyyata salmaq lazımdır.**
-**Mopedçilərin dəstəsi olmur.**
+- **Avtomobili əldə etdiyiniz 10 gün ərzində qeydiyyata salmaq lazımdır.**
+- **Mopedçilərin dəstəsi olmur!**
 
 # 5. 
  <h1 align="center">Xəbərdarlıq, üstünlük nişanları | Date: 02/04/2018; </h1>
 
-Yaşayış məntəqəsində xəbərdarlıq nişanları 50-100m məsafədə quraşdırılır. (min 50 - max 100)
-Yaşayış məntəqəsindən kənarda xəbərdarlıq nişanları 150-300m məsafədə quraşdırılır.
+**Xəbərdarlıq nişanlarının quraşdırılma məsafəsi:**
 
-1.3.1 və 1.3.2 nişanları bilavasitə dəmir yol keçidinin qarşısında quraşdırılır.
-1.4.1 - 1.4.6 nişanları 3,2,1 - xəttli yalnız yaşayış məntəqəsindən kənarda şlaqbaunlu və ya şlaqbaunsuz dəmir yol nişanı ilə birlikdə quraşdırılır.
+ - Yaşayış məntəqəsində **50-100m** məsafədə quraşdırılır. 
+ - Yaşayış məntəqəsindən kənarda **150-300m** məsafədə quraşdırılır.
 
-Kitabda dairəyə aldığımız "6" nişan yalnız yaşayış məntəqəsindən kənarda təhlükəli sahənin başlanğıcına TƏKRAR 50m-dən bir quraşdırılır.
+:x: [1.3.1 və 1.3.2](https://drive.google.com/file/d/1bhd5mUWT8xVOgB5zgfTDmrT70VhAQf4s/view?usp=sharing) nişanları bilavasitə dəmir yol ***keçidinin qarşısında*** quraşdırılır.
+:tram: [1.4.1 - 1.4.6](https://drive.google.com/file/d/1bhd5mUWT8xVOgB5zgfTDmrT70VhAQf4s/view?usp=sharing) nişanları ***yalnız yaşayış məntəqəsindən kənarda*** şlaqbaunlu və ya şlaqbaunsuz dəmir yol nişanı ilə birlikdə quraşdırılır. 
 
-2.6 və 2.7 üstünlük nişanları yol ayrıcında quraşdırılmır, dar yol və körpülərdə quraşdırılır.
-Uzun ox kimin qarşısındadırsa ilk növbədə o keçir. (Bir-birinə maneə yaratmasalar eyni vaxtda keçə bilərlər.)
-Svetafor və nizamlayıcı üstünlük nişanları: baş yol ⚠, STOP 🛑, yol verin 🔻. LƏĞV EDİR!
+:children_crossing: Bu **[\[6\]](https://drive.google.com/file/d/10qbLBsSj56g5YWahWqZAKVnqY_P--2TB/view?usp=sharing)** nişan ***yalnız yaşayış məntəqəsindən kənarda*** təhlükəli sahənin başlanğıcına **təkrar 50m**-dən bir quraşdırılır. 
 
-Svetafor və nizamlayıcı olduğu halda üstünlük nişanlarına baxsaq 2 gözümüz kor olsun! 
+[2.6 və 2.7](https://drive.google.com/file/d/1FVZv-joKCyLrwnVVOC4uQbYJjyo7Vnmi/view?usp=sharing) üstünlük nişanları ***yolayrıcında quraşdırılmır***, dar yol və körpülərdə quraşdırılır.
+Uzun ox kimin qarşısındadırsa ilk növbədə o keçir. Bir-birinə maneə yaratmasalar eyni vaxtda keçə bilərlər.
+
+:warning: **Svetafor və nizamlayıcı olduğu halda üstünlük nişanlarına baxmağa ehtiyac yoxdur!** 
+Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**: 
+
+ - Baş Yol :large_orange_diamond:  
+ - Stop 🛑 
+ - Yol Verin 🔻
 
 # 6. 
  <h1 align="center">Qadağa nişanları  - №1 | Date: 03/04/2018; </h1>
