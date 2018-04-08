@@ -60,9 +60,13 @@ Dayanma, durmanı qadağan olunduğu yollarda NV məcburi dayandıqda, NV-ni iş
  <h1 align="center">Kategoriyalar  | Date: 29/03/2018; </h1>
  
  **1.** `Velosiped` və `arabaları` yollarda sürməyə **14 yaşından** icazə verilir.
+ 
  **2.** `Asma mühərrikli velosiped` və ya `mopedləri` **16 yaşından** icazə verilir.
+ 
  **3.** **[A1]** - mühərrikin işçi həcmi `125sm^2`, və mühərrik gücü `11kV`-dan çox olmayan motosikiletləri yollarda sürməyə **16 yaşından** icazə verilir.
+ 
  **4.** **[A]** - bütün növ motosikiletləri idarə etmək üçün **18 yaşından** icazə verilir.
+ 
  **5.** **[B]** - minik avtomobili və icazə verilən maksimum kütləsi **3.5t**-dan çox olmayan yük avtomobilini idarə etmək üçündür. 
 
 Qoşqusunun icazə verilən maksimum  kütləsi **750kq** olmalıdır.  Əgər qoşqusunun kütləsi **750kq**-dan çox olarsa vəsiqəyə **[E]** kategoriyası əlavə olunmalıdır.  **[B E]** - kategoriyalı vəsiqəni almaq üçün ən azı ***19 yaş + 1il təcrübə*** lazımdır. ***(18+1=19)***
