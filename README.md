@@ -152,24 +152,24 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
 # 7. 
  <h1 align="center">Qadağa nişanları  - №2 | Date: 04/04/2018; </h1>
 
-Iki oxlu yük avtomobilində arxa oxuna düşən faktiki ağırlığı tapmaq üçün avtomobilin ümumi faktiki ağırlığı 2/3-ə vurmaq lazımdır.
-Yük avtomobilində oxların sayı 2dən çoxdursa onun hər hansı oxuna düşən faktiki çəkini tapmaq üçün faktiki ağırlığı oxların sayına bölürlər.
+**İki oxlu yük avtomobilində** arxa oxuna düşən faktiki ağırlığı tapmaq üçün avtomobilin ümumi faktiki ağırlığı **2/3-ə vurmaq** lazımdır.
+**Oxların sayı 2-dən çox** olan yük avtomobilində hər hansı oxa düşən faktiki çəkini tapmaq üçün onun faktiki ağırlığını **oxlarının sayına bölmək** lazımdır.
 
-3.10, 3.27-3.30 - nişanlarının qüvvəsi yolun qoyulduğu tərəfəinə şamil olunur.
+**[3.10], [3.27] - [3.30] - nişanlarının qüvvəsi yolun qoyulduğu tərəfəinə şamil olunur.**
 
-Kitabda rəqəm ilə işarələdiyimiz 10 qadağa nişanın qüvvəsi [3.31] - nışanına qədərdir. 
-Əgər [3.31] yoxdursa bu 10 nişanın qüvvəsi yolayırıcına qədərdir. 
-Əgər yolayırıcı yoxdursa bu 10 nişanın qüvvəsi yaşayış məntəqəsinin qurtaracağına qədərdir (ağ fon üstü qırmızı xətt).
-Əgər məntəqənin qurtaracağında nişan yoxdursa bu 10 nişanın qüvvəsi qarşıda müvafiq nişan qoyulmuş və ya nişan olan II dərəcəli yollarla kəsişmə yerinə qədərdir.
+ - Bu 10 qadağa nişanın qüvvəsi [3.31] - nışanına qədərdir.  
+ - Əgər [3.31] yoxdursa bu 10 nişanın qüvvəsi yolayırıcına qədərdir.  
+ - Əgər yolayırıcı yoxdursa bu 10 nişanın qüvvəsi yaşayış məntəqəsinin qurtaracağına qədərdir. `(ağ fon üstü qırmızı xətt).` 
+ - Əgər məntəqənin qurtaracağında nişan yoxdursa bu 10 nişanın qüvvəsi qarşıda müvafiq nişan qoyulmuş və ya nişan olan ikinci dərəcəli yollarla kəsişmə yerinə qədərdir.
 
-Max. sürət məhdudlaşdırılması nişanı bu qeyd etdiyimiz yerlərdən əlacə olaraq ağ fonun başlanğıcınıda daxil edir.
+**Maksimum sürət məhdudlaşdırılması nişanı [3.24]** -  bu qeyd etdiyimiz yerlərdən əlavə olaraq yaşayış məntəqəsinin başlanğıcınıda daxil edir. `(ağ fon).`
 
 # 8. 
  <h1 align="center">Məcburi nişanlar  | Date: 05/04/2018;</h1>
 
-4.4 məcburi nişan kütləsi 3.5t-dan çox olan yük avtomobilinin traktor və özügedən maşınların hərəkətini qadağan edir. 
-Əgər həmin ərazidə işləyib yaşayırsınızsa o əraziyə keçməyə icazə verirlir. (Məcburi 4.4 nişanı qadağa nişanı 3.5-in əkiz qardaşıdır.)
+**[4.4]** - məcburi nişan kütləsi **3.5t-dan** çox olan **`yük avtomobilinin`**, **`traktorun`** və **`özügedən maşınların`** hərəkətini qadağan edir. Əgər həmin ərazidə işləyib yaşayırsınızsa o əraziyə keçməyə **icazə verirlir**. 
+- **Məcburi [4.4] nişanı [3.5] qadağa nişanı ilə eyni qüvvəlidir.**
 
-4.1.1-4.1.6 nişanlarının qüvvəsi I kəsişməyə aiddir, kəsişməni keçdikdən sonra qüvvəsini itirir.
+**[4.1.1] - [4.1.6]** - nişanlarının qüvvəsi birinci kəsişməyə aiddir, kəsişməni keçdikdən sonra qüvvəsini itirir.
 
-Yerə çəkilən və yuxarıda asılan nişanların qüvvəsi bütün yolayırıcına aiddir, yolayırıcını keçdikdən sonra qüvvəsini itirir.
+**Yerə çəkilən** və **yuxarıdan asılan** nişanların qüvvəsi **bütün yolayırıcına aiddir**, yolayırıcını keçdikdən sonra qüvvəsini itirir.
