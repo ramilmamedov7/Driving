@@ -1,4 +1,4 @@
-# <p align="center">Sürücülük  :vertical_traffic_light:   
+# <h1 align="center">Sürücülük  :vertical_traffic_light:   </h1>
 
 ## Mündəricat :books:
 
@@ -14,7 +14,7 @@
 *By: <a href="https://rommel7.github.io">Ramil Mamedov.</a> All rights reserved 2018 ©.*
 
 # 1.
- <h1 align="center">Əsas anlayışlar - №1 | Date: 27/03/2018; 
+ <h1 align="center">Əsas anlayışlar - №1 | Date: 27/03/2018; </h1>
 
 - 2 motosikilet eni = 1 avtomovil eni;
 - 1 avtomovil eni = 1 hərəkət zolağı;
@@ -33,7 +33,7 @@ Bitişik ərazilərdən yola çıxış yeri **yolayırıcı** hesab olunmur!
 Eyni əhəmiyyətli yolların kəsişməsində sağdan yaxınlaşan üstündür!
 
 # 2. 
- <h1 align="center">Əsas anlayışlar - №2 | Date: 28/03/2018; 
+ <h1 align="center">Əsas anlayışlar - №2 | Date: 28/03/2018; </h1>
 
 **NV aşağıdaki 2 hissəyə bölünür: Mexaniki və Non-Mexaniki.**
 
@@ -57,7 +57,7 @@ Eyni əhəmiyyətli yolların kəsişməsində sağdan yaxınlaşan üstündür!
 Dayanma, durmanı qadağan olunduğu yollarda NV məcburi dayandıqda, NV-ni işarələmək üçün `qəza işıq siqnalları` və ya `qəza dayanma nişanı` :warning: quraşdırılmalıdır **[30m]**.
 
 # 3. 
- <h1 align="center">Kategoriyalar  | Date: 29/03/2018; 
+ <h1 align="center">Kategoriyalar  | Date: 29/03/2018; </h1>
  
  **1.** `Velosiped` və `arabaları` yollarda sürməyə **14 yaşından** icazə verilir.
  **2.** `Asma mühərrikli velosiped` və ya `mopedləri` **16 yaşından** icazə verilir.
@@ -93,7 +93,7 @@ Yaşayış məntəqəsindən kənarda:
 Operativ NV vasitəsindən başqa hamısı.
 
 # 4. 
- <h1 align="center">Sənədlər, Vəzifələr | Date: 30/03/2018; 
+ <h1 align="center">Sənədlər, Vəzifələr | Date: 30/03/2018; </h1>
  
 **Avtomobildə bu sənədlərin olması mütləqdir:**
 1) Sürücülük vəsiqəsi;
@@ -105,7 +105,7 @@ Operativ NV vasitəsindən başqa hamısı.
 **Mopedçilərin dəstəsi olmur.**
 
 # 5. 
- <h1 align="center">Xəbərdarlıq, üstünlük nişanları | Date: 02/04/2018; 
+ <h1 align="center">Xəbərdarlıq, üstünlük nişanları | Date: 02/04/2018; </h1>
 
 Yaşayış məntəqəsində xəbərdarlıq nişanları 50-100m məsafədə quraşdırılır. (min 50 - max 100)
 Yaşayış məntəqəsindən kənarda xəbərdarlıq nişanları 150-300m məsafədə quraşdırılır.
@@ -122,7 +122,7 @@ Svetafor və nizamlayıcı üstünlük nişanları: baş yol ⚠, STOP 🛑, yol
 Svetafor və nizamlayıcı olduğu halda üstünlük nişanlarına baxsaq 2 gözümüz kor olsun! 
 
 # 6. 
- <h1 align="center">Qadağa nişanları  - №1 | Date: 03/04/2018; 
+ <h1 align="center">Qadağa nişanları  - №1 | Date: 03/04/2018; </h1>
 
 3.7 - Qoşqulu yük, traktor və yedəkdə nasaz (xarab) aparan bütün NV-lərin bu nişanın təsiri sahəsinə girişi qadağandır.
 Minik avtomobili qoşqu apararsa bu nişanın təsiri sahəsinə birbaşa keçə bilər!
@@ -138,7 +138,7 @@ Kəsişməni keçdikdən sonra nişan öz qüvvəsini itirir.
 
 
 # 7. 
- <h1 align="center">Qadağa nişanları  - №2 | Date: 04/04/2018; 
+ <h1 align="center">Qadağa nişanları  - №2 | Date: 04/04/2018; </h1>
 
 Iki oxlu yük avtomobilində arxa oxuna düşən faktiki ağırlığı tapmaq üçün avtomobilin ümumi faktiki ağırlığı 2/3-ə vurmaq lazımdır.
 Yük avtomobilində oxların sayı 2dən çoxdursa onun hər hansı oxuna düşən faktiki çəkini tapmaq üçün faktiki ağırlığı oxların sayına bölürlər.
@@ -153,7 +153,7 @@ Kitabda rəqəm ilə işarələdiyimiz 10 qadağa nişanın qüvvəsi [3.31] - n
 Max. sürət məhdudlaşdırılması nişanı bu qeyd etdiyimiz yerlərdən əlacə olaraq ağ fonun başlanğıcınıda daxil edir.
 
 # 8. 
- <h1 align="center">Məcburi nişanlar  | Date: 05/04/2018;
+ <h1 align="center">Məcburi nişanlar  | Date: 05/04/2018;</h1>
 
 4.4 məcburi nişan kütləsi 3.5t-dan çox olan yük avtomobilinin traktor və özügedən maşınların hərəkətini qadağan edir. 
 Əgər həmin ərazidə işləyib yaşayırsınızsa o əraziyə keçməyə icazə verirlir. (Məcburi 4.4 nişanı qadağa nişanı 3.5-in əkiz qardaşıdır.)
