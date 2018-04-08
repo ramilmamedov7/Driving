@@ -121,6 +121,7 @@ ___
  - Yaşayış məntəqəsindən kənarda **150-300m** məsafədə quraşdırılır.
 
 :x: [1.3.1 və 1.3.2](https://drive.google.com/file/d/1bhd5mUWT8xVOgB5zgfTDmrT70VhAQf4s/view?usp=sharing) nişanları bilavasitə dəmir yol ***keçidinin qarşısında*** quraşdırılır.
+
 :tram: [1.4.1 - 1.4.6](https://drive.google.com/file/d/1bhd5mUWT8xVOgB5zgfTDmrT70VhAQf4s/view?usp=sharing) nişanları ***yalnız yaşayış məntəqəsindən kənarda*** şlaqbaunlu və ya şlaqbaunsuz dəmir yol nişanı ilə birlikdə quraşdırılır. 
 
 :children_crossing: Bu **[\[6\]](https://drive.google.com/file/d/10qbLBsSj56g5YWahWqZAKVnqY_P--2TB/view?usp=sharing)** nişan ***yalnız yaşayış məntəqəsindən kənarda*** təhlükəli sahənin başlanğıcına **təkrar 50m**-dən bir quraşdırılır. 
@@ -138,18 +139,15 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
 # 6. 
  <h1 align="center">Qadağa nişanları  - №1 | Date: 03/04/2018; </h1>
 
-3.7 - Qoşqulu yük, traktor və yedəkdə nasaz (xarab) aparan bütün NV-lərin bu nişanın təsiri sahəsinə girişi qadağandır.
-Minik avtomobili qoşqu apararsa bu nişanın təsiri sahəsinə birbaşa keçə bilər!
+**[\[3.7\]](https://drive.google.com/file/d/15uMMQLymbabs19_T3vxjG89gmZNi3XM0/view?usp=sharing)** - **Qoşqulu yük, traktor və yedəkdə nasaz (xarab)** aparan bütün NV-lərin bu nişanın təsiri sahəsinə **girişi qadağandır.** Minik avtomobili qoşqu apararsa bu nişanın təsiri sahəsinə birbaşa keçə bilər.
 
-3.2-3.8 - Qadağa nişanları həmin ərazidə işləyib yaşayanlara aid edilmir.
+**[\[3.2 - 3.8\]](https://drive.google.com/file/d/1tqJgBy71tYn5x24tbr8o8TSR2goRzTxT/view?usp=sharing)** - **Bu qadağa nişanları həmin ərazidə işləyib yaşayanlara aid edilmir.**
 
-Sola dönməyə icazə verən nişanlar geriyə dönməyə də icazə verir lakin sola dönməyə qadağa edən nişanlar isə geriyə dönməni də qadağa edir!
+**`Sağa, sola, geriyə`** dönmək qadağandır nişanlarının **qüvvəsi birinci kəsişməyə aiddir**, kəsişməni keçdikdən sonra nişan öz qüvvəsini itirir.
 
-Bir istiqamətdə birdən artıq zolaq olduqda sağa dönən üçün sağ, sola dönən üçün isə sol zolaqda olmaq lazımdır.
-Sağa dönərkən yaxın sağa dönmək lazımdır.
-Sağa, sola, geriyə dönmək qadağandır nişanlarının qüvvəsi birinci kəsişməyə aiddir. 
-Kəsişməni keçdikdən sonra nişan öz qüvvəsini itirir.
-
+ - **Sola dönməyə icazə verən nişanlar geriyə dönməyə də icazə verir, lakin sola dönməyə qadağa edən nişanlar isə geriyə dönməni də qadağa edir!** 
+ -  **Bir istiqamətdə birdən artıq zolaq olduqda sağa dönən üçün sağ, sola dönən üçün isə sol zolaqda olmaq lazımdır.**
+  - **Sağa dönərkən yaxın sağa dönmək lazımdır.**
 
 # 7. 
  <h1 align="center">Qadağa nişanları  - №2 | Date: 04/04/2018; </h1>
