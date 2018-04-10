@@ -10,6 +10,7 @@
 - [6. Qadağa nişanlar - №1.](#6)
 - [7. Qadağa nişanları - №2.](#7)
 - [8. Məcburi nişanlar.](#8)
+- [9. Məlumatverici-Göstərici nişanlar.](#9)
 
 *By: <a href="https://rommel7.github.io">Ramil Mamedov.</a> All rights reserved 2018 ©.*
 
@@ -157,8 +158,8 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
 
 **[3.10], [3.27] - [3.30] - nişanlarının qüvvəsi yolun qoyulduğu tərəfəinə şamil olunur.**
 
- - Bu 10 qadağa nişanın qüvvəsi [3.31] - nışanına qədərdir.  
- - Əgər [3.31] yoxdursa bu 10 nişanın qüvvəsi yolayırıcına qədərdir.  
+ - Bu 10 qadağa nişanın qüvvəsi **[3.31]** - nışanına qədərdir.  
+ - Əgər **[3.31]** yoxdursa bu 10 nişanın qüvvəsi yolayırıcına qədərdir.  
  - Əgər yolayırıcı yoxdursa bu 10 nişanın qüvvəsi yaşayış məntəqəsinin qurtaracağına qədərdir. `(ağ fon üstü qırmızı xətt).` 
  - Əgər məntəqənin qurtaracağında nişan yoxdursa bu 10 nişanın qüvvəsi qarşıda müvafiq nişan qoyulmuş və ya nişan olan ikinci dərəcəli yollarla kəsişmə yerinə qədərdir.
 
@@ -168,8 +169,22 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
  <h1 align="center">Məcburi nişanlar  | Date: 05/04/2018;</h1>
 
 **[4.4]** - məcburi nişan kütləsi **3.5t-dan** çox olan **`yük avtomobilinin`**, **`traktorun`** və **`özügedən maşınların`** hərəkətini qadağan edir. Əgər həmin ərazidə işləyib yaşayırsınızsa o əraziyə keçməyə **icazə verirlir**. 
-- **Məcburi [4.4] nişanı [3.5] qadağa nişanı ilə eyni qüvvəlidir.**
+- **Məcburi [4.4] nişanı [3.4] qadağa nişanı ilə eyni qüvvəlidir.**
 
 **[4.1.1] - [4.1.6]** - nişanlarının qüvvəsi birinci kəsişməyə aiddir, kəsişməni keçdikdən sonra qüvvəsini itirir.
 
 **Yerə çəkilən** və **yuxarıdan asılan** nişanların qüvvəsi **bütün yolayırıcına aiddir**, yolayırıcını keçdikdən sonra qüvvəsini itirir.
+
+# 9. 
+ <h1 align="center">Məlumatverici-Göstərici nişanlar | Date: 10/04/2018;</h1>
+
+**[5.5], [5.6], [5.10.1]** - birtərəfli yol nişanında geriyə dönmək qardaşıdır.
+**[5.7.1], [5.7.2]** - birtərəfli hərəkət yoluna çıxış nişanı düzünə və geriyə getməyə icazə verir.
+
+ - **Geriyə dönmə həmişə sonuncu sol zolaqdan aparılmalıdır.**
+
+**[5.9]** - Ancaq ümumi istifadədə olan nəqliyyat vasitələri üçün təyin olunmuş zolaq nişanıdır.
+
+**[5.35] - [5.37]** - Reversiv hərəkət zolağına aid olan nişanlar.
+Reversiv svetaforu **yaşıl olduğu halda** reversiv zolağına çıxmağa **icazə verilir**.
+Reversiv svetaforu **qırmızı, söndürülmüş** və ya **ümumiyyətlə görünmədiyi halda** reversiv zolağa keçmək **qəti qadağandır!**
