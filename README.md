@@ -13,6 +13,7 @@
 - [08. Məcburi nişanlar.](#8)
 - [09. Məlumatverici-Göstərici nişanlar.](#9)
 - [10. Löhvəciklər.](#10)
+- [11. Nişanlama xətləri.](#11)
 
 *By: <a href="https://rommel7.github.io">Ramil Mamedov.</a> All rights reserved 2018 ©.*
 
@@ -91,8 +92,9 @@ ___
 ___
 **9.** Hərbi qulluqçular: **[CE], [CD], [D], [DE]** kategoriyalı sürücülük vəsiqələrinin hər birini **19 yaşdan** əldə edə bilərlər.
 
-## Kəmər :passport_control:
-**Yaşayış `məntəqəsində` və `məntəqədən kənarda` kimlərə təhlükəsizlik kəməri bağlamamağa icazə verilir:**
+ <h3 align="center">Kəmər </h3> 
+ 
+:passport_control:   **Yaşayış `məntəqəsində` və `məntəqədən kənarda` kimlərə təhlükəsizlik kəməri bağlamamağa icazə verilir:**
 
 |		Məntəqədə	   | Məntəqədən kənarda	         |
 |----------------------|----------------------------------|
@@ -208,3 +210,9 @@ Bu nişanlar olan sahədə kütləsindən asılı olmayaraq **yük avtomobillər
  - Sürücünün parklanma yerində 24 saatdan artıq artıq parklaması üçün "fərdi parklama talonu" olmalıdır. 
  - Sürücü ödənişli parklama yerində 15 dəqiqə müddətinə qədər parklama, ödəniş etməməsi qayda pozuntusu sayılmır. 
  - Səkinin kənarı = səkinin üstü.
+
+# 11. 
+ <h1 align="center">Nişanlama xətləri | Date: 12/04/2018;</h1>
+
+ 1. **Qoşa Xətt** - ancaq əks istiqamətli nəqliyyat axınını ayırır. 
+ 2. **Bütöv Xətt, Qırıq Xətt** və **Bir Bütöv - Bir Qırıq Xətt** isə həm əks həm də eyni istiqamətli nəqliyyat axınını ayırır.
