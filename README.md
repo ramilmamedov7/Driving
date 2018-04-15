@@ -1,20 +1,22 @@
+
 # <h1 align="center">Sürücülük  :vertical_traffic_light:   </h1>
 
 ## Mündəricat :books:
 
-- [1. Əsas anlayışlar - №1.](#1)
-- [2. Əsas anlayışlar - №2.](#2)
-- [3. Kategoriyalar.](#3)
-- [4. Sənədlər, Vəzifələr.](#4)
-- [5. Xəbərdarlıq, üstünlük nişanları.](#5)
-- [6. Qadağa nişanlar - №1.](#6)
-- [7. Qadağa nişanları - №2.](#7)
-- [8. Məcburi nişanlar.](#8)
-- [9. Məlumatverici-Göstərici nişanlar.](#9)
+- [01. Əsas anlayışlar - №1.](#1)
+- [02. Əsas anlayışlar - №2.](#2)
+- [03. Kategoriyalar.](#3)
+- [04. Sənədlər, Vəzifələr.](#4)
+- [05. Xəbərdarlıq, üstünlük nişanları.](#5)
+- [06. Qadağa nişanlar - №1.](#6)
+- [07. Qadağa nişanları - №2.](#7)
+- [08. Məcburi nişanlar.](#8)
+- [09. Məlumatverici-Göstərici nişanlar.](#9)
+- [10. Löhvəciklər.](#10)
 
 *By: <a href="https://rommel7.github.io">Ramil Mamedov.</a> All rights reserved 2018 ©.*
 
-# 1.
+# 01.
  <h1 align="center">Əsas anlayışlar - №1 | Date: 27/03/2018; </h1>
 
 - 2 motosikilet eni = 1 avtomovil eni;
@@ -33,7 +35,7 @@ Bitişik ərazilərdən yola çıxış yeri **yolayırıcı** hesab olunmur!
 Əgər **baş yol** nişanı yoxdursa, kəsişən yolun hər iki örtüyü bərk olarsa ``(asfalt, daş, beton)`` bu yollar - **eyni əhəmiyyətli yollar** hesab olunur. 
 Eyni əhəmiyyətli yolların kəsişməsində sağdan yaxınlaşan üstündür!
 
-# 2. 
+# 02. 
  <h1 align="center">Əsas anlayışlar - №2 | Date: 28/03/2018; </h1>
 
 **NV aşağıdaki 2 hissəyə bölünür: Mexaniki və Non-Mexaniki.**
@@ -57,7 +59,7 @@ Eyni əhəmiyyətli yolların kəsişməsində sağdan yaxınlaşan üstündür!
 
 Dayanma, durmanı qadağan olunduğu yollarda NV məcburi dayandıqda, NV-ni işarələmək üçün `qəza işıq siqnalları` və ya `qəza dayanma nişanı` :warning: quraşdırılmalıdır **[30m]**.
 
-# 3. 
+# 03. 
  <h1 align="center">Kategoriyalar  | Date: 29/03/2018; </h1>
  
  **1.**  :bicyclist: `Velosiped` və `arabaları` yollarda sürməyə **14 yaşından** icazə verilir.
@@ -101,7 +103,7 @@ ___
 `Sürməyi öyrədən şəxs.` 		      |`Sürməyi öyrədən şəxs.`
 
 
-# 4. 
+# 04. 
  <h1 align="center">Sənədlər, Vəzifələr | Date: 30/03/2018; </h1>
  
 **Avtomobildə bu sənədlərin olması mütləqdir:**  :bookmark_tabs: :page_facing_up: :page_with_curl: :passport_control:
@@ -113,7 +115,7 @@ ___
 - **Avtomobili əldə etdiyiniz 10 gün ərzində qeydiyyata salmaq lazımdır.**
 - **Mopedçilərin dəstəsi olmur!**
 
-# 5. 
+# 05. 
  <h1 align="center">Xəbərdarlıq, üstünlük nişanları | Date: 02/04/2018; </h1>
 
 **Xəbərdarlıq nişanlarının quraşdırılma məsafəsi:**
@@ -137,7 +139,7 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
  - Stop 🛑 
  - Yol Verin 🔻
 
-# 6. 
+# 06. 
  <h1 align="center">Qadağa nişanları  - №1 | Date: 03/04/2018; </h1>
 
 **[\[3.7\]](https://drive.google.com/file/d/15uMMQLymbabs19_T3vxjG89gmZNi3XM0/view?usp=sharing)** - **Qoşqulu yük, traktor və yedəkdə nasaz (xarab)** aparan bütün NV-lərin bu nişanın təsiri sahəsinə **girişi qadağandır.** Minik avtomobili qoşqu apararsa bu nişanın təsiri sahəsinə birbaşa keçə bilər.
@@ -150,13 +152,13 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
  -  **Bir istiqamətdə birdən artıq zolaq olduqda sağa dönən üçün sağ, sola dönən üçün isə sol zolaqda olmaq lazımdır.**
   - **Sağa dönərkən yaxın sağa dönmək lazımdır.**
 
-# 7. 
+# 07. 
  <h1 align="center">Qadağa nişanları  - №2 | Date: 04/04/2018; </h1>
 
 **İki oxlu yük avtomobilində** arxa oxuna düşən faktiki ağırlığı tapmaq üçün avtomobilin ümumi faktiki ağırlığı **2/3-ə vurmaq** lazımdır.
 **Oxların sayı 2-dən çox** olan yük avtomobilində hər hansı oxa düşən faktiki çəkini tapmaq üçün onun faktiki ağırlığını **oxlarının sayına bölmək** lazımdır.
 
-**[3.10], [3.27] - [3.30] - nişanlarının qüvvəsi yolun qoyulduğu tərəfəinə şamil olunur.**
+**[3.10], [3.27] <-> [3.30] - nişanlarının qüvvəsi yolun qoyulduğu tərəfəinə şamil olunur.**
 
  - Bu 10 qadağa nişanın qüvvəsi **[3.31]** - nışanına qədərdir.  
  - Əgər **[3.31]** yoxdursa bu 10 nişanın qüvvəsi yolayırıcına qədərdir.  
@@ -165,17 +167,17 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
 
 **Maksimum sürət məhdudlaşdırılması nişanı [3.24]** -  bu qeyd etdiyimiz yerlərdən əlavə olaraq yaşayış məntəqəsinin başlanğıcınıda daxil edir. `(ağ fon).`
 
-# 8. 
+# 08. 
  <h1 align="center">Məcburi nişanlar  | Date: 05/04/2018;</h1>
 
 **[4.4]** - məcburi nişan kütləsi **3.5t-dan** çox olan **`yük avtomobilinin`**, **`traktorun`** və **`özügedən maşınların`** hərəkətini qadağan edir. Əgər həmin ərazidə işləyib yaşayırsınızsa o əraziyə keçməyə **icazə verirlir**. 
 - **Məcburi [4.4] nişanı [3.4] qadağa nişanı ilə eyni qüvvəlidir.**
 
-**[4.1.1] - [4.1.6]** - nişanlarının qüvvəsi birinci kəsişməyə aiddir, kəsişməni keçdikdən sonra qüvvəsini itirir.
+**[4.1.1] <-> [4.1.6]** - nişanlarının qüvvəsi birinci kəsişməyə aiddir, kəsişməni keçdikdən sonra qüvvəsini itirir.
 
 **Yerə çəkilən** və **yuxarıdan asılan** nişanların qüvvəsi **bütün yolayırıcına aiddir**, yolayırıcını keçdikdən sonra qüvvəsini itirir.
 
-# 9. 
+# 09. 
  <h1 align="center">Məlumatverici-Göstərici nişanlar | Date: 10/04/2018;</h1>
 
 **[5.5], [5.6], [5.10.1]** - birtərəfli yol nişanında geriyə dönmək qardaşıdır.
@@ -185,6 +187,24 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
 
 **[5.9]** - Ancaq ümumi istifadədə olan nəqliyyat vasitələri üçün təyin olunmuş zolaq nişanıdır.
 
-**[5.35] - [5.37]** - Reversiv hərəkət zolağına aid olan nişanlar.
+**[5.35] <-> [5.37]** - Reversiv hərəkət zolağına aid olan nişanlar.
 Reversiv svetaforu **yaşıl olduğu halda** reversiv zolağına çıxmağa **icazə verilir**.
 Reversiv svetaforu **qırmızı, söndürülmüş** və ya **ümumiyyətlə görünmədiyi halda** reversiv zolağa keçmək **qəti qadağandır!**
+
+
+# 10. 
+ <h1 align="center">Löhvəciklər | Date: 11/04/2018;</h1>
+
+**[7.2.2 <-> 7.2.7]** - Ancaq və ancaq dayanmaq və durmaq qadağandır nişanları ilə birlikdə tədbiq olunur.
+
+ <h3 align="center">Parklama</h3>
+ 
+**[7.6.1, 7.6.4, 7.6.5]** - Bu nişanlar olan sahədə səkiyə paralel və ya perpendikulyar parklamağa kütləsi 3.5t-dan artıq olmayan avtomobillərə və digər NV-lərinə icazə verilir.
+Bu nişanlar olan sahədə kütləsi **3.5-dan artıq olan avtomobillərin parklanması qadağandır!**
+
+**[7.6.2, 7.6.3]** və **[7.6.6 <-> 7.6.9]** - Bu nişanlar olan sahədə səkiyə çıxmaqla parklamağa yalnız minik avtomobillərinə, motosikiletlərə, velosipedlərə və mopedlərə icazə verilir.
+Bu nişanlar olan sahədə kütləsindən asılı olmayaraq **yük avtomobillərinin səkiyə çıxaraq parklanması qəti qadağandır!**
+
+ - Sürücünün parklanma yerində 24 saatdan artıq artıq parklaması üçün "fərdi parklama talonu" olmalıdır. 
+ - Sürücü ödənişli parklama yerində 15 dəqiqə müddətinə qədər parklama, ödəniş etməməsi qayda pozuntusu sayılmır. 
+ - Səkinin kənarı = səkinin üstü.
