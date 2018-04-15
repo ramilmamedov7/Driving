@@ -3,15 +3,15 @@
 
 ## Mündəricat :books:
 
-- [01. Əsas anlayışlar - №1.](#1)
-- [02. Əsas anlayışlar - №2.](#2)
+- [01. Əsas anlayışlar - №1.](#01)
+- [02. Əsas anlayışlar - №2.](#02)
 - [03. Kategoriyalar.](#3)
-- [04. Sənədlər, Vəzifələr.](#4)
-- [05. Xəbərdarlıq, üstünlük nişanları.](#5)
-- [06. Qadağa nişanlar - №1.](#6)
-- [07. Qadağa nişanları - №2.](#7)
-- [08. Məcburi nişanlar.](#8)
-- [09. Məlumatverici-Göstərici nişanlar.](#9)
+- [04. Sənədlər, Vəzifələr.](#04)
+- [05. Xəbərdarlıq, üstünlük nişanları.](#05)
+- [06. Qadağa nişanlar - №1.](#06)
+- [07. Qadağa nişanları - №2.](#07)
+- [08. Məcburi nişanlar.](#08)
+- [09. Məlumatverici-Göstərici nişanlar.](#09)
 - [10. Löhvəciklər.](#10)
 - [11. Nişanlama xətləri.](#11)
 
