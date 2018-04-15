@@ -5,7 +5,7 @@
 
 - [01. Əsas anlayışlar - №1.](#01)
 - [02. Əsas anlayışlar - №2.](#02)
-- [03. Kategoriyalar.](#3)
+- [03. Kategoriyalar.](#03)
 - [04. Sənədlər, Vəzifələr.](#04)
 - [05. Xəbərdarlıq, üstünlük nişanları.](#05)
 - [06. Qadağa nişanlar - №1.](#06)
