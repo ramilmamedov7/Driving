@@ -3,18 +3,20 @@
 
 ## Mündəricat :books:
 
-- [01. Əsas anlayışlar - №1.](#01)
-- [02. Əsas anlayışlar - №2.](#02)
-- [03. Kategoriyalar.](#03)
-- [04. Sənədlər, Vəzifələr.](#04)
-- [05. Xəbərdarlıq, üstünlük nişanları.](#05)
-- [06. Qadağa nişanlar - №1.](#06)
-- [07. Qadağa nişanları - №2.](#07)
-- [08. Məcburi nişanlar.](#08)
-- [09. Məlumatverici-Göstərici nişanlar.](#09)
+- [01. Əsas anlayışlar - №1.](#1)
+- [02. Əsas anlayışlar - №2.](#2)
+- [03. Kategoriyalar.](#3)
+- [04. Sənədlər, Vəzifələr.](#4)
+- [05. Xəbərdarlıq, üstünlük nişanları.](#5)
+- [06. Qadağa nişanlar - №1.](#6)
+- [07. Qadağa nişanları - №2.](#7)
+- [08. Məcburi nişanlar.](#8)
+- [09. Məlumatverici-Göstərici nişanlar.](#9)
 - [10. Löhvəciklər.](#10)
 - [11. Nişanlama xətləri.](#11)
-
+- [12. Yolayırıcının keçilməsi.](#12)
+- [13. Yolayırıcının keçilməsi - №2.](#13)
+- [14. Nizamlayıcının siqnalları.](#14)
 *By: <a href="https://rommel7.github.io">Ramil Mamedov.</a> All rights reserved 2018 ©.*
 
 # 01.
@@ -212,7 +214,78 @@ Bu nişanlar olan sahədə kütləsindən asılı olmayaraq **yük avtomobillər
  - Səkinin kənarı = səkinin üstü.
 
 # 11. 
- <h1 align="center">Nişanlama xətləri | Date: 12/04/2018;</h1>
+ <h1 align="center">Nişanlama xətləri  | Date: 12/04/2018;</h1>
 
  1. **Qoşa Xətt** - ancaq əks istiqamətli nəqliyyat axınını ayırır. 
  2. **Bütöv Xətt, Qırıq Xətt** və **Bir Bütöv - Bir Qırıq Xətt** isə həm əks həm də eyni istiqamətli nəqliyyat axınını ayırır.
+
+# 12. 
+ <h1 align="center">Yolayırıcının keçilməsi | Date: 13/04/2018;</h1>
+ 
+Yolayırıcı 2 hissəyə bölünür:
+1) Nizamlanan;
+2) Nizamlanmayan;
+
+Nizamlanmayan yolayırıcı özü də 2 hissəyə bölünür:
+1) Eyni əhəmiyyətli;
+2) Eyni əhəmiyyətli olmayan yolların kəsişməsi;
+
+Eyni əhəmiyyətli yolların kəsişməsində sağdan gələn üstündür, əgər traektoriyası kəsişərsə. (Test 1,2,3,4)
+
+Test 5-in izahı:
+Eyni əhəmiyyətli yolların kəsişməsində B sağda yerləşir və geriyə dönür. Traektoriyası kəsişdiyi üçün A, B-yə yol verməlidir...amma vəziyyət dəyişir, B yolayırıcına girib maşını fırladır, A - keçir və sonda isə B geriyə dönməni başa çatdırır.
+Qayda: Eyni əhəmiyyətli yolların kəsişməsində geriyə dönən varsa o yolayırıcına çıxdıqdan sonra gözləməlidir, çünki yolayırıcına çıxdıqdan sonra solda qalacaq.
+
+Test 6-nın izahı:
+Eyni əhəmiyyətli yolların kəsişməsi sağa dönən varsa o I keçir. Sağdan gələn ilə traektoriyası kəsişməzsə hər ikisi eyni vaxta dönə bilər.
+
+Test 7, 8, 9-ın izahı:
+Qarşı-qarşıya (Üzbə-üz) qaydası: Geriyə gedən üstündür!
+Qarşı-qarşıya olduqda, sola və ya geriyə dönən sürücü, düz və ya sağa dönən sürücüyə yol verməlidir.
+Düz və ya sağa gedən qısa gedəndir!
+
+Test 10-un izahı:
+Eyni əhəmiyyətli yolların kəsişməsində 3 NV-nin traektoriyası kəsişərsə ən I fikir verin ki, sağa dönən varsa o I keçir. Sonra qarşı-qarşıya olanlarda qısa gedən keçir.
+
+Test 11-in izahı:
+Əgər sağa dönən yoxdursa, fikir verin ki, ən sağda kim yerləşir və kimin sağı boşdursa, qısa gedirsə o heç kimə yol verməyəcək, fırlatma qaydası baş verəcək.
+
+Test 12-nin izahı:
+ən sağda yerləşən və sağı boş olan əgər uzun gedərsə I yolayırıcına girərək, qarşıdan gələnə yol vermək üçün dayancaq, bu zaman solda yerləşən NV-nin sağı boş olacaq və o I keçəcək. Sonra qarşıdan gələn keçəcək və ən sonda yolayırıcına I girən keçib gedəcək. (Peşmançılıq qaydası)
+
+Test 16-nın izahı:
+Əgər NV-lərin hər ikisi uzun gedərsə, heç biri bir-birinə yol verməyəcək və furlatma qaydası tətbiq olunacaq.
+
+Test 22-nin izahı:
+Əgər 4 avtomobilin traektoriyası kəsişərsə və sağa dönən yoxdursa onda bu hal qanunda müəyyən edilməyib.
+
+Tramvay bütün hallarda bizə qarşı üstündür. (Yolayırıcı sayılmayan yerlərdə)
+
+Tramvay bizə qarşı olan üstünlüyünü 2 halda itirə bilər:
+1) Depodan çıxanda;
+2) II dərəcəli yolda olanda;
+
+# 13. 
+ <h1 align="center">Yolayırıcının keçilməsi №2 | Date: 16/04/2018;</h1>
+
+
+Eyni əhəmiyyətli olmayan yolların kəsişməsində I baş yolda olanlar keçir, sonra isə II dərəcəli yolda olanlar.
+Svetafor yolun üstünlük nişanlarını ləğv edir!
+
+Qarşımızda olan nişanın üstü qar və ya palçıq ilə örtülü olarsa, özümüzü II dərəcəli yolda hesab edirik və qarşıdan yaxınlaşan NV-lərə yol verməyə hazır olmalıyıq.
+
+Qarşımızda svetaforun əlavə bölməsi yanarsa özümüzü II dərəcəli yolda hesab edirik, kəsişən yolda qarşısında svetaforun əsas bölməsi yaşıl yanan NV-lərə yol verməliyik.
+
+Qırmızıya düşmüş sürücü üstündür, ona yolayırıcını tərk etmək üçün imkan vermək lazımdır.
+
+Yolu keçmək NİYYƏTİN-də olan piyada sonda keçir. 
+
+# 14. 
+ <h1 align="center">Nizamlayıcının siqnalları | Date: 17/04/2018;</h1>
+ 
+a) Diqqət. Hərəkət qadağandır - bütün NV-lərə hərəkəti qadağan edir.
+b) Müəyyən istiqamət üzrə hərəkət - [] bu üç siqnalların mənası eynidir. Sinə və arxa tərəfdən gələn NV-lərə hərəkət qadağandır, nizamlayıcının sağ və ya sol tərəfindən gələn NV-lərə düzünə və sağa, tramvaylar isə ancaq düzünə hərəkət edə bilər. Bu siqnalda piyadalar sinə və arxa tərəfdən keçə bilər.
+v) Sola dönmə - bu siqnalda nizamlayıcının arxa və dirsək tərəfindən yaxınlaşan NV-lərə hərəkət qadağandır. Üzü Jezlə olan bütün NV-lər ancaq sağa getməlidir. Qolun içini görən NV-lər bütün istiqamətlərə, tramvaylar isə ancaq sola getməlidir. Bu siqnalda piyadalar ancaq arxadan keçə bilər.
+
+Nizamlayıcı fitdən yol hərəkəti iştirakçılarının diqqətini cəlb eləmək üçün istifadə edə bilər.
+Nizamlayıcının əmri ilə nişan zid olarsa nizamlayıcının əmri üstündür. 
