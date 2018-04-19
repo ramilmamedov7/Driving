@@ -17,6 +17,7 @@
 - [12. Yolayırıcının keçilməsi.](#12)
 - [13. Yolayırıcının keçilməsi - №2.](#13)
 - [14. Nizamlayıcının siqnalları.](#14)
+
 *By: <a href="https://rommel7.github.io">Ramil Mamedov.</a> All rights reserved 2018 ©.*
 
 # 01.
