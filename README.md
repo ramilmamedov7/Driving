@@ -17,6 +17,9 @@
 - [12. Yolayırıcının keçilməsi.](#12)
 - [13. Yolayırıcının keçilməsi - №2.](#13)
 - [14. Nizamlayıcının siqnalları.](#14)
+- [15. Xarici işıq cihazları.](#15)
+- [16. Hərəkət təhlükəsizliyinin əsasları.](#16)
+  
 
 *By: <a href="https://rommel7.github.io">Ramil Mamedov.</a> All rights reserved 2018 ©.*
 
@@ -290,3 +293,61 @@ v) Sola dönmə - bu siqnalda nizamlayıcının arxa və dirsək tərəfindən y
 
 Nizamlayıcı fitdən yol hərəkəti iştirakçılarının diqqətini cəlb eləmək üçün istifadə edə bilər.
 Nizamlayıcının əmri ilə nişan zid olarsa nizamlayıcının əmri üstündür. 
+
+# 15. 
+ <h1 align="center">Xarici işıq cihazları | Date: 19/04/2018;</h1>
+
+### NV hərəkətdə olarkən:
+1) Sutkanın qaranlıq vaxtı yolun işıqlandırılan sahəsində - yaxın işıqları yandırmalısınız.
+Duman faralarından və uzaq işıqlardan istifadə etmək qadağandır.
+
+2) Sutkanın qaranlıq vaxtı yolun işıqlandırılmayan sahəsində - yaxın və ya uzaq işıqlar yandırmalısınız.
+Duman faralarını yandırmaq istəsəz yaxın və ya uzaq işıq faraları ilə birlikdə yandıra bilərsiniz.
+Duman faralarını ayrıca yandıram olmaz.
+
+3) Məhdud görünmə şəraitində - yaxın və ya uzaq işıq faralarını yandırmalısınız.
+Duman faralarını həm ayrıca həm də yaxın və ya uzaq işıq faraları ilə birlikdə yandırmaq olar.
+
+4) Tunnellərdə hərəkətdə olan NV-lər və yedəyə alan NV-lər - yaxın və ya uzaq işıq faraları yandırmalıdır.
+Tunneldə duman faralarını yandırmaq qadağandır.
+Yedəyə alınan NV-də və ya qoşqularda qabarit işıqları yandırmalıdır.
+Yedəyə alınan NV-də qabarit işıqları ilə yanaşı yedəyə alan NV-nin siqnallarına uyğun siqnal verilməlidir.
+
+5) Sutkanın işıqlı vaxtı - maddə 70-in V bəndində göstərilən NV-ləri yaxın işıqlar və ya duman faraları yandırmalıdır.
+Yaxın işıqlar və duman faraları birlikdə yandırıla bilməz.
+
+### Qeyd: 
+- Duman faraları qabaqda olur, duman fənərləri arxada.
+- Arxa duman fənəri yalnız məhdud görünmə şəraitində yandırılır.
+
+### NV dayanarkən, durarkən:
+1) Sutkanın qaranlıq vaxtı yolun işıqlandırılmayan sahəsində və yaxud məhdud görünmə şəraitində dayanarkən və ya durarkən qabarit işıqları yandırılmalıdır.
+- Qatı duman şəraitində güclü qar və ya yağış olarsa bu zaman qabarit işıqları ilə birlikdə yaxın işıq, duman faraları və ya fənərləri yandırıla bilər.
+- Əgər qabarit işıq nasazdırsa NV-ni yoldan kənara çıxarmalı, bu mümkün olmadıqda qəza dayanma nişanı quraşdırılmalıdır.
+
+2) Aşağıdakı hallarda işıq cihazları söndürülmüşdür vəziyyətdə duracaqda saxlaya bilərik:
+a) işıqlandırılmış yollarda NV kifayət qədər məsafədə aydın görünərsə;
+b) yoldan kənar saxladıqda;
+c) akkumiliyator-la təchiz olunmamış motosikletlər dayandıqda;
+d) yaşayış məntəqələrində, hərəkət gərginliyi az olan yerlərdə.
+
+- Avtoqatar tanınma nişanı sutkanın işıqlı vaxtı, hərəkətdə olarkən yandırmalır.
+- Avtoqatar tanınma nişanı sutkanın qaranlıq vaxtı və məhdud görünmə şəraitində həm hərəkətdə olarkən həm də dayanarkən-durarkən yandırmalır.
+
+### Ötmə barədə işıq siqnallarının:
+1) Sutkanın işıqlı vaxtı, faraların yaxın işıqlarını qısa müddətdə yandırıb-söndürməklə verilir;
+
+2) Sutkanın qaranlıq vaxtı, yaxın işıqları dəfələrlə uzaq işıqlara keçirməklə verilir.
+
+
+# 16. 
+ <h1 align="center">Hərəkət təhlükəsizliyinin əsasları | Date: 20/04/2018;</h1>
+
+- Kiçik radiuslu döngələr avtomobili daha tez aşırır.
+- Dumanlı hava şəraitində qarşıdan gələn avtomobilə qədər olan məsafə realda olandan uzaq sürət isə realda olandan aşağı görünür.
+- Yolayırıcı sayılmayaan yerlərdə geriyə hərəkət edərkən üçbucaq alındığı manevr daha təhlükəsizdir.
+- ABC tormoz sistemi olan NV-lərdə tormoz pedalını sıxıb saxlamaq lazımdır.
+- ABC tormoz sistemi olmayan NV-lərdə tormoz pedalını sıxıb buraxmaq lazımdır.
+- Yoxuşda NV-ni yolun hərəkət hissəsində saxlayarkən qabaq təkərləri yola tərəf çevirmək lazımdır.
+- Enişdə NV-ni yolun hərəkət hissəsində saxlayarkən qabaq təkərləri bardürə tərəf çevirmək lazımdır.
+- Avtomobili yol çiynində saxlayarkən eniş-yoxuş fərq etmir - hər iki halda qabaq təkərləri yoldan kənara tərəf furlatmaq lazımdır.
