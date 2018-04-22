@@ -3,15 +3,15 @@
 
 ## Mündəricat :books:
 
-- [01. Əsas anlayışlar - №1.](#1)
-- [02. Əsas anlayışlar - №2.](#2)
-- [03. Kategoriyalar.](#3)
-- [04. Sənədlər, Vəzifələr.](#4)
-- [05. Xəbərdarlıq, üstünlük nişanları.](#5)
-- [06. Qadağa nişanlar - №1.](#6)
-- [07. Qadağa nişanları - №2.](#7)
-- [08. Məcburi nişanlar.](#8)
-- [09. Məlumatverici-Göstərici nişanlar.](#9)
+- [01. Əsas anlayışlar - №1.](#01)
+- [02. Əsas anlayışlar - №2.](#02)
+- [03. Kategoriyalar.](#03)
+- [04. Sənədlər, Vəzifələr.](#04)
+- [05. Xəbərdarlıq, üstünlük nişanları.](#05)
+- [06. Qadağa nişanlar - №1.](#06)
+- [07. Qadağa nişanları - №2.](#07)
+- [08. Məcburi nişanlar.](#08)
+- [09. Məlumatverici-Göstərici nişanlar.](#09)
 - [10. Löhvəciklər.](#10)
 - [11. Nişanlama xətləri.](#11)
 - [12. Yolayırıcının keçilməsi.](#12)
@@ -226,128 +226,129 @@ Bu nişanlar olan sahədə kütləsindən asılı olmayaraq **yük avtomobillər
 # 12. 
  <h1 align="center">Yolayırıcının keçilməsi | Date: 13/04/2018;</h1>
  
-Yolayırıcı 2 hissəyə bölünür:
+**Yolayırıcı 2 hissəyə bölünür:**
 1) Nizamlanan;
 2) Nizamlanmayan;
 
-Nizamlanmayan yolayırıcı özü də 2 hissəyə bölünür:
+**Nizamlanmayan yolayırıcı özü də 2 hissəyə bölünür:**
 1) Eyni əhəmiyyətli;
 2) Eyni əhəmiyyətli olmayan yolların kəsişməsi;
 
-Eyni əhəmiyyətli yolların kəsişməsində sağdan gələn üstündür, əgər traektoriyası kəsişərsə. (Test 1,2,3,4)
+- **Eyni əhəmiyyətli yolların kəsişməsində NV-lərin traektoriyası kəsişərsə, sağdan gələn üstündür! (Test 1,2,3,4).**
+- **Tramvay bütün hallarda bizə qarşı üstündür. (Yolayırıcı sayılmayan yerlərdə).**
+- **Tramvay bizə qarşı olan üstünlüyünü 2 halda itirə bilər:**
+	1) Depodan çıxanda;
+	2) II dərəcəli yolda olanda;
 
-Test 5-in izahı:
+### Test 5-in izahı:
 Eyni əhəmiyyətli yolların kəsişməsində B sağda yerləşir və geriyə dönür. Traektoriyası kəsişdiyi üçün A, B-yə yol verməlidir...amma vəziyyət dəyişir, B yolayırıcına girib maşını fırladır, A - keçir və sonda isə B geriyə dönməni başa çatdırır.
 Qayda: Eyni əhəmiyyətli yolların kəsişməsində geriyə dönən varsa o yolayırıcına çıxdıqdan sonra gözləməlidir, çünki yolayırıcına çıxdıqdan sonra solda qalacaq.
-
-Test 6-nın izahı:
+### Test 6-nın izahı:
 Eyni əhəmiyyətli yolların kəsişməsi sağa dönən varsa o I keçir. Sağdan gələn ilə traektoriyası kəsişməzsə hər ikisi eyni vaxta dönə bilər.
-
-Test 7, 8, 9-ın izahı:
+### Test 7, 8, 9-ın izahı:
 Qarşı-qarşıya (Üzbə-üz) qaydası: Geriyə gedən üstündür!
 Qarşı-qarşıya olduqda, sola və ya geriyə dönən sürücü, düz və ya sağa dönən sürücüyə yol verməlidir.
 Düz və ya sağa gedən qısa gedəndir!
-
-Test 10-un izahı:
+### Test 10-un izahı:
 Eyni əhəmiyyətli yolların kəsişməsində 3 NV-nin traektoriyası kəsişərsə ən I fikir verin ki, sağa dönən varsa o I keçir. Sonra qarşı-qarşıya olanlarda qısa gedən keçir.
-
-Test 11-in izahı:
+### Test 11-in izahı:
 Əgər sağa dönən yoxdursa, fikir verin ki, ən sağda kim yerləşir və kimin sağı boşdursa, qısa gedirsə o heç kimə yol verməyəcək, fırlatma qaydası baş verəcək.
-
-Test 12-nin izahı:
+### Test 12-nin izahı:
 ən sağda yerləşən və sağı boş olan əgər uzun gedərsə I yolayırıcına girərək, qarşıdan gələnə yol vermək üçün dayancaq, bu zaman solda yerləşən NV-nin sağı boş olacaq və o I keçəcək. Sonra qarşıdan gələn keçəcək və ən sonda yolayırıcına I girən keçib gedəcək. (Peşmançılıq qaydası)
-
-Test 16-nın izahı:
+### Test 16-nın izahı:
 Əgər NV-lərin hər ikisi uzun gedərsə, heç biri bir-birinə yol verməyəcək və furlatma qaydası tətbiq olunacaq.
-
-Test 22-nin izahı:
+### Test 22-nin izahı:
 Əgər 4 avtomobilin traektoriyası kəsişərsə və sağa dönən yoxdursa onda bu hal qanunda müəyyən edilməyib.
 
-Tramvay bütün hallarda bizə qarşı üstündür. (Yolayırıcı sayılmayan yerlərdə)
 
-Tramvay bizə qarşı olan üstünlüyünü 2 halda itirə bilər:
-1) Depodan çıxanda;
-2) II dərəcəli yolda olanda;
+
 
 # 13. 
  <h1 align="center">Yolayırıcının keçilməsi №2 | Date: 16/04/2018;</h1>
 
-
-Eyni əhəmiyyətli olmayan yolların kəsişməsində I baş yolda olanlar keçir, sonra isə II dərəcəli yolda olanlar.
-Svetafor yolun üstünlük nişanlarını ləğv edir!
-
-Qarşımızda olan nişanın üstü qar və ya palçıq ilə örtülü olarsa, özümüzü II dərəcəli yolda hesab edirik və qarşıdan yaxınlaşan NV-lərə yol verməyə hazır olmalıyıq.
-
-Qarşımızda svetaforun əlavə bölməsi yanarsa özümüzü II dərəcəli yolda hesab edirik, kəsişən yolda qarşısında svetaforun əsas bölməsi yaşıl yanan NV-lərə yol verməliyik.
-
-Qırmızıya düşmüş sürücü üstündür, ona yolayırıcını tərk etmək üçün imkan vermək lazımdır.
-
-Yolu keçmək NİYYƏTİN-də olan piyada sonda keçir. 
+- **Eyni əhəmiyyətli olmayan yolların kəsişməsində I baş yolda olanlar keçir, sonra isə II dərəcəli yolda olanlar.**
+- **Svetafor yolun üstünlük nişanlarını ləğv edir!**
+- **Qarşımızda olan nişanın üstü qar və ya palçıq ilə örtülü olarsa, özümüzü II dərəcəli yolda hesab edirik və qarşıdan yaxınlaşan NV-lərə yol verməyə hazır olmalıyıq.**
+- **Qarşımızda svetaforun əlavə bölməsi yanarsa özümüzü II dərəcəli yolda hesab edirik, kəsişən yolda qarşısında svetaforun əsas bölməsi yaşıl yanan NV-lərə yol verməliyik.**
+- **Qırmızıya düşmüş sürücü üstündür, ona yolayırıcını tərk etmək üçün imkan vermək lazımdır.**
+- **Yolu keçmək NİYYƏTİN-də olan piyada sonda keçir.**
 
 # 14. 
  <h1 align="center">Nizamlayıcının siqnalları | Date: 17/04/2018;</h1>
  
-a) Diqqət. Hərəkət qadağandır - bütün NV-lərə hərəkəti qadağan edir.
-b) Müəyyən istiqamət üzrə hərəkət - [] bu üç siqnalların mənası eynidir. Sinə və arxa tərəfdən gələn NV-lərə hərəkət qadağandır, nizamlayıcının sağ və ya sol tərəfindən gələn NV-lərə düzünə və sağa, tramvaylar isə ancaq düzünə hərəkət edə bilər. Bu siqnalda piyadalar sinə və arxa tərəfdən keçə bilər.
-v) Sola dönmə - bu siqnalda nizamlayıcının arxa və dirsək tərəfindən yaxınlaşan NV-lərə hərəkət qadağandır. Üzü Jezlə olan bütün NV-lər ancaq sağa getməlidir. Qolun içini görən NV-lər bütün istiqamətlərə, tramvaylar isə ancaq sola getməlidir. Bu siqnalda piyadalar ancaq arxadan keçə bilər.
+a) **"Diqqət. Hərəkət qadağandır"** - bütün NV-lərə hərəkəti qadağan edir.
+b) **"Müəyyən istiqamət üzrə hərəkət"** - [] bu üç siqnalların mənası eynidir. 
 
-Nizamlayıcı fitdən yol hərəkəti iştirakçılarının diqqətini cəlb eləmək üçün istifadə edə bilər.
-Nizamlayıcının əmri ilə nişan zid olarsa nizamlayıcının əmri üstündür. 
+   - Nizamlayıcının sinə və arxa tərəfdən gələn NV-lərə hərəkət qadağandır.
+	- Nizamlayıcının sağ və ya sol tərəfindən gələn NV-lərə ancaq düzünə və sağa gedə bilər. 
+   	- Tramvaylar ancaq düzünə hərəkət edə bilər. 
+   	- Bu siqnalda piyadalar ancaq sinə və arxa tərəfdən keçə bilər.
+
+v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfindən yaxınlaşan NV-lərə hərəkət qadağandır. 
+- Üzü jezlə olan bütün NV-lər ancaq sağa getməlidir. 
+- Qolun içini görən NV-lər bütün istiqamətlərə gedə bilər, 
+- Tramvaylar ancaq sola getməlidir. 
+- Bu siqnalda piyadalar ancaq arxadan keçə bilər.
+
+### Qeyd: 
+- **Nizamlayıcı fitdən yol hərəkəti iştirakçılarının diqqətini cəlb eləmək üçün istifadə edə bilər.**
+- **Nizamlayıcının əmri ilə nişan zid olarsa nizamlayıcının əmri üstündür.** 
 
 # 15. 
  <h1 align="center">Xarici işıq cihazları | Date: 19/04/2018;</h1>
 
 ### NV hərəkətdə olarkən:
-1) Sutkanın qaranlıq vaxtı yolun işıqlandırılan sahəsində - yaxın işıqları yandırmalısınız.
-Duman faralarından və uzaq işıqlardan istifadə etmək qadağandır.
+1) **Sutkanın qaranlıq vaxtı, yolun işıqlandırılan sahəsində** - ``yaxın işıq`` faralarını yandırmalısınız.
+	- Bu şəraitdə **duman faralarından** və **uzaq işıq** faralarından istifadə etmək **qadağandır!**
 
-2) Sutkanın qaranlıq vaxtı yolun işıqlandırılmayan sahəsində - yaxın və ya uzaq işıqlar yandırmalısınız.
-Duman faralarını yandırmaq istəsəz yaxın və ya uzaq işıq faraları ilə birlikdə yandıra bilərsiniz.
-Duman faralarını ayrıca yandıram olmaz.
+2) **Sutkanın qaranlıq vaxtı yolun işıqlandırılmayan sahəsində** - ``yaxın-uzaq işıq`` faralarını yandırmalısınız.
+	- Bu şəraitdə **duman faralarını** yandırmaq istəsəniz **yaxın-uzaq işıq faraları ilə birlikdə** yandıra bilərsiniz.
+	- **Duman faralarını ayrıca yandırmaq olmaz!**
 
-3) Məhdud görünmə şəraitində - yaxın və ya uzaq işıq faralarını yandırmalısınız.
-Duman faralarını həm ayrıca həm də yaxın və ya uzaq işıq faraları ilə birlikdə yandırmaq olar.
+3) **Məhdud görünmə şəraitində** - ``yaxın-uzaq işıq`` faralarını yandırmalısınız.
+	- Bu şəraitdə **duman faralarını** - ``həm ayrıca, həm də yaxın-uzaq işıq`` faraları ilə birlikdə yandırmaq olar.
 
-4) Tunnellərdə hərəkətdə olan NV-lər və yedəyə alan NV-lər - yaxın və ya uzaq işıq faraları yandırmalıdır.
-Tunneldə duman faralarını yandırmaq qadağandır.
-Yedəyə alınan NV-də və ya qoşqularda qabarit işıqları yandırmalıdır.
-Yedəyə alınan NV-də qabarit işıqları ilə yanaşı yedəyə alan NV-nin siqnallarına uyğun siqnal verilməlidir.
+4) **Tunnellərdə hərəkətdə olan və yedəyə alan NV-lər** - ``yaxın-uzaq işıq`` faraları yandırmalıdır.
+	- **Tunneldə duman faralarını yandırmaq qadağandır!**
+	- Tuneldə **yedəyə alınan NV** və **qoşqular** ``qabarit işıqları`` yandırmalıdır.
+	- Yedəyə alınan NV (nasaz) - yedəyə alan NV-nin siqnallarına uyğun siqnal verilməlidir.
 
-5) Sutkanın işıqlı vaxtı - maddə 70-in V bəndində göstərilən NV-ləri yaxın işıqlar və ya duman faraları yandırmalıdır.
-Yaxın işıqlar və duman faraları birlikdə yandırıla bilməz.
+5) **Sutkanın işıqlı vaxtı** - aşağıda göstərilən NV-lər ``yaxın işıqları`` və ya ``duman faralarını`` yandırmalıdır (maddə 70 - V bənd):
+
+	- **Bu şəraitdə yaxın işıqlar və duman faraları birlikdə yandırıla bilməz.**
 
 ### Qeyd: 
-- Duman faraları qabaqda olur, duman fənərləri arxada.
-- Arxa duman fənəri yalnız məhdud görünmə şəraitində yandırılır.
+- **Duman faraları qabaqda olur, duman fənərləri arxada.**
+- **Arxa duman fənəri yalnız məhdud görünmə şəraitində yandırılır.**
 
 ### NV dayanarkən, durarkən:
-1) Sutkanın qaranlıq vaxtı yolun işıqlandırılmayan sahəsində və yaxud məhdud görünmə şəraitində dayanarkən və ya durarkən qabarit işıqları yandırılmalıdır.
-- Qatı duman şəraitində güclü qar və ya yağış olarsa bu zaman qabarit işıqları ilə birlikdə yaxın işıq, duman faraları və ya fənərləri yandırıla bilər.
-- Əgər qabarit işıq nasazdırsa NV-ni yoldan kənara çıxarmalı, bu mümkün olmadıqda qəza dayanma nişanı quraşdırılmalıdır.
+1) **Sutkanın qaranlıq vaxtı yolun işıqlandırılmayan sahəsində və məhdud görünmə şəraitində dayanarkən və ya durarkən** - ``qabarit işıqları`` yandırılmalıdır.
+	- Qatı duman şəraitində güclü qar və ya yağış olarsa bu zaman ``qabarit işıqları`` ilə birlikdə ``yaxın işıq``, ``duman faraları`` və ya ``duman fənərləri`` yandırıla bilər.
+	- Əgər qabarit işıq nasazdırsa NV-ni yoldan kənara çıxarmalı, bu mümkün olmadıqda isə qəza dayanma nişanı quraşdırılmalıyıq.
 
-2) Aşağıdakı hallarda işıq cihazları söndürülmüşdür vəziyyətdə duracaqda saxlaya bilərik:
+2) **Aşağıdakı hallarda, işıq cihazları söndürülmüşdür vəziyyətdə NV-ni duracaqda saxlaya bilərik:**
 a) işıqlandırılmış yollarda NV kifayət qədər məsafədə aydın görünərsə;
 b) yoldan kənar saxladıqda;
-c) akkumiliyator-la təchiz olunmamış motosikletlər dayandıqda;
+c) akkumiliyator-la təchiz olunmamış motosikletlər saxladıqda;
 d) yaşayış məntəqələrində, hərəkət gərginliyi az olan yerlərdə.
 
 - Avtoqatar tanınma nişanı sutkanın işıqlı vaxtı, hərəkətdə olarkən yandırmalır.
 - Avtoqatar tanınma nişanı sutkanın qaranlıq vaxtı və məhdud görünmə şəraitində həm hərəkətdə olarkən həm də dayanarkən-durarkən yandırmalır.
 
 ### Ötmə barədə işıq siqnallarının:
-1) Sutkanın işıqlı vaxtı, faraların yaxın işıqlarını qısa müddətdə yandırıb-söndürməklə verilir;
+1) **Sutkanın işıqlı vaxtı**, faraların yaxın işıqlarını qısa müddətdə **yandırıb-söndürməklə** verilir;
 
-2) Sutkanın qaranlıq vaxtı, yaxın işıqları dəfələrlə uzaq işıqlara keçirməklə verilir.
+2) **Sutkanın qaranlıq vaxtı**, yaxın işıqları **dəfələrlə uzaq işıqlara keçirməklə** verilir.
 
 
 # 16. 
  <h1 align="center">Hərəkət təhlükəsizliyinin əsasları | Date: 20/04/2018;</h1>
 
 - Kiçik radiuslu döngələr avtomobili daha tez aşırır.
-- Dumanlı hava şəraitində qarşıdan gələn avtomobilə qədər olan məsafə realda olandan uzaq sürət isə realda olandan aşağı görünür.
-- Yolayırıcı sayılmayaan yerlərdə geriyə hərəkət edərkən üçbucaq alındığı manevr daha təhlükəsizdir.
-- ABC tormoz sistemi olan NV-lərdə tormoz pedalını sıxıb saxlamaq lazımdır.
-- ABC tormoz sistemi olmayan NV-lərdə tormoz pedalını sıxıb buraxmaq lazımdır.
-- Yoxuşda NV-ni yolun hərəkət hissəsində saxlayarkən qabaq təkərləri yola tərəf çevirmək lazımdır.
-- Enişdə NV-ni yolun hərəkət hissəsində saxlayarkən qabaq təkərləri bardürə tərəf çevirmək lazımdır.
-- Avtomobili yol çiynində saxlayarkən eniş-yoxuş fərq etmir - hər iki halda qabaq təkərləri yoldan kənara tərəf furlatmaq lazımdır.
+- Dumanlı hava şəraitində qarşıdan gələn avtomobilə qədər olan **məsafə** realda olandan **uzaq**, **sürət** isə realda olandan **aşağı** görünür.
+- Yolayırıcı sayılmayan yerlərdə geriyə hərəkət edərkən üçbucaq alındığı manevr daha təhlükəsizdir.
+- ABC tormoz sistemi olan NV-lərində tormoz pedalını sıxıb saxlamaq lazımdır.
+- ABC tormoz sistemi olmayan NV-lərində tormoz pedalını sıxıb buraxmaq lazımdır.
+- **Yoxuşda** NV-ni yolun hərəkət hissəsində saxlayarkən qabaq təkərləri **yola tərəf** çevirmək lazımdır.
+- **Enişdə** NV-ni yolun hərəkət hissəsində saxlayarkən qabaq təkərləri **bardürə tərəf** çevirmək lazımdır.
+- Avtomobili yol çiynində saxlayarkən (eniş-yoxuş fərq etmir) - hər 2 halda qabaq təkərləri yoldan kənara tərəf furlatmaq lazımdır.
