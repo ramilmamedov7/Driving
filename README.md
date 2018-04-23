@@ -352,3 +352,18 @@ d) yaşayış məntəqələrində, hərəkət gərginliyi az olan yerlərdə.
 - **Yoxuşda** NV-ni yolun hərəkət hissəsində saxlayarkən qabaq təkərləri **yola tərəf** çevirmək lazımdır.
 - **Enişdə** NV-ni yolun hərəkət hissəsində saxlayarkən qabaq təkərləri **bardürə tərəf** çevirmək lazımdır.
 - Avtomobili yol çiynində saxlayarkən (eniş-yoxuş fərq etmir) - hər 2 halda qabaq təkərləri yoldan kənara tərəf furlatmaq lazımdır.
+
+**NV aşağıdaki səbəblərə görə yol hərəkətində iştirakdan kənarlaşdırıla və cərmə meydançasına göndərilə bilər:**
+01) Dayandırılmış NV-ni idarə edən şəxsdə və ya onunla birlikdə gedən sərnişinlərdən hər hansı birində: 
+	- sürücülük vəsiqəsi, 
+	- NV-nin qeydiyyat şəhadətnaməsi, 
+	- habelə həmin NV-ni idarə etmək hüququ verən digər əsas olmadıqda.
+02) NV-nin saxlanılması barədə məhkəmə və va müvafiq icra hakimiyyəti orqanının qərarı olduqda. 
+03) NV-də normativ tələblər pozulmaqla avadanlıq quraşdırıldıqda və ya dəyişdirildikdə.
+04) NV-nin ban şüşələrində qanunla tətbiqinə icazə verilməyən örtüklər çəkildikdə. 
+05) NV müvafiq icazə olmadan xüsusi səs və ya sayrışan işıq siqnalları ilə təchiz edildikdə.
+06) İcazə verilən qabarit, çəki və yüklə birlikdə oxa düşən kütlə parametrlərinə dair tələblər pozulduqda.
+07) Yüklənən iriqabaritli və ya ağırçəkili NV ümumi istifadədə olan avtomobil yollarında idarə edildikdə.
+08) NV-nin dövlət qeydiyyat nişanları və ya onlardan biri olmadıqda (saxta və ya qeyri-standart olduqda).
+09) Dayandırılmış NV-nin mühərrik, ban və şassi nömrəsi onu idarə edən şəxs tərəfindən təqdim edilmiş NV-nin qeydiyyat şəhadətnaməsindəki (texpasport) rəqəmlərə uyğun qəlmədikdə.
+10) Dayandırılmış NV alkoqol, narkotik vasitələr və ya güclü təsir göstərən digər maddələrin istifadə edilməsi nəticəsində sərxoş vəziyyətdə olan şəxs tərəfindən idarə olunduqda və onunla birlikdə gedən sərnişinlərdən heç birində sürücülük vəsiqəsi olmadıqda.
