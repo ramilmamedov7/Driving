@@ -329,9 +329,13 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 	- Əgər qabarit işıq nasazdırsa NV-ni yoldan kənara çıxarmalı, bu mümkün olmadıqda isə qəza dayanma nişanı quraşdırılmalıyıq.
 
 2) **Aşağıdakı hallarda, işıq cihazları söndürülmüşdür vəziyyətdə NV-ni duracaqda saxlaya bilərik:**
+
 a) işıqlandırılmış yollarda NV kifayət qədər məsafədə aydın görünərsə;
+
 b) yoldan kənar saxladıqda;
+
 c) akkumiliyator-la təchiz olunmamış motosikletlər saxladıqda;
+
 d) yaşayış məntəqələrində, hərəkət gərginliyi az olan yerlərdə.
 
 - Avtoqatar tanınma nişanı sutkanın işıqlı vaxtı, hərəkətdə olarkən yandırmalır.
