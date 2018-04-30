@@ -19,6 +19,8 @@
 - [14. Nizamlayıcının siqnalları.](#14)
 - [15. Xarici işıq cihazları.](#15)
 - [16. Hərəkət təhlükəsizliyinin əsasları.](#16)
+- [17. İstismar.](#17)
+- [18. Hərəkət hissəsində yerləşmə.](#18)
   
 
 *By: <a href="https://rommel7.github.io">Ramil Mamedov.</a> All rights reserved 2018 ©.*
@@ -367,3 +369,48 @@ d) yaşayış məntəqələrində, hərəkət gərginliyi az olan yerlərdə.
 08) NV-nin dövlət qeydiyyat nişanları və ya onlardan biri olmadıqda (saxta və ya qeyri-standart olduqda).
 09) Dayandırılmış NV-nin mühərrik, ban və şassi nömrəsi onu idarə edən şəxs tərəfindən təqdim edilmiş NV-nin qeydiyyat şəhadətnaməsindəki (texpasport) rəqəmlərə uyğun qəlmədikdə.
 10) Dayandırılmış NV alkoqol, narkotik vasitələr və ya güclü təsir göstərən digər maddələrin istifadə edilməsi nəticəsində sərxoş vəziyyətdə olan şəxs tərəfindən idarə olunduqda və onunla birlikdə gedən sərnişinlərdən heç birində sürücülük vəsiqəsi olmadıqda.
+
+
+
+# 17. 
+ <h1 align="center">İstismar | Date: 24/04/2018;</h1>
+
+**Aşağıdaki hallarda NV-nin istismarı həm də təmir və ya duracaq yerinə kimi hərəkəti qadağandır:**
+**1.** Tormoz sistemində nasaz olduqda və ya aşağıdakı qaydalara uyğun gəlmədikdə:
+
+|NV-nin növəri|Tormoz yolu (m) ən çox|Müəyyən edilmiş yavaşıma (m/s) ən azı|
+|-------------|----------------------|-------------------------------------|
+`Tək NV-lər: minik avtomobilləri və onların yükdaşıma üçün modifikasiyaları`|       `12,2 (14,5)` | `6,8 (6,1)` 
+`İcazə verilən maksimal kütləsi 3,5 tonadək olan (3,5t daxil olmaqla) yük avtomobilləri`|`15,1 (19)`| `5,7 (5)`
+
+**2.**  Sükanında idarəetmə mexanizmində nasaz olduqda və aşağıdakı qaydalara uyğun gəlmədikdə:
+
+|NV-nin növəri|Cəmi lüftün son hədd qiiymətləri (dərəcə ilə), ən çox
+|-------------|----------------------|-------------------------------------|
+`Minik avtomovilləri və onların bazasında yaradılmış yük avtomobilləri (pikup) və avtobuslar`|`10`| 
+`Avtobuslar`|`20`|
+`Yük daşıyan avtomobillər`|`25`|
+**3.**  Sutkanın qaranlıq vaxtı və ya məhdud görünmə şəraitində - faralar və ya qabarit işıqları nasaz olduqda.
+
+**4.**  Sutkanın qaranlıq vaxtı və ya məhdud görünmə şəraitində - faralar və ya qabarit işıqları nasaz olduqda.
+
+**5.**  Yanacaq sisteminin hermetikliyi pozulduqda.
+
+**6.**  Yedəkdə nasaz və ya qoşqu apardıqda - ilişmə dartı və ya ilişmə dayaq qurğusu nasaz olduqda.
+
+---
+- **Duracaq tormoz sistemi:**
+
+|NV-nin növü|Tərpənməzlik vəziyyətinin qiymətləri (dərəcə ilə), ən az
+|-------------|------------------------------------|
+`Tam yüklü NV-lər`|`16`| 
+`Təchiz olunmuş Minik avtomobilləri və Avtobuslar`|`23`|
+`Təchiz olunmuş Yük avtomobillər`|`31`|
+
+
+# 18. 
+ <h1 align="center">Hərəkət hissəsində yerləşmə| Date: 26/04/2018;</h1>
+
+- **Yol sahəsində** quraşdırılmış baş yol nişanı, **yolayırıcını keçən NV-yə üstünlük verir**.
+- Avtobus zolağı ``məndən sağda yerləşərsə``, ``qırıq-qırıq xətlə ayrılarsa`` - ümumi istifadədə olan NV-yə **maneə yaratmamaq şərti ilə** həmən zolağa keçib yalnız sərnişin mindirib düşürdə bilərəm.
+- **Yalnız yaşayış məntəqəsində** avtobus dayanacağı nişanı varsa - həmin dayanacaqdan **hərəkətə başlayan avtobusa yol verilməlidir**. (Avtobusda ona yol verildiyindən əmin olduqdan sonra hərəkətə başlamalıdır.) 
