@@ -21,6 +21,7 @@
 - [16. Hərəkət təhlükəsizliyinin əsasları.](#16)
 - [17. İstismar.](#17)
 - [18. Hərəkət hissəsində yerləşmə.](#18)
+- [19. Hərəkətə başlama.](#19)
   
 
 *By: <a href="https://rommel7.github.io">Ramil Mamedov.</a> All rights reserved 2018 ©.*
@@ -418,3 +419,19 @@ d) yaşayış məntəqələrində, hərəkət gərginliyi az olan yerlərdə.
 - **Yol sahəsində** quraşdırılmış baş yol nişanı, **yolayırıcını keçən NV-yə üstünlük verir**.
 - Avtobus zolağı ``məndən sağda yerləşərsə``, ``qırıq-qırıq xətlə ayrılarsa`` - ümumi istifadədə olan NV-yə **maneə yaratmamaq şərti ilə** həmən zolağa keçib yalnız sərnişin mindirib düşürdə bilərəm.
 - **Yalnız yaşayış məntəqəsində** avtobus dayanacağı nişanı varsa - həmin dayanacaqdan **hərəkətə başlayan avtobusa yol verilməlidir**. (Avtobusda ona yol verildiyindən əmin olduqdan sonra hərəkətə başlamalıdır.) 
+
+
+# 19. 
+ <h1 align="center">Hərəkətə başlama| Date: 30/04/2018;</h1>
+
+- Yol qırağından **hərəkətə başlamaq istəyən sürücü** hamıya yol verməlidir!
+- Motosikletçilər sola və ya geriyə dönərkən, **sol zolağın sol küncünü** tutmalıdır.
+- **Yolayırıcında geriyə dönmək olar.**
+
+**Aşağıdaki hallarda geriyə dönmək və geriyə hərəkət qadağandır:**
+- piyada keçidində;
+- tunellərdə;
+- körpülərdə, estakadalarda və onların altında;
+- dəmir yol keçidlərində;
+- ən azı bir istiqamətdə yolun 100m-dən az hissəsi görünən yerlərdə;
+- ümumi istifadədə olan NV-lərin dayanacaq məntəqələri yerləşdiyi yerlərdə.
