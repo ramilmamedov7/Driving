@@ -1,4 +1,5 @@
 
+
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
 # <h1 align="center">Sürücülük  :vertical_traffic_light:   </h1>
@@ -243,7 +244,7 @@ Bu nişanlar olan sahədə kütləsindən asılı olmayaraq **yük avtomobillər
 - **Tramvay bütün hallarda bizə qarşı üstündür. (Yolayırıcı sayılmayan yerlərdə).**
 - **Tramvay bizə qarşı olan üstünlüyünü 2 halda itirə bilər:**
 	1) Depodan çıxanda;
-	2) II dərəcəli yolda olanda;
+	2) ``II`` dərəcəli yolda olanda;
 
 ### Test 5-in izahı:
 Eyni əhəmiyyətli yolların kəsişməsində B sağda yerləşir və geriyə dönür. Traektoriyası kəsişdiyi üçün A, B-yə yol verməlidir...amma vəziyyət dəyişir, B yolayırıcına girib maşını fırladır, A - keçir və sonda isə B geriyə dönməni başa çatdırır.
@@ -259,7 +260,7 @@ Eyni əhəmiyyətli yolların kəsişməsində 3 NV-nin traektoriyası kəsişə
 ### Test 11-in izahı:
 Əgər sağa dönən yoxdursa, fikir verin ki, ən sağda kim yerləşir və kimin sağı boşdursa, qısa gedirsə o heç kimə yol verməyəcək, fırlatma qaydası baş verəcək.
 ### Test 12-nin izahı:
-ən sağda yerləşən və sağı boş olan əgər uzun gedərsə I yolayırıcına girərək, qarşıdan gələnə yol vermək üçün dayancaq, bu zaman solda yerləşən NV-nin sağı boş olacaq və o I keçəcək. Sonra qarşıdan gələn keçəcək və ən sonda yolayırıcına I girən keçib gedəcək. (Peşmançılıq qaydası)
+Ən sağda yerləşən və sağı boş olan əgər uzun gedərsə I yolayırıcına girərək, qarşıdan gələnə yol vermək üçün dayancaq, bu zaman solda yerləşən NV-nin sağı boş olacaq və o I keçəcək. Sonra qarşıdan gələn keçəcək və ən sonda yolayırıcına I girən keçib gedəcək. (Peşmançılıq qaydası)
 ### Test 16-nın izahı:
 Əgər NV-lərin hər ikisi uzun gedərsə, heç biri bir-birinə yol verməyəcək və furlatma qaydası tətbiq olunacaq.
 ### Test 22-nin izahı:
@@ -271,10 +272,10 @@ Eyni əhəmiyyətli yolların kəsişməsində 3 NV-nin traektoriyası kəsişə
 # 13. 
  <h1 align="center">Yolayırıcının keçilməsi №2 | Date: 16/04/2018;</h1>
 
-- **Eyni əhəmiyyətli olmayan yolların kəsişməsində I baş yolda olanlar keçir, sonra isə II dərəcəli yolda olanlar.**
+- **Eyni əhəmiyyətli olmayan yolların kəsişməsində I baş yolda olanlar keçir, sonra isə ``II`` dərəcəli yolda olanlar.**
 - **Svetafor yolun üstünlük nişanlarını ləğv edir!**
-- **Qarşımızda olan nişanın üstü qar və ya palçıq ilə örtülü olarsa, özümüzü II dərəcəli yolda hesab edirik və qarşıdan yaxınlaşan NV-lərə yol verməyə hazır olmalıyıq.**
-- **Qarşımızda svetaforun əlavə bölməsi yanarsa özümüzü II dərəcəli yolda hesab edirik, kəsişən yolda qarşısında svetaforun əsas bölməsi yaşıl yanan NV-lərə yol verməliyik.**
+- **Qarşımızda olan nişanın üstü qar və ya palçıq ilə örtülü olarsa, özümüzü ``II`` dərəcəli yolda hesab edirik və qarşıdan yaxınlaşan NV-lərə yol verməyə hazır olmalıyıq.**
+- **Qarşımızda svetaforun əlavə bölməsi yanarsa özümüzü ``II`` dərəcəli yolda hesab edirik, kəsişən yolda qarşısında svetaforun əsas bölməsi yaşıl yanan NV-lərə yol verməliyik.**
 - **Qırmızıya düşmüş sürücü üstündür, ona yolayırıcını tərk etmək üçün imkan vermək lazımdır.**
 - **Yolu keçmək NİYYƏTİN-də olan piyada sonda keçir.**
 
@@ -282,6 +283,7 @@ Eyni əhəmiyyətli yolların kəsişməsində 3 NV-nin traektoriyası kəsişə
  <h1 align="center">Nizamlayıcının siqnalları | Date: 17/04/2018;</h1>
  
 a) **"Diqqət. Hərəkət qadağandır"** - bütün NV-lərə hərəkəti qadağan edir.
+
 b) **"Müəyyən istiqamət üzrə hərəkət"** - [] bu üç siqnalların mənası eynidir. 
 
    - Nizamlayıcının sinə və arxa tərəfdən gələn NV-lərə hərəkət qadağandır.
@@ -346,16 +348,16 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 
 2) **Aşağıdakı hallarda, işıq cihazları söndürülmüşdür vəziyyətdə NV-ni duracaqda saxlaya bilərik:**
 
-a) işıqlandırılmış yollarda NV kifayət qədər məsafədə aydın görünərsə;
+	- işıqlandırılmış yollarda NV kifayət qədər məsafədə aydın görünərsə;
 
-b) yoldan kənar saxladıqda;
+	- yoldan kənar saxladıqda;
 
-c) akkumiliyator-la təchiz olunmamış motosikletlər saxladıqda;
+	- akkumiliyator-la təchiz olunmamış motosikletlər saxladıqda;
 
-d) yaşayış məntəqələrində, hərəkət gərginliyi az olan yerlərdə.
+	- yaşayış məntəqələrində, hərəkət gərginliyi az olan yerlərdə.
 
-- Avtoqatar tanınma nişanı sutkanın işıqlı vaxtı, hərəkətdə olarkən yandırmalır.
-- Avtoqatar tanınma nişanı sutkanın qaranlıq vaxtı və məhdud görünmə şəraitində həm hərəkətdə olarkən həm də dayanarkən-durarkən yandırmalır.
+- **Avtoqatar tanınma nişanı sutkanın işıqlı vaxtı, hərəkətdə olarkən yandırmalır.**
+- **Avtoqatar tanınma nişanı sutkanın qaranlıq vaxtı və məhdud görünmə şəraitində həm hərəkətdə olarkən həm də dayanarkən-durarkən yandırmalır.**
 
 ### Ötmə barədə işıq siqnallarının:
 1) **Sutkanın işıqlı vaxtı**, faraların yaxın işıqlarını qısa müddətdə **yandırıb-söndürməklə** verilir;
@@ -407,7 +409,7 @@ d) yaşayış məntəqələrində, hərəkət gərginliyi az olan yerlərdə.
 **2.**  Sükanında idarəetmə mexanizmində nasaz olduqda və aşağıdakı qaydalara uyğun gəlmədikdə:
 
 
-|NV-nin növəri|Cəmi lüftün son hədd qiiymətləri (dərəcə ilə), ən çox |
+|NV-nin növəri|Cəmi lüftün son hədd qiymətləri (dərəcə ilə), ən çox |
 |-------------|------------------------------------------------------|
 `Minik avtomovilləri və onların bazasında yaradılmış yük avtomobilləri (pikup) və avtobuslar`|`10`| 
 `Avtobuslar`|`20`|
@@ -440,6 +442,12 @@ d) yaşayış məntəqələrində, hərəkət gərginliyi az olan yerlərdə.
 - **Yol sahəsində** quraşdırılmış baş yol nişanı, **yolayırıcını keçən NV-yə üstünlük verir**.
 - Avtobus zolağı ``məndən sağda yerləşərsə``, ``qırıq-qırıq xətlə ayrılarsa`` - ümumi istifadədə olan NV-yə **maneə yaratmamaq şərti ilə** həmən zolağa keçib yalnız sərnişin mindirib düşürdə bilərəm.
 - **Yalnız yaşayış məntəqəsində** avtobus dayanacağı nişanı varsa - həmin dayanacaqdan **hərəkətə başlayan avtobusa yol verilməlidir**. (Avtobusda ona yol verildiyindən əmin olduqdan sonra hərəkətə başlamalıdır.) 
+
+- **3 və daha artıq hərəkət zolağı olan yollarda**, kütləsi **3.5t - dan çox** olan yük avtomobili - sonuncu sol zolağa **yalnız sola və ya geriyə dönmək məqsədi ilə çıxa bilər.** 
+	 - **Düz getməsi və ötməsi qadağandır!**
+
+- **Avtomaqistral [5.1]** və **avtomobillər üçün yol [5.3]** nişanı olan yollarda kütləsi **3.5t - dan çox olan** yük avtomobil yalnız ``I`` və ``II`` zolaqda hərəkət edə bilər.
+	- **Digər zolağla hərəkəti qadağandır!** 
 
 
 # 19. 
