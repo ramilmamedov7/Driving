@@ -1,4 +1,6 @@
 
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
 # <h1 align="center">Sürücülük  :vertical_traffic_light:   </h1>
 
 ## Mündəricat :books:
@@ -318,11 +320,24 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 
 5) **Sutkanın işıqlı vaxtı** - aşağıda göstərilən NV-lər ``yaxın işıqları`` və ya ``duman faralarını`` yandırmalıdır (maddə 70 - V bənd):
 
-	- **Bu şəraitdə yaxın işıqlar və duman faraları birlikdə yandırıla bilməz.**
+**1)** motosiklet və mopedlərdə;
+
+**2)** uşaq dəstələrini daşıyan avtobus və mikroavtobuslarda;
+
+**3)** mütəşəkkil nəqliyyat dəstəsində hərəkət edən nəqliyyat vasitələrində;
+
+**4)** digər NV-ni yedəyə alan nəqliyyat vasitələrində;
+
+**5)** təhlükəli, ağır çəkili və iri qabaritli yük daşıyan nəqliyyat vasitələrində;
+
+**6)** xüsusi olaraq ayrılmış zolaqla NV-nin axınına qarşı hərəkət edən ümumi istifadədə olan NV-də.
+
+- **Bu şəraitdə yaxın işıqlar və duman faraları birlikdə yandırıla bilməz.**
 
 ### Qeyd: 
 - **Duman faraları qabaqda olur, duman fənərləri arxada.**
 - **Arxa duman fənəri yalnız məhdud görünmə şəraitində yandırılır.**
+- **Qarşıdan gələn NV-yə azı 150m qalmış uzaq işıqları yaxına keçirmək lazımdır.**
 
 ### NV dayanarkən, durarkən:
 1) **Sutkanın qaranlıq vaxtı yolun işıqlandırılmayan sahəsində və məhdud görünmə şəraitində dayanarkən və ya durarkən** - ``qabarit işıqları`` yandırılmalıdır.
@@ -381,6 +396,7 @@ d) yaşayış məntəqələrində, hərəkət gərginliyi az olan yerlərdə.
  <h1 align="center">İstismar | Date: 24/04/2018;</h1>
 
 **Aşağıdaki hallarda NV-nin istismarı həm də təmir və ya duracaq yerinə kimi hərəkəti qadağandır:**
+
 **1.** Tormoz sistemində nasaz olduqda və ya aşağıdakı qaydalara uyğun gəlmədikdə:
 
 |NV-nin növəri|Tormoz yolu (m) ən çox|Müəyyən edilmiş yavaşıma (m/s) ən azı|
@@ -408,12 +424,15 @@ d) yaşayış məntəqələrində, hərəkət gərginliyi az olan yerlərdə.
 ---
 - **Duracaq tormoz sistemi:**
 
+<center>
+	
 |NV-nin növü|Tərpənməzlik vəziyyətinin qiymətləri (dərəcə ilə), ən az
 |-------------|------------------------------------|
 `Tam yüklü NV-lər`|`16`| 
 `Təchiz olunmuş Minik avtomobilləri və Avtobuslar`|`23`|
 `Təchiz olunmuş Yük avtomobillər`|`31`|
 
+</center>
 
 # 18. 
  <h1 align="center">Hərəkət hissəsində yerləşmə | Date: 26/04/2018;</h1>
@@ -437,3 +456,7 @@ d) yaşayış məntəqələrində, hərəkət gərginliyi az olan yerlərdə.
 - dəmir yol keçidlərində;
 - ən azı bir istiqamətdə yolun 100m-dən az hissəsi görünən yerlərdə;
 - ümumi istifadədə olan NV-lərin dayanacaq məntəqələri yerləşdiyi yerlərdə.
+
+
+
+
