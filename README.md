@@ -390,11 +390,13 @@ d) yaşayış məntəqələrində, hərəkət gərginliyi az olan yerlərdə.
 
 **2.**  Sükanında idarəetmə mexanizmində nasaz olduqda və aşağıdakı qaydalara uyğun gəlmədikdə:
 
-|NV-nin növəri|Cəmi lüftün son hədd qiiymətləri (dərəcə ilə), ən çox
-|-------------|----------------------|-------------------------------------|
+
+|NV-nin növəri|Cəmi lüftün son hədd qiiymətləri (dərəcə ilə), ən çox |
+|-------------|------------------------------------------------------|
 `Minik avtomovilləri və onların bazasında yaradılmış yük avtomobilləri (pikup) və avtobuslar`|`10`| 
 `Avtobuslar`|`20`|
 `Yük daşıyan avtomobillər`|`25`|
+
 **3.**  Sutkanın qaranlıq vaxtı və ya məhdud görünmə şəraitində - faralar və ya qabarit işıqları nasaz olduqda.
 
 **4.**  Sutkanın qaranlıq vaxtı və ya məhdud görünmə şəraitində - faralar və ya qabarit işıqları nasaz olduqda.
@@ -414,7 +416,7 @@ d) yaşayış məntəqələrində, hərəkət gərginliyi az olan yerlərdə.
 
 
 # 18. 
- <h1 align="center">Hərəkət hissəsində yerləşmə| Date: 26/04/2018;</h1>
+ <h1 align="center">Hərəkət hissəsində yerləşmə | Date: 26/04/2018;</h1>
 
 - **Yol sahəsində** quraşdırılmış baş yol nişanı, **yolayırıcını keçən NV-yə üstünlük verir**.
 - Avtobus zolağı ``məndən sağda yerləşərsə``, ``qırıq-qırıq xətlə ayrılarsa`` - ümumi istifadədə olan NV-yə **maneə yaratmamaq şərti ilə** həmən zolağa keçib yalnız sərnişin mindirib düşürdə bilərəm.
@@ -422,7 +424,7 @@ d) yaşayış məntəqələrində, hərəkət gərginliyi az olan yerlərdə.
 
 
 # 19. 
- <h1 align="center">Hərəkətə başlama| Date: 30/04/2018;</h1>
+ <h1 align="center">Hərəkətə başlama | Date: 30/04/2018;</h1>
 
 - Yol qırağından **hərəkətə başlamaq istəyən sürücü** hamıya yol verməlidir!
 - Motosikletçilər sola və ya geriyə dönərkən, **sol zolağın sol küncünü** tutmalıdır.
