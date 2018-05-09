@@ -25,7 +25,9 @@
 - [17. İstismar.](#17)
 - [18. Hərəkət hissəsində yerləşmə.](#18)
 - [19. Hərəkətə başlama.](#19)
-  
+- [20. Hərəkət hissəsində yerləşmə №2.](#20)
+- [21. Ötmə.](#21)
+- [22. Dayanma, durma.](#22)
 
 *By: <a href="https://rommel7.github.io">Ramil Mamedov.</a> All rights reserved 2018 ©.*
 
@@ -466,5 +468,50 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 - ümumi istifadədə olan NV-lərin dayanacaq məntəqələri yerləşdiyi yerlərdə.
 
 
+# 20. 
+ <h1 align="center">Hərəkət hissəsində yerləşmə №2 | Date: 01/05/2018;</h1>
+ 
+
+- **3 və daha artıq hərəkət zolağı** olan yollarda, **kütləsi 3,5t-dan çox olan** yük avtomobili - sonuncu sol zolağa ``yalnız sola və ya geriyə dönmək`` məqsədi ilə çıxa bilər. 
+	- **Düz getməsi və ötməsi qadağandır!** 
+
+- **Avtomagistral [5.1]** və **avtomobillər üçün yol [5.3]** nişanı olan yollarda, **kütləsi 3,5t-dan çox olan** yük avtomobilləri ``yalnız`` ``I`` və ``II`` ``zolaqda`` hərəkət edə bilər.
+	- **Digər zolaqlarla hərəkəti qadağandır!**
 
 
+# 21. 
+ <h1 align="center">Ötmə | Date: 02/05/2018;</h1>
+ 
+
+- **Test 17-i:** ``- Hər ikisinə icazə verilir.``
+
+- **Test 20-i:** ``- İcazə verilir.``
+
+- **Test 148, 149, 152:** ``- Hər ikisi.``
+
+- **Kruqra ötməyə icazə verilir.**
+
+### Ötmək qadağdır:
+
+1) **Nizamlanmayan yolayırıcında - baş yol nişanı yoxdursa, ötmək qadağandır!**
+
+2) **Nizamlanan yolayırıcında - əksə çıxaraq ötmək qadağandır!**
+	- **Eyni-istiqamətli zolaq olarsa ötmək olar.**
+	
+3) **2 təkərli motosikleti istənilən yerdən ötmək olar!**
+	 - **2 halda ötməyə icazə verilmir:**
+		 - nizamlanan yolda əksinə çıxmaqla;
+		 - eyni-əhəmiyyətli yolların kəsişməsində əgər sağdan gələn maşın varsa.
+
+### Qarşılıqlı keçmə (qk).
+- **Düz yolda** qk çətinləşərsə - kimin qarşısında maneə varsa o yol verməlidir!
+- **Eniş-yoxuşlu yolda** qk çətinləşərsə - yuxarıdan düşən, aşağıdan qalxana yol verəcək!
+	- Bu qayda yolayırıcına aid deyil! 
+
+
+# 22. 
+ <h1 align="center">Dayanma, durma | Date: 03/05/2018;</h1>
+
+- Bir tərəfli yolun sol tərəfində **kütləsi 3,5t-dan çox olan** yük avtomobili ``yalnız yük götürüb-boşaltmaq`` məqsədiylə dayana bilər.
+
+- **Səkinin kənarı - səkinin üstü sayılır.**
