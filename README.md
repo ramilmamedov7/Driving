@@ -48,7 +48,7 @@ Bitişik ərazilərdən yola çıxış yeri **yolayırıcı** hesab olunmur!
 Əgər **baş yol** nişanı yoxdursa, kəsişən yolun hər iki örtüyü bərk olarsa ``(asfalt, daş, beton)`` bu yollar - **eyni əhəmiyyətli yollar** hesab olunur. 
 Eyni əhəmiyyətli yolların kəsişməsində sağdan yaxınlaşan üstündür!
 
-**[⬆ Əvvələ qayıt](##mündəricat-books)**
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 02. 
  <h1 align="center">Əsas anlayışlar - №2 | Date: 28/03/2018; </h1>
