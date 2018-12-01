@@ -74,6 +74,8 @@ Eyni əhəmiyyətli yolların kəsişməsində sağdan yaxınlaşan üstündür!
 
 Dayanma, durmanı qadağan olunduğu yollarda NV məcburi dayandıqda, NV-ni işarələmək üçün `qəza işıq siqnalları` və ya `qəza dayanma nişanı` :warning: quraşdırılmalıdır **[30m]**.
 
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
+
 # 03. 
  <h1 align="center">Kategoriyalar  | Date: 29/03/2018; </h1>
  
@@ -118,6 +120,7 @@ ___
 `Geriyə hərəkət manevri edən sürücü.` |`Geriyə hərəkət manevri edən sürücü.`
 `Sürməyi öyrədən şəxs.` 		      |`Sürməyi öyrədən şəxs.`
 
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 04. 
  <h1 align="center">Sənədlər, Vəzifələr | Date: 30/03/2018; </h1>
@@ -130,6 +133,8 @@ ___
 
 - **Avtomobili əldə etdiyiniz 10 gün ərzində qeydiyyata salmaq lazımdır.**
 - **Mopedçilərin dəstəsi olmur!**
+
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 05. 
  <h1 align="center">Xəbərdarlıq, üstünlük nişanları | Date: 02/04/2018; </h1>
@@ -155,6 +160,8 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
  - Stop 🛑 
  - Yol Verin 🔻
 
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
+
 # 06. 
  <h1 align="center">Qadağa nişanları  - №1 | Date: 03/04/2018; </h1>
 
@@ -166,7 +173,9 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
 
  - **Sola dönməyə icazə verən nişanlar geriyə dönməyə də icazə verir, lakin sola dönməyə qadağa edən nişanlar isə geriyə dönməni də qadağa edir!** 
  -  **Bir istiqamətdə birdən artıq zolaq olduqda sağa dönən üçün sağ, sola dönən üçün isə sol zolaqda olmaq lazımdır.**
-  - **Sağa dönərkən yaxın sağa dönmək lazımdır.**
+ - **Sağa dönərkən yaxın sağa dönmək lazımdır.**
+
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 07. 
  <h1 align="center">Qadağa nişanları  - №2 | Date: 04/04/2018; </h1>
@@ -183,6 +192,8 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
 
 **Maksimum sürət məhdudlaşdırılması nişanı [3.24]** -  bu qeyd etdiyimiz yerlərdən əlavə olaraq yaşayış məntəqəsinin başlanğıcınıda daxil edir. `(ağ fon).`
 
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
+
 # 08. 
  <h1 align="center">Məcburi nişanlar  | Date: 05/04/2018;</h1>
 
@@ -192,6 +203,8 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
 **[4.1.1] <-> [4.1.6]** - nişanlarının qüvvəsi birinci kəsişməyə aiddir, kəsişməni keçdikdən sonra qüvvəsini itirir.
 
 **Yerə çəkilən** və **yuxarıdan asılan** nişanların qüvvəsi **bütün yolayırıcına aiddir**, yolayırıcını keçdikdən sonra qüvvəsini itirir.
+
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 09. 
  <h1 align="center">Məlumatverici-Göstərici nişanlar | Date: 10/04/2018;</h1>
@@ -207,6 +220,7 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
 Reversiv svetaforu **yaşıl olduğu halda** reversiv zolağına çıxmağa **icazə verilir**.
 Reversiv svetaforu **qırmızı, söndürülmüş** və ya **ümumiyyətlə görünmədiyi halda** reversiv zolağa keçmək **qəti qadağandır!**
 
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 10. 
  <h1 align="center">Löhvəciklər | Date: 11/04/2018;</h1>
@@ -225,11 +239,15 @@ Bu nişanlar olan sahədə kütləsindən asılı olmayaraq **yük avtomobillər
  - Sürücü ödənişli parklama yerində 15 dəqiqə müddətinə qədər parklama, ödəniş etməməsi qayda pozuntusu sayılmır. 
  - Səkinin kənarı = səkinin üstü.
 
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
+
 # 11. 
  <h1 align="center">Nişanlama xətləri  | Date: 12/04/2018;</h1>
 
  1. **Qoşa Xətt** - ancaq əks istiqamətli nəqliyyat axınını ayırır. 
  2. **Bütöv Xətt, Qırıq Xətt** və **Bir Bütöv - Bir Qırıq Xətt** isə həm əks həm də eyni istiqamətli nəqliyyat axınını ayırır.
+
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 12. 
  <h1 align="center">Yolayırıcının keçilməsi | Date: 13/04/2018;</h1>
@@ -268,8 +286,7 @@ Eyni əhəmiyyətli yolların kəsişməsində 3 NV-nin traektoriyası kəsişə
 ### Test 22-nin izahı:
 Əgər 4 avtomobilin traektoriyası kəsişərsə və sağa dönən yoxdursa onda bu hal qanunda müəyyən edilməyib.
 
-
-
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 13. 
  <h1 align="center">Yolayırıcının keçilməsi №2 | Date: 16/04/2018;</h1>
@@ -280,6 +297,8 @@ Eyni əhəmiyyətli yolların kəsişməsində 3 NV-nin traektoriyası kəsişə
 - **Qarşımızda svetaforun əlavə bölməsi yanarsa özümüzü ``II`` dərəcəli yolda hesab edirik, kəsişən yolda qarşısında svetaforun əsas bölməsi yaşıl yanan NV-lərə yol verməliyik.**
 - **Qırmızıya düşmüş sürücü üstündür, ona yolayırıcını tərk etmək üçün imkan vermək lazımdır.**
 - **Yolu keçmək NİYYƏTİN-də olan piyada sonda keçir.**
+
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 14. 
  <h1 align="center">Nizamlayıcının siqnalları | Date: 17/04/2018;</h1>
@@ -302,6 +321,8 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 ### Qeyd: 
 - **Nizamlayıcı fitdən yol hərəkəti iştirakçılarının diqqətini cəlb eləmək üçün istifadə edə bilər.**
 - **Nizamlayıcının əmri ilə nişan zid olarsa nizamlayıcının əmri üstündür.** 
+
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 15. 
  <h1 align="center">Xarici işıq cihazları | Date: 19/04/2018;</h1>
@@ -366,6 +387,7 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 
 2) **Sutkanın qaranlıq vaxtı**, yaxın işıqları **dəfələrlə uzaq işıqlara keçirməklə** verilir.
 
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 16. 
  <h1 align="center">Hərəkət təhlükəsizliyinin əsasları | Date: 20/04/2018;</h1>
@@ -394,7 +416,7 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 09) Dayandırılmış NV-nin mühərrik, ban və şassi nömrəsi onu idarə edən şəxs tərəfindən təqdim edilmiş NV-nin qeydiyyat şəhadətnaməsindəki (texpasport) rəqəmlərə uyğun qəlmədikdə.
 10) Dayandırılmış NV alkoqol, narkotik vasitələr və ya güclü təsir göstərən digər maddələrin istifadə edilməsi nəticəsində sərxoş vəziyyətdə olan şəxs tərəfindən idarə olunduqda və onunla birlikdə gedən sərnişinlərdən heç birində sürücülük vəsiqəsi olmadıqda.
 
-
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 17. 
  <h1 align="center">İstismar | Date: 24/04/2018;</h1>
@@ -438,6 +460,8 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 
 </center>
 
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
+
 # 18. 
  <h1 align="center">Hərəkət hissəsində yerləşmə | Date: 26/04/2018;</h1>
 
@@ -451,6 +475,7 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 - **Avtomaqistral [5.1]** və **avtomobillər üçün yol [5.3]** nişanı olan yollarda kütləsi **3.5t - dan çox olan** yük avtomobil yalnız ``I`` və ``II`` zolaqda hərəkət edə bilər.
 	- **Digər zolağla hərəkəti qadağandır!** 
 
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 19. 
  <h1 align="center">Hərəkətə başlama | Date: 30/04/2018;</h1>
@@ -467,6 +492,7 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 - ən azı bir istiqamətdə yolun 100m-dən az hissəsi görünən yerlərdə;
 - ümumi istifadədə olan NV-lərin dayanacaq məntəqələri yerləşdiyi yerlərdə.
 
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 20. 
  <h1 align="center">Hərəkət hissəsində yerləşmə №2 | Date: 01/05/2018;</h1>
@@ -478,6 +504,7 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 - **Avtomagistral [5.1]** və **avtomobillər üçün yol [5.3]** nişanı olan yollarda, **kütləsi 3,5t-dan çox olan** yük avtomobilləri ``yalnız`` ``I`` və ``II`` ``zolaqda`` hərəkət edə bilər.
 	- **Digər zolaqlarla hərəkəti qadağandır!**
 
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 21. 
  <h1 align="center">Ötmə | Date: 02/05/2018;</h1>
@@ -508,6 +535,7 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 - **Eniş-yoxuşlu yolda** qk çətinləşərsə - yuxarıdan düşən, aşağıdan qalxana yol verəcək!
 	- Bu qayda yolayırıcına aid deyil! 
 
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 22. 
  <h1 align="center">Dayanma, durma | Date: 03/05/2018;</h1>
