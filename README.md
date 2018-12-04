@@ -1,3 +1,4 @@
+
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
 # <h1 align="center">Sürücülük  :vertical_traffic_light:   </h1> 
@@ -8,7 +9,7 @@
 - [02. Əsas anlayışlar - №2.](#02)
 - [03. Kategoriyalar.](#03)
 - [04. Sənədlər, Vəzifələr.](#04)
-- [05. Xəbərdarlıq, üstünlük nişanları.](#05)
+- [05. Xəbərdarlıq və üstünlük nişanları.](#05)
 - [06. Qadağa nişanlar - №1.](#06)
 - [07. Qadağa nişanları - №2.](#07)
 - [08. Məcburi nişanlar.](#08)
@@ -137,7 +138,7 @@ ___
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 05. 
- <h1 align="center">Xəbərdarlıq, üstünlük nişanları | Date: 02/04/2018; </h1>
+ <h1 align="center">Xəbərdarlıq və üstünlük nişanları | Date: 02/04/2018; </h1>
 
 **Xəbərdarlıq nişanlarının quraşdırılma məsafəsi:**
 
@@ -147,6 +148,9 @@ ___
 :x: [1.3.1 və 1.3.2](https://drive.google.com/file/d/1bhd5mUWT8xVOgB5zgfTDmrT70VhAQf4s/view?usp=sharing) nişanları bilavasitə dəmir yol ***keçidinin qarşısında*** quraşdırılır.
 
 :tram: [1.4.1 - 1.4.6](https://drive.google.com/file/d/1bhd5mUWT8xVOgB5zgfTDmrT70VhAQf4s/view?usp=sharing) nişanları ***yalnız yaşayış məntəqəsindən kənarda*** şlaqbaunlu və ya şlaqbaunsuz dəmir yol nişanı ilə birlikdə quraşdırılır. 
+Yolun hərəkət hissəsində **qısa müddətli** iş aparılarkən  [1.23](https://drive.google.com/open?id=1aLvBYj3Ri2JtcYF2CaUcwCr5WmxxFDwO) nişanı - işlərin aparıldığı yerə **10-15m** məsafədə quraşdırılır.
+
+**Üstünlük nişanları:**
 
 :children_crossing: Bu **[\[6\]](https://drive.google.com/file/d/10qbLBsSj56g5YWahWqZAKVnqY_P--2TB/view?usp=sharing)** nişan ***yalnız yaşayış məntəqəsindən kənarda*** təhlükəli sahənin başlanğıcına **təkrar 50m**-dən bir quraşdırılır. 
 
@@ -165,7 +169,7 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
 # 06. 
  <h1 align="center">Qadağa nişanları  - №1 | Date: 03/04/2018; </h1>
 
-**[\[3.7\]](https://drive.google.com/file/d/15uMMQLymbabs19_T3vxjG89gmZNi3XM0/view?usp=sharing)** - **Qoşqulu yük, traktor və yedəkdə nasaz (xarab)** aparan bütün NV-lərin bu nişanın təsiri sahəsinə **girişi qadağandır.** Minik avtomobili qoşqu apararsa bu nişanın təsiri sahəsinə birbaşa keçə bilər.
+**[\[3.7\]](https://drive.google.com/file/d/15uMMQLymbabs19_T3vxjG89gmZNi3XM0/view?usp=sharing)** - **Qoşqulu yük avtomobili, traktor və yedəkdə nasaz (xarab)** aparan bütün NV-lərin bu nişanın təsiri sahəsinə **girişi qadağandır.** ``Minik avtomobili`` qoşqu apararsa bu nişanın təsiri sahəsinə **birbaşa keçə bilər!**
 
 **[\[3.2 - 3.8\]](https://drive.google.com/file/d/1tqJgBy71tYn5x24tbr8o8TSR2goRzTxT/view?usp=sharing)** - **Bu qadağa nişanları həmin ərazidə işləyib yaşayanlara aid edilmir.**
 
@@ -174,16 +178,20 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
  - **Sola dönməyə icazə verən nişanlar geriyə dönməyə də icazə verir, lakin sola dönməyə qadağa edən nişanlar isə geriyə dönməni də qadağa edir!** 
  -  **Bir istiqamətdə birdən artıq zolaq olduqda sağa dönən üçün sağ, sola dönən üçün isə sol zolaqda olmaq lazımdır.**
  - **Sağa dönərkən yaxın sağa dönmək lazımdır.**
+ - **Sol zolaqdan sağa, Sağ zolaqdan isə sola və geriyə dönmək qadağandır!**
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 07. 
  <h1 align="center">Qadağa nişanları  - №2 | Date: 04/04/2018; </h1>
+ 
+**Oxlara düşən yük:**
 
-**İki oxlu yük avtomobilində** arxa oxuna düşən faktiki ağırlığı tapmaq üçün avtomobilin ümumi faktiki ağırlığı **2/3-ə vurmaq** lazımdır.
-**Oxların sayı 2-dən çox** olan yük avtomobilində hər hansı oxa düşən faktiki çəkini tapmaq üçün onun faktiki ağırlığını **oxlarının sayına bölmək** lazımdır.
+- **2 oxlu yük avtomobilin** - ``arxa oxuna`` düşən faktiki ağırlığı tapmaq üçün avtomobilin ümumi faktiki ağırlığını **2/3-ə vurmaq**, ``qabaq oxuna`` düşəni tapmaq üçün isə **1/3-ə vurmaq** lazımdır.
 
-**[3.10], [3.27] <-> [3.30] - nişanlarının qüvvəsi yolun qoyulduğu tərəfəinə şamil olunur.**
+- **3 və daha artıq** oxu olan yük avtomobilində hər hansı oxa düşən faktiki çəkini tapmaq üçün onun ümumi faktiki ağırlığını **1/3-ə vurmaq** lazımdır.
+
+**[3.10], [3.27] <-> [3.30]** - nişanlarının qüvvəsi yolun qoyulduğu tərəfəinə şamil olunur.
 
  - Bu 10 qadağa nişanın qüvvəsi **[3.31]** - nışanına qədərdir.  
  - Əgər **[3.31]** yoxdursa bu 10 nişanın qüvvəsi yolayırıcına qədərdir.  
@@ -543,3 +551,5 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 - Bir tərəfli yolun sol tərəfində **kütləsi 3,5t-dan çox olan** yük avtomobili ``yalnız yük götürüb-boşaltmaq`` məqsədiylə dayana bilər.
 
 - **Səkinin kənarı - səkinin üstü sayılır.**
+
+**[⬆ Əvvələ qayıt](#mündəricat-books)**
