@@ -148,7 +148,7 @@ ___
  - Yaşayış məntəqəsində **50-100m** məsafədə quraşdırılır. 
  - Yaşayış məntəqəsindən kənarda **150-300m** məsafədə quraşdırılır.
 
-:x: [1.3.1 və 1.3.2](https://drive.google.com/file/d/1bhd5mUWT8xVOgB5zgfTDmrT70VhAQf4s/view?usp=sharing){:target="_blank"} nişanları bilavasitə dəmir yol ***keçidinin qarşısında*** quraşdırılır.
+:x: [1.3.1 və 1.3.2](https://drive.google.com/file/d/1bhd5mUWT8xVOgB5zgfTDmrT70VhAQf4s/view?usp=sharing) nişanları bilavasitə dəmir yol ***keçidinin qarşısında*** quraşdırılır.
 
 :tram: [1.4.1 - 1.4.6](https://drive.google.com/file/d/1bhd5mUWT8xVOgB5zgfTDmrT70VhAQf4s/view?usp=sharing) nişanları ***yalnız yaşayış məntəqəsindən kənarda*** şlaqbaunlu və ya şlaqbaunsuz dəmir yol nişanı ilə birlikdə quraşdırılır. 
 Yolun hərəkət hissəsində **qısa müddətli** iş aparılarkən  [1.23](https://drive.google.com/open?id=1aLvBYj3Ri2JtcYF2CaUcwCr5WmxxFDwO) nişanı - işlərin aparıldığı yerə **10-15m** məsafədə quraşdırılır.
