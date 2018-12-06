@@ -1,4 +1,3 @@
-
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
 # <h1 align="center">Sürücülük  :vertical_traffic_light:   </h1> 
@@ -28,7 +27,11 @@
 - [21. Ötmə.](#21)
 - [22. Dayanma, durma.](#22)
 
-*By: <a href="https://rommel7.github.io">Ramil Mamedov.</a> All rights reserved 2018 ©.*
+*By: <a href="https://rommel7.github.io" target="_blank">Ramil Mamedov.</a> All rights reserved 2018 ©.*
+
+**İstinadlar:**
+- <a href="https://az.wikipedia.org/wiki/Az%C9%99rbaycan_Respublikas%C4%B1_yol_ni%C5%9Fanlar%C4%B1" target="_blank">Azərbaycan Respublikası yol nişanları</a>
+
 
 # 01.
  <h1 align="center">Əsas anlayışlar - №1 | Date: 27/03/2018; </h1>
@@ -169,16 +172,20 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
 # 06. 
  <h1 align="center">Qadağa nişanları  - №1 | Date: 03/04/2018; </h1>
 
-**[\[3.7\]](https://drive.google.com/file/d/15uMMQLymbabs19_T3vxjG89gmZNi3XM0/view?usp=sharing)** - **Qoşqulu yük avtomobili, traktor və yedəkdə nasaz (xarab)** aparan bütün NV-lərin bu nişanın təsiri sahəsinə **girişi qadağandır.** ``Minik avtomobili`` qoşqu apararsa bu nişanın təsiri sahəsinə **birbaşa keçə bilər!**
-
 **[\[3.2 - 3.8\]](https://drive.google.com/file/d/1tqJgBy71tYn5x24tbr8o8TSR2goRzTxT/view?usp=sharing)** - **Bu qadağa nişanları həmin ərazidə işləyib yaşayanlara aid edilmir.**
+
+**[\[3.7\]](https://drive.google.com/file/d/15uMMQLymbabs19_T3vxjG89gmZNi3XM0/view?usp=sharing)** - **Bu nişanıb təsiri sahəsini keçəməsi qadağandır:**
+- Qoşqulu yük
+- Traktor
+- Yedəkdə nasaz (xarab) aparan bütün NV-lər. 	
+	- Minik avtomobili **qoşqu apararsa** bu nişanın təsiri sahəsinə birbaşa keçə bilər.
 
 **`Sağa, sola, geriyə`** dönmək qadağandır nişanlarının **qüvvəsi birinci kəsişməyə aiddir**, kəsişməni keçdikdən sonra nişan öz qüvvəsini itirir.
 
- - **Sola dönməyə icazə verən nişanlar geriyə dönməyə də icazə verir, lakin sola dönməyə qadağa edən nişanlar isə geriyə dönməni də qadağa edir!** 
- -  **Bir istiqamətdə birdən artıq zolaq olduqda sağa dönən üçün sağ, sola dönən üçün isə sol zolaqda olmaq lazımdır.**
- - **Sağa dönərkən yaxın sağa dönmək lazımdır.**
- - **Sol zolaqdan sağa, Sağ zolaqdan isə sola və geriyə dönmək qadağandır!**
+ - **``Sola dönməni icazə verən nişanlar geriyə dönməni də icazə verir, lakin sola dönməni qadağa edən nişanlar isə geriyə dönməni də qadağa edir!``**
+ -  **``Bir istiqamətdə birdən artıq zolaq olduqda sağa dönən üçün sağ, sola dönən üçün isə sol zolaqda olmaq lazımdır.``**
+	  - ``Sol zolaqdan sağa, sağ zolaqdan isə sola və geriyə dönmək qadağandır!``
+	  - ``Sağa dönərkən yaxın sağa dönmək lazımdır.``
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
@@ -189,28 +196,40 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
 
 - **2 oxlu yük avtomobilin** - ``arxa oxuna`` düşən faktiki ağırlığı tapmaq üçün avtomobilin ümumi faktiki ağırlığını **2/3-ə vurmaq**, ``qabaq oxuna`` düşəni tapmaq üçün isə **1/3-ə vurmaq** lazımdır.
 
-- **3 və daha artıq** oxu olan yük avtomobilində hər hansı oxa düşən faktiki çəkini tapmaq üçün onun ümumi faktiki ağırlığını **1/3-ə vurmaq** lazımdır.
+- **3 və daha artıq** oxu olan yük avtomobilində hər hansı oxa düşən faktiki çəkini tapmaq üçün onun ümumi faktiki ağırlığını **oxlarının sayına bölmək** lazımdır.
 
-**[3.10], [3.27] <-> [3.30]** - nişanlarının qüvvəsi yolun qoyulduğu tərəfəinə şamil olunur.
+**[3.10], [3.27], [3.28], [3.29], [3.30]** - nişanlarının qüvvəsi yalnız yolun qoyulduğu tərəfəinə şamil olunur.
 
- - Bu 10 qadağa nişanın qüvvəsi **[3.31]** - nışanına qədərdir.  
- - Əgər **[3.31]** yoxdursa bu 10 nişanın qüvvəsi yolayırıcına qədərdir.  
- - Əgər yolayırıcı yoxdursa bu 10 nişanın qüvvəsi yaşayış məntəqəsinin qurtaracağına qədərdir. `(ağ fon üstü qırmızı xətt).` 
- - Əgər məntəqənin qurtaracağında nişan yoxdursa bu 10 nişanın qüvvəsi qarşıda müvafiq nişan qoyulmuş və ya nişan olan ikinci dərəcəli yollarla kəsişmə yerinə qədərdir.
+- **[\[Bu 10 qadağa nişanın\]](https://drive.google.com/open?id=1IN2Ya2NCusl1GomE6_Xlri3Hk1Bt_u1s)** qüvvəsi **[\[3.31\]](https://drive.google.com/open?id=1OQ4pyaSIHoLQwi8_hjGuqhsi9J7k-Zhq)** - nışanına qədərdir.  
+	 - Əgər **[3.31]** yoxdursa bu nişanların qüvvəsi **yolayırıcına** qədərdir.  
+	 - Əgər yolayırıcı yoxdursa bu nişanların qüvvəsi **yaşayış məntəqəsinin qurtaracağına** qədərdir. **`[ağ fon üstü qırmızı xətt]`** 
+	 - Əgər məntəqənin qurtaracağında nişan yoxdursa bu nişanların qüvvəsi **qarşıda müvafiq nişan qoyulmuş ikinci dərəcəli yollarla kəsişmə yerinə** qədərdir.
 
-**Maksimum sürət məhdudlaşdırılması nişanı [3.24]** -  bu qeyd etdiyimiz yerlərdən əlavə olaraq yaşayış məntəqəsinin başlanğıcınıda daxil edir. `(ağ fon).`
+**Maksimum sürət məhdudlaşdırılması nişanı [\[3.24\]](https://drive.google.com/open?id=14DVH7UkjuUSXpTFya8IqFrNMINJxwjNY)** -  bu qeyd etdiyimiz yerlərdən əlavə olaraq yaşayış məntəqəsinin başlanğıcında da öz qüvvəsini itirir. `[ağ fon].`
+
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 08. 
  <h1 align="center">Məcburi nişanlar  | Date: 05/04/2018;</h1>
+ 
 
-**[4.4]** - məcburi nişan kütləsi **3.5t-dan** çox olan **`yük avtomobilinin`**, **`traktorun`** və **`özügedən maşınların`** hərəkətini qadağan edir. Əgər həmin ərazidə işləyib yaşayırsınızsa o əraziyə keçməyə **icazə verirlir**. 
-- **Məcburi [4.4] nişanı [3.4] qadağa nişanı ilə eyni qüvvəlidir.**
 
-**[4.1.1] <-> [4.1.6]** - nişanlarının qüvvəsi birinci kəsişməyə aiddir, kəsişməni keçdikdən sonra qüvvəsini itirir.
+- **[\[4.4\]](https://drive.google.com/open?id=11DHAuJgh0OfarPxrWaSFpBJXnE-0Rt7s)** - məcburi nişan kütləsi **3.5t-dan** çox olan **`yük avtomobilinin`**, **`traktorun`** və **`özügedən maşınların`** hərəkətini qadağan edir. Əgər həmin ərazidə işləyib yaşayırsınızsa o əraziyə keçməyə **icazə verirlir**. 
+	- ``Məcburi [4.4] nişanı [3.4] qadağa nişanı ilə eyni qüvvəlidir.``
 
-**Yerə çəkilən** və **yuxarıdan asılan** nişanların qüvvəsi **bütün yolayırıcına aiddir**, yolayırıcını keçdikdən sonra qüvvəsini itirir.
+- **[\[[4.1.1] <---> [4.1.6]\]](https://drive.google.com/open?id=102uC-MwV9DlaAQRqASGFxYACT9sftQ_e)** - nişanlarının qüvvəsi birinci kəsişməyə aiddir, kəsişməni keçdikdən sonra qüvvəsini itirir.
+
+- **Yerə çəkilən** və **yuxarıdan asılan** nişanların qüvvəsi **bütün yolayırıcına aiddir**, yolayırıcını keçdikdən sonra qüvvəsini itirir!.
+
+- Yol ayırıcıları arasındaki olan məsafə **yol sahəsi** adlanır.
+	- Məcburi düz nişanı yol sahəsində quraşdırılarsa - o bizə sağ bitişik əraziyə dönməyə icazə verir.
+	- **Sol bitişik əraziyə və geriyə dönmək qadağandır!**
+	- Bu halda nişanın qüvvəsi kəsişmə xəttinə qədərdir.
+	- Yol ayırıcına çıxandan sonra bütün istiqamətlərdə hərəkət etmək olar.
+	- Bu nişan geriyə hərəkəti icazə verir **ancaq yol sahəsində**.
+
+
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
@@ -553,3 +572,4 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 - **Səkinin kənarı - səkinin üstü sayılır.**
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
+
