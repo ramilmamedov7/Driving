@@ -251,8 +251,12 @@ Reversiv svetaforu **qırmızı, söndürülmüş** və ya **ümumiyyətlə gör
 
 # 10. 
  <h1 align="center">Löhvəciklər | Date: 11/04/2018;</h1>
-
-**[7.2.2 <-> 7.2.7]** - Ancaq və ancaq dayanmaq və durmaq qadağandır nişanları ilə birlikdə tədbiq olunur.
+ 
+- **[\[[7.1.1] <---> [7.1.4]\]](https://drive.google.com/open?id=1Sni5NTgmvch4q8UlU_xTw4mYAa7kAXwM)** - Qədər!
+- **[\[[7.2.2] <---> [7.2.7]\]](https://drive.google.com/open?id=1Sni5NTgmvch4q8UlU_xTw4mYAa7kAXwM)** - Sahə, zona!
+- **[\[[7.3.1] <---> [7.1.3]\]](https://drive.google.com/open?id=1Sni5NTgmvch4q8UlU_xTw4mYAa7kAXwM)** - İstiqamət!
+- **[\[[7.2.2] <---> [7.2.7]\]](https://drive.google.com/open?id=1Sni5NTgmvch4q8UlU_xTw4mYAa7kAXwM)** - Ancaq və ancaq **dayanmaq və durmaq** qadağandır nişanları ilə birlikdə tədbiq olunur.
+- **[\[[7.3.4]\]](https://drive.google.com/open?id=1fUCGUO2L8lhMOreOF5wM5Hie6ctgEHsd)** - bu lövhəcik yalnız "B" kategoriyasına aid olan **minik və 3.5t-dan çox olmayan yük** avtomobillərinə aiddir.
 
  <h3 align="center">Parklama</h3>
  
