@@ -260,15 +260,15 @@ Reversiv svetaforu **qırmızı, söndürülmüş** və ya **ümumiyyətlə gör
 
  <h3 align="center">Parklama</h3>
  
-**[7.6.1, 7.6.4, 7.6.5]** - Bu nişanlar olan sahədə səkiyə paralel və ya perpendikulyar parklamağa kütləsi 3.5t-dan artıq olmayan avtomobillərə və digər NV-lərinə icazə verilir.
-Bu nişanlar olan sahədə kütləsi **3.5-dan artıq olan avtomobillərin parklanması qadağandır!**
+- **[\[[7.6.1, 7.6.4, 7.6.5]\]](https://drive.google.com/open?id=1pbTZodQytDHfFxb75dL1939kp4GapVUe)** - Bu nişanlar olan sahədə səkiyə paralel və ya perpendikulyar parklamağa kütləsi 3.5t-dan artıq olmayan avtomobillərə və digər NV-lərinə icazə verilir.
+	- Bu nişanlar olan sahədə kütləsi **3.5-dan artıq olan avtomobillərin parklanması qadağandır!**
 
-**[7.6.2, 7.6.3]** və **[7.6.6 <-> 7.6.9]** - Bu nişanlar olan sahədə səkiyə çıxmaqla parklamağa yalnız minik avtomobillərinə, motosikiletlərə, velosipedlərə və mopedlərə icazə verilir.
+- **[\[[7.6.2, 7.6.3] və [7.6.6 <-> 7.6.9]\]](https://drive.google.com/open?id=1WqtNS7fwC8gC62zpCssR0C0aOR9ncmpI)** - Bu nişanlar olan sahədə səkiyə çıxmaqla parklamağa yalnız minik avtomobillərinə, motosikiletlərə, velosipedlərə və mopedlərə icazə verilir.
 Bu nişanlar olan sahədə kütləsindən asılı olmayaraq **yük avtomobillərinin səkiyə çıxaraq parklanması qəti qadağandır!**
 
- - Sürücünün parklanma yerində 24 saatdan artıq artıq parklaması üçün "fərdi parklama talonu" olmalıdır. 
+ - Sürücünün parklanma yerində 24 saatdan artıq artıq parklaması üçün **"fərdi parklama talonu"** olmalıdır. 
  - Sürücü ödənişli parklama yerində 15 dəqiqə müddətinə qədər parklama, ödəniş etməməsi qayda pozuntusu sayılmır. 
- - Səkinin kənarı = səkinin üstü.
+ - Səkinin kənarı == səkinin üstü.
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
