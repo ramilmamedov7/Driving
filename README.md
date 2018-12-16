@@ -275,8 +275,11 @@ Bu nişanlar olan sahədə kütləsindən asılı olmayaraq **yük avtomobillər
 # 11. 
  <h1 align="center">Nişanlama xətləri  | Date: 12/04/2018;</h1>
 
- 1. **Qoşa Xətt** - ancaq əks istiqamətli nəqliyyat axınını ayırır. 
- 2. **Bütöv Xətt, Qırıq Xətt** və **Bir Bütöv - Bir Qırıq Xətt** isə həm əks həm də eyni istiqamətli nəqliyyat axınını ayırır.
+ - Ancaq və ancaq **əks istiqamətli** nəqliyyat axınını ayıran xətt: **Qoşa xətt.**
+ - Həm əks həm də eyni istiqamətli nəqliyyat axınını ayıran xətlər:
+	 - **Bütöv xətt,**
+	 - **Qırıq-qırıq xətt,**
+	 - **Bir bütöv - bir qırıq xətt**.
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
@@ -290,44 +293,59 @@ Bu nişanlar olan sahədə kütləsindən asılı olmayaraq **yük avtomobillər
 **Nizamlanmayan yolayırıcı özü də 2 hissəyə bölünür:**
 1) Eyni əhəmiyyətli;
 2) Eyni əhəmiyyətli olmayan yolların kəsişməsi;
-
-- **Eyni əhəmiyyətli yolların kəsişməsində NV-lərin traektoriyası kəsişərsə, sağdan gələn üstündür! (Test 1,2,3,4).**
+##
+- Eyni əhəmiyyətli yolların kəsişməsində NV-lərin **traektoriyası kəsişərsə, sağdan gələn üstündür!** [Photo].
 - **Tramvay bütün hallarda bizə qarşı üstündür. (Yolayırıcı sayılmayan yerlərdə).**
-- **Tramvay bizə qarşı olan üstünlüyünü 2 halda itirə bilər:**
-	1) Depodan çıxanda;
-	2) ``II`` dərəcəli yolda olanda;
+	- **Tramvay bizə qarşı olan üstünlüyünü 2 halda itirə bilər:**
+		1) Depodan çıxanda;
+		2) ``II`` dərəcəli yolda olanda;
 
-### Test 5-in izahı:
-Eyni əhəmiyyətli yolların kəsişməsində B sağda yerləşir və geriyə dönür. Traektoriyası kəsişdiyi üçün A, B-yə yol verməlidir...amma vəziyyət dəyişir, B yolayırıcına girib maşını fırladır, A - keçir və sonda isə B geriyə dönməni başa çatdırır.
-Qayda: Eyni əhəmiyyətli yolların kəsişməsində geriyə dönən varsa o yolayırıcına çıxdıqdan sonra gözləməlidir, çünki yolayırıcına çıxdıqdan sonra solda qalacaq.
-### Test 6-nın izahı:
-Eyni əhəmiyyətli yolların kəsişməsi sağa dönən varsa o I keçir. Sağdan gələn ilə traektoriyası kəsişməzsə hər ikisi eyni vaxta dönə bilər.
-### Test 7, 8, 9-ın izahı:
-Qarşı-qarşıya (Üzbə-üz) qaydası: Geriyə gedən üstündür!
-Qarşı-qarşıya olduqda, sola və ya geriyə dönən sürücü, düz və ya sağa dönən sürücüyə yol verməlidir.
-Düz və ya sağa gedən qısa gedəndir!
-### Test 10-un izahı:
-Eyni əhəmiyyətli yolların kəsişməsində 3 NV-nin traektoriyası kəsişərsə ən I fikir verin ki, sağa dönən varsa o I keçir. Sonra qarşı-qarşıya olanlarda qısa gedən keçir.
-### Test 11-in izahı:
-Əgər sağa dönən yoxdursa, fikir verin ki, ən sağda kim yerləşir və kimin sağı boşdursa, qısa gedirsə o heç kimə yol verməyəcək, fırlatma qaydası baş verəcək.
-### Test 12-nin izahı:
-Ən sağda yerləşən və sağı boş olan əgər uzun gedərsə I yolayırıcına girərək, qarşıdan gələnə yol vermək üçün dayancaq, bu zaman solda yerləşən NV-nin sağı boş olacaq və o I keçəcək. Sonra qarşıdan gələn keçəcək və ən sonda yolayırıcına I girən keçib gedəcək. (Peşmançılıq qaydası)
-### Test 16-nın izahı:
-Əgər NV-lərin hər ikisi uzun gedərsə, heç biri bir-birinə yol verməyəcək və furlatma qaydası tətbiq olunacaq.
-### Test 22-nin izahı:
-Əgər 4 avtomobilin traektoriyası kəsişərsə və sağa dönən yoxdursa onda bu hal qanunda müəyyən edilməyib.
+## Test 5-in izahı:
+Eyni əhəmiyyətli yolların kəsişməsində B sağda yerləşir və geriyə dönür. 
+Traektoriyası kəsişdiyi üçün **A, B-yə** yol verməlidir, amma **B yolayırıcına birinci girib maşını fırlatmalıdır**, **A - keçdikdən sonra** isə **B geriyə dönməni başa çatdırır**.
+- **Qayda:** Eyni əhəmiyyətli yolların kəsişməsində **geriyə dönən varsa** o yolayırıcına çıxdıqdan sonra gözləməlidir, çünki yolayırıcına çıxdıqdan sonra solda qalacaq.
+## Test 6-nın izahı:
+- Eyni əhəmiyyətli yolların kəsişməsi **sağa dönən varsa o birinci keçməlidir**. 
+- Sağdan gələn ilə traektoriyası kəsişməzsə hər ikisi eyni vaxta dönə bilər.
+## Test 7, 8, 9-ın izahı:
+**Qarşı-qarşıya (Üzbə-üz) qaydası:** 
+- **Uzun gedən sürücü qısa gedənə yol verməlidir.**
+	- Sola və ya geriyə dönən sürücü, düz və ya sağa dönən sürücüyə yol verməlidir.
+		- Düz və ya sağa gedən qısa gedəndir.
+- **Geriyə gedən üstündür.**
+## Test 10-un izahı:
+**Eyni əhəmiyyətli yolların kəsişməsində 3 NV-nin traektoriyası kəsişərsə:** 
+- ən birinci fikir vermək lazımdır ki, sağa dönən NV varsa əgər o, yolayırıcını birinci keçməlidir. 
+- sonra qarşı-qarşıya olanlarda qısa gedən birinci keçir.
+## Test 11-in izahı:
+**Fırlatma qaydası:**
+- **Qarşı-qarşıya gedən NV-lərin hər ikisi eyni zamanda qısa və ya uzun gedərsə fırlatma qaydası baş verəcək.**
+- Əgər sağa dönən NV yoxdursa, birinci ən sağda yerləşən və sağı boş olan NV-ni tapmaq lazımdır. 
+	- Həmin NV qısa gedərsə o, **heç kimə yol verməyəcək və fırlatma qaydası baş verəcək**.
+- Ən sağda yerləşən və sağı boş olan varsa, hamı bir-bir sağını buraxıb keçməlidir.
+## Test 12-nin izahı:
+**Peşmançılıq qaydası:**
+- Əgər qarşı-qarşıya olanlardan biri qısa, digəri uzun gedərsə, ən sağda olan NV-nin sol tərəfindən yaxınlaşan varsa, bu zaman: 
+	- **Ən sağda yerləşən NV yolayırıcına birinci girəcək**, qarşıdan gələn NV-yə yol vermək üçün. 
+	- Bu zaman solda yerləşən NV-nin sağı boşalacaq və o **yolayırıcını birinci keçəcək**, 
+	- Daha sonra isə qarşıdan gələn NV yolayırıcına keçəcək,
+	- **Ən sonda isə yolayırıcına birinci girən NV keçib gedəcək**.
+
+## Test 22-nin izahı:
+- Əgər 4 avtomobilin traektoriyası kəsişərsə və sağa dönən olmazsa onda **bu hal qanunda müəyyən edilməyib, öz aralarında razılaşma yolu ilə keçməlidirlər**.
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 13. 
  <h1 align="center">Yolayırıcının keçilməsi №2 | Date: 16/04/2018;</h1>
 
-- **Eyni əhəmiyyətli olmayan yolların kəsişməsində I baş yolda olanlar keçir, sonra isə ``II`` dərəcəli yolda olanlar.**
-- **Svetafor yolun üstünlük nişanlarını ləğv edir!**
-- **Qarşımızda olan nişanın üstü qar və ya palçıq ilə örtülü olarsa, özümüzü ``II`` dərəcəli yolda hesab edirik və qarşıdan yaxınlaşan NV-lərə yol verməyə hazır olmalıyıq.**
-- **Qarşımızda svetaforun əlavə bölməsi yanarsa özümüzü ``II`` dərəcəli yolda hesab edirik, kəsişən yolda qarşısında svetaforun əsas bölməsi yaşıl yanan NV-lərə yol verməliyik.**
-- **Qırmızıya düşmüş sürücü üstündür, ona yolayırıcını tərk etmək üçün imkan vermək lazımdır.**
-- **Yolu keçmək NİYYƏTİN-də olan piyada sonda keçir.**
+- Eyni əhəmiyyətli olmayan yolların kəsişməsində ``I`` baş yolda olanlar, sonra isə ``II`` dərəcəli yolda olanlar keçməlidir.
+
+- Qarşımızda olan nişanın üstü qar və ya palçıq ilə örtülü olarsa, özümüzü ``II`` dərəcəli yolda hesab edirik və **qarşıdan yaxınlaşan NV-lərə yol verməyə hazır olmalıyıq.**
+- Qarşımızda svetaforun əlavə bölməsi yanarsa özümüzü ``II`` dərəcəli yolda hesab edirik, **kəsişən yolda qarşısında svetaforun əsas bölməsi yaşıl yanan NV-lərə yol verməliyik.**
+	- Qırmızıya düşmüş sürücü üstündür, ona yolayırıcını tərk etmək üçün imkan vermək lazımdır.
+	- **Svetafor yolun üstünlük nişanlarını ləğv edir!**
+	- Yolu keçmək **NİYYƏTİN-də olan piyada** yolu ən sonda keçməlidir.
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
@@ -576,4 +594,3 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 - **Səkinin kənarı - səkinin üstü sayılır.**
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
-
