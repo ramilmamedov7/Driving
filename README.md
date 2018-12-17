@@ -356,20 +356,21 @@ a) **"Diqqət. Hərəkət qadağandır"** - bütün NV-lərə hərəkəti qadağ
 
 b) **"Müəyyən istiqamət üzrə hərəkət"** - [] bu üç siqnalların mənası eynidir. 
 
-   - Nizamlayıcının sinə və arxa tərəfdən gələn NV-lərə hərəkət qadağandır.
-	- Nizamlayıcının sağ və ya sol tərəfindən gələn NV-lərə ancaq düzünə və sağa gedə bilər. 
-   	- Tramvaylar ancaq düzünə hərəkət edə bilər. 
-   	- Bu siqnalda piyadalar ancaq sinə və arxa tərəfdən keçə bilər.
+- Nizamlayıcının **sinə və arxa tərəfdən gələn** NV-lərə hərəkət qadağandır.
+- Nizamlayıcının **sağ və ya sol tərəfindən gələn** NV-lərə ancaq düzünə və sağa gedə bilər. 
+- **Tramvaylar ancaq düzünə** hərəkət edə bilər. 
+- Bu siqnalda **piyadalar ancaq sinə və arxa tərəfdən** keçə bilər.
 
 v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfindən yaxınlaşan NV-lərə hərəkət qadağandır. 
-- Üzü jezlə olan bütün NV-lər ancaq sağa getməlidir. 
-- Qolun içini görən NV-lər bütün istiqamətlərə gedə bilər, 
-- Tramvaylar ancaq sola getməlidir. 
-- Bu siqnalda piyadalar ancaq arxadan keçə bilər.
+
+- **Üzü jezlə olan bütün NV-lər ancaq sağa** getməlidir. 
+- **Qolun içini görən NV-lər bütün istiqamətlərə** gedə bilər, 
+- **Tramvaylar ancaq sola** getməlidir. 
+- Bu siqnalda **piyadalar ancaq arxadan** keçə bilər.
 
 ### Qeyd: 
-- **Nizamlayıcı fitdən yol hərəkəti iştirakçılarının diqqətini cəlb eləmək üçün istifadə edə bilər.**
-- **Nizamlayıcının əmri ilə nişan zid olarsa nizamlayıcının əmri üstündür.** 
+- Nizamlayıcı fitdən yol hərəkəti iştirakçılarının diqqətini cəlb eləmək üçün istifadə edə bilər.
+- Nizamlayıcının əmri ilə nişan zid olarsa nizamlayıcının əmri üstündür, əgər heç bir alternativ variant olmazsa.
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
