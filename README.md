@@ -378,64 +378,58 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
  <h1 align="center">Xarici işıq cihazları | Date: 19/04/2018;</h1>
 
 ### NV hərəkətdə olarkən:
-1) **Sutkanın qaranlıq vaxtı, yolun işıqlandırılan sahəsində** - ``yaxın işıq`` faralarını yandırmalısınız.
-	- Bu şəraitdə **duman faralarından** və **uzaq işıq** faralarından istifadə etmək **qadağandır!**
+**1) Sutkanın qaranlıq vaxtı:** 
+ - **Yolun işıqlandırılan** sahəsində - **``yaxın işıq``** faralarını yandırmalısınız.
+	- bu şəraitdə **duman** və **uzaq işıq** faralarından istifadə etmək **qadağandır!** 🚫
+ - **Yolun işıqlandırılmayan** sahəsində - **``yaxın-uzaq işıq``** faralarını yandırmalısınız.
+	- bu şəraitdə **duman faralarını** yalnız **yaxın-uzaq işıq faraları ilə birlikdə** yandıra bilərsiniz. **Duman faralarını ayrıca yandırmaq qadağandır!** 🚫
 
-2) **Sutkanın qaranlıq vaxtı yolun işıqlandırılmayan sahəsində** - ``yaxın-uzaq işıq`` faralarını yandırmalısınız.
-	- Bu şəraitdə **duman faralarını** yandırmaq istəsəniz **yaxın-uzaq işıq faraları ilə birlikdə** yandıra bilərsiniz.
-	- **Duman faralarını ayrıca yandırmaq olmaz!**
+**3) Məhdud görünmə şəraitində** - **``yaxın-uzaq işıq``** faralarını yandırmalısınız.
+	- bu şəraitdə **duman faralarını** - **``həm ayrıca, həm də yaxın-uzaq işıq``** faraları ilə birlikdə yandırmaq olar.
 
-3) **Məhdud görünmə şəraitində** - ``yaxın-uzaq işıq`` faralarını yandırmalısınız.
-	- Bu şəraitdə **duman faralarını** - ``həm ayrıca, həm də yaxın-uzaq işıq`` faraları ilə birlikdə yandırmaq olar.
+ **4) Tunnellərdə və yedəyə alan NV-lər** - **``yaxın-uzaq işıq``** faraları yandırmalıdır.
 
-4) **Tunnellərdə hərəkətdə olan və yedəyə alan NV-lər** - ``yaxın-uzaq işıq`` faraları yandırmalıdır.
-	- **Tunneldə duman faralarını yandırmaq qadağandır!**
-	- Tuneldə **yedəyə alınan NV** və **qoşqular** ``qabarit işıqları`` yandırmalıdır.
+- Tunneldə **duman faralarını yandırmaq qadağandır!**
+- Tuneldə **yedəyə alınan NV** və **qoşqular** **``qabarit işıqları``** yandırmalıdır.
 	- Yedəyə alınan NV (nasaz) - yedəyə alan NV-nin siqnallarına uyğun siqnal verilməlidir.
 
-5) **Sutkanın işıqlı vaxtı** - aşağıda göstərilən NV-lər ``yaxın işıqları`` və ya ``duman faralarını`` yandırmalıdır (maddə 70 - V bənd):
+**5) Sutkanın işıqlı vaxtı** - aşağıda göstərilən NV-lər **``yaxın işıqları``** və ya **``duman faralarını``** yandırmalıdır:
 
-- motosiklet və mopedlərdə;
+   - motosiklet və mopedlərdə;
+   - uşaq dəstələrini daşıyan avtobus və mikroavtobuslarda;
+   - mütəşəkkil nəqliyyat dəstəsində hərəkət edən nəqliyyat vasitələrində;
+   - digər NV-ni yedəyə alan nəqliyyat vasitələrində;
+   - təhlükəli, ağır çəkili və iri qabaritli yük daşıyan nəqliyyat vasitələrində;
+   - xüsusi olaraq ayrılmış zolaqla NV-nin axınına qarşı hərəkət edən ümumi istifadədə olan NV-də.
+	   - bu şəraitdə **`yaxın işıqlar`** və **`duman faraları`** birlikdə yandırıla bilməz! 🚫
 
-- uşaq dəstələrini daşıyan avtobus və mikroavtobuslarda;
-
-- mütəşəkkil nəqliyyat dəstəsində hərəkət edən nəqliyyat vasitələrində;
-
-- digər NV-ni yedəyə alan nəqliyyat vasitələrində;
-
-- təhlükəli, ağır çəkili və iri qabaritli yük daşıyan nəqliyyat vasitələrində;
-
-- xüsusi olaraq ayrılmış zolaqla NV-nin axınına qarşı hərəkət edən ümumi istifadədə olan NV-də.
-
-	- **Bu şəraitdə yaxın işıqlar və duman faraları birlikdə yandırıla bilməz.**
-
-### Qeyd: 
-- **Duman faraları qabaqda olur, duman fənərləri arxada.**
-- **Arxa duman fənəri yalnız məhdud görünmə şəraitində yandırılır.**
-- **Qarşıdan gələn NV-yə azı 150m qalmış uzaq işıqları yaxına keçirmək lazımdır.**
+---
 
 ### NV dayanarkən və ya durarkən:
-1) **Sutkanın qaranlıq vaxtı yolun işıqlandırılmayan sahəsində və ya məhdud görünmə şəraitində** - ``qabarit işıqları`` yandırılmalıdır.
-	- Qatı duman şəraitində güclü qar və ya yağış olarsa bu zaman ``qabarit işıqları`` ilə birlikdə ``yaxın işıq``, ``duman faraları`` və ya ``duman fənərləri`` yandırıla bilər.
-	- Əgər qabarit işıq nasazdırsa NV-ni yoldan kənara çıxarmalı, bu mümkün olmadıqda isə qəza dayanma nişanı quraşdırılmalıyıq.
-	- Avtoqatar tanınma nişanı **sutkanın işıqlı vaxtı, hərəkətdə olarkən** yandırmalır.
-	- Avtoqatar tanınma nişanı **sutkanın qaranlıq vaxtı və ya məhdud görünmə şəraitində həm hərəkətdə olarkən həm də dayanarkən-durarkən** yandırmalır.
+**1) Sutkanın qaranlıq vaxtı yolun işıqlandırılmayan sahəsində və ya məhdud görünmə şəraitində** - ``qabarit işıqları`` yandırılmalıdır.
+**2) Qatı duman şəraitində güclü qar və ya yağış olarsa** bu zaman ``qabarit işıqları`` ilə birlikdə ``yaxın işıq``, ``duman faraları`` və ya ``duman fənərləri`` yandırıla bilər.
+**3) Əgər qabarit işıq nasazdırsa** NV-ni yoldan kənara çıxarmalı, bu mümkün olmadıqda isə qəza dayanma nişanı quraşdırılmalıyıq.
+**4) Aşağıdakı hallarda, işıq cihazları söndürülmüşdür vəziyyətdə NV-ni duracaqda saxlaya bilərik:**
 
-2) **Aşağıdakı hallarda, işıq cihazları söndürülmüşdür vəziyyətdə NV-ni duracaqda saxlaya bilərik:**
+- işıqlandırılmış yollarda NV kifayət qədər məsafədə aydın görünərsə;
+- yoldan kənar saxladıqda;	
+- akkumiliyator-la təchiz olunmamış motosikletlər saxladıqda;
+- yaşayış məntəqələrində, hərəkət gərginliyi az olan yerlərdə.
 
-	- işıqlandırılmış yollarda NV kifayət qədər məsafədə aydın görünərsə;
-	
-	- yoldan kənar saxladıqda;
-	
-	- akkumiliyator-la təchiz olunmamış motosikletlər saxladıqda;
-	
-	- yaşayış məntəqələrində, hərəkət gərginliyi az olan yerlərdə.
-
+---
 
 ### Ötmə barədə işıq siqnallarının:
 1) **Sutkanın işıqlı vaxtı**, faraların yaxın işıqlarını qısa müddətdə **yandırıb-söndürməklə** verilir;
 
 2) **Sutkanın qaranlıq vaxtı**, yaxın işıqları **dəfələrlə uzaq işıqlara keçirməklə** verilir.
+
+
+### Qeyd: 
+- **Duman faraları qabaqda olur, duman fənərləri arxada.**
+- **Arxa duman fənəri yalnız məhdud görünmə şəraitində yandırılır.**
+- **Qarşıdan gələn NV-yə azı 150m qalmış uzaq işıqları yaxına keçirmək lazımdır.**
+- Avtoqatar tanınma nişanı **sutkanın işıqlı vaxtı, hərəkətdə olarkən** yandırmalır.
+- Avtoqatar tanınma nişanı **sutkanın qaranlıq vaxtı və ya məhdud görünmə şəraitində həm hərəkətdə olarkən həm də dayanarkən-durarkən** yandırmalır.
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
