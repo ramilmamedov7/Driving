@@ -421,7 +421,7 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 
 ---
 
-### Ötmə barədə işıq siqnallarının:
+### Ötmə barədə işıq siqnalları:
 1) **Sutkanın işıqlı vaxtı**, faraların yaxın işıqlarını qısa müddətdə **yandırıb-söndürməklə** verilir;
 
 2) **Sutkanın qaranlıq vaxtı**, yaxın işıqları **dəfələrlə uzaq işıqlara keçirməklə** verilir.
