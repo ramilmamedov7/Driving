@@ -395,19 +395,19 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 
 5) **Sutkanın işıqlı vaxtı** - aşağıda göstərilən NV-lər ``yaxın işıqları`` və ya ``duman faralarını`` yandırmalıdır (maddə 70 - V bənd):
 
-	- motosiklet və mopedlərdə;
+- motosiklet və mopedlərdə;
 
-	- uşaq dəstələrini daşıyan avtobus və mikroavtobuslarda;
+- uşaq dəstələrini daşıyan avtobus və mikroavtobuslarda;
 
-	- mütəşəkkil nəqliyyat dəstəsində hərəkət edən nəqliyyat vasitələrində;
+- mütəşəkkil nəqliyyat dəstəsində hərəkət edən nəqliyyat vasitələrində;
 
-	- digər NV-ni yedəyə alan nəqliyyat vasitələrində;
+- digər NV-ni yedəyə alan nəqliyyat vasitələrində;
 
-	- təhlükəli, ağır çəkili və iri qabaritli yük daşıyan nəqliyyat vasitələrində;
+- təhlükəli, ağır çəkili və iri qabaritli yük daşıyan nəqliyyat vasitələrində;
 
-	- xüsusi olaraq ayrılmış zolaqla NV-nin axınına qarşı hərəkət edən ümumi istifadədə olan NV-də.
+- xüsusi olaraq ayrılmış zolaqla NV-nin axınına qarşı hərəkət edən ümumi istifadədə olan NV-də.
 
-- **Bu şəraitdə yaxın işıqlar və duman faraları birlikdə yandırıla bilməz.**
+	- **Bu şəraitdə yaxın işıqlar və duman faraları birlikdə yandırıla bilməz.**
 
 ### Qeyd: 
 - **Duman faraları qabaqda olur, duman fənərləri arxada.**
