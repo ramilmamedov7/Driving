@@ -407,8 +407,11 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 
 ### NV dayanarkən və ya durarkən:
 **1) Sutkanın qaranlıq vaxtı yolun işıqlandırılmayan sahəsində və ya məhdud görünmə şəraitində** - ``qabarit işıqları`` yandırılmalıdır.
+
 **2) Qatı duman şəraitində güclü qar və ya yağış olarsa** bu zaman ``qabarit işıqları`` ilə birlikdə ``yaxın işıq``, ``duman faraları`` və ya ``duman fənərləri`` yandırıla bilər.
+
 **3) Əgər qabarit işıq nasazdırsa** NV-ni yoldan kənara çıxarmalı, bu mümkün olmadıqda isə qəza dayanma nişanı quraşdırılmalıyıq.
+
 **4) Aşağıdakı hallarda, işıq cihazları söndürülmüşdür vəziyyətdə NV-ni duracaqda saxlaya bilərik:**
 
 - işıqlandırılmış yollarda NV kifayət qədər məsafədə aydın görünərsə;
