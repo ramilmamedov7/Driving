@@ -414,23 +414,23 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 - **Arxa duman fənəri yalnız məhdud görünmə şəraitində yandırılır.**
 - **Qarşıdan gələn NV-yə azı 150m qalmış uzaq işıqları yaxına keçirmək lazımdır.**
 
-### NV dayanarkən, durarkən:
-1) **Sutkanın qaranlıq vaxtı yolun işıqlandırılmayan sahəsində və məhdud görünmə şəraitində dayanarkən və ya durarkən** - ``qabarit işıqları`` yandırılmalıdır.
+### NV dayanarkən və ya durarkən:
+1) **Sutkanın qaranlıq vaxtı yolun işıqlandırılmayan sahəsində və ya məhdud görünmə şəraitində** - ``qabarit işıqları`` yandırılmalıdır.
 	- Qatı duman şəraitində güclü qar və ya yağış olarsa bu zaman ``qabarit işıqları`` ilə birlikdə ``yaxın işıq``, ``duman faraları`` və ya ``duman fənərləri`` yandırıla bilər.
 	- Əgər qabarit işıq nasazdırsa NV-ni yoldan kənara çıxarmalı, bu mümkün olmadıqda isə qəza dayanma nişanı quraşdırılmalıyıq.
+	- Avtoqatar tanınma nişanı **sutkanın işıqlı vaxtı, hərəkətdə olarkən** yandırmalır.
+	- Avtoqatar tanınma nişanı **sutkanın qaranlıq vaxtı və ya məhdud görünmə şəraitində həm hərəkətdə olarkən həm də dayanarkən-durarkən** yandırmalır.
 
 2) **Aşağıdakı hallarda, işıq cihazları söndürülmüşdür vəziyyətdə NV-ni duracaqda saxlaya bilərik:**
 
 	- işıqlandırılmış yollarda NV kifayət qədər məsafədə aydın görünərsə;
-
+	
 	- yoldan kənar saxladıqda;
-
+	
 	- akkumiliyator-la təchiz olunmamış motosikletlər saxladıqda;
-
+	
 	- yaşayış məntəqələrində, hərəkət gərginliyi az olan yerlərdə.
 
-- **Avtoqatar tanınma nişanı sutkanın işıqlı vaxtı, hərəkətdə olarkən yandırmalır.**
-- **Avtoqatar tanınma nişanı sutkanın qaranlıq vaxtı və məhdud görünmə şəraitində həm hərəkətdə olarkən həm də dayanarkən-durarkən yandırmalır.**
 
 ### Ötmə barədə işıq siqnallarının:
 1) **Sutkanın işıqlı vaxtı**, faraların yaxın işıqlarını qısa müddətdə **yandırıb-söndürməklə** verilir;
