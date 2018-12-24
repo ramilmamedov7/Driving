@@ -36,93 +36,132 @@
 # 01.
  <h1 align="center">Əsas anlayışlar - №1 | Date: 27/03/2018; </h1>
 
-- 2 motosikilet eni = 1 avtomovil eni;
-- 1 avtomovil eni = 1 hərəkət zolağı;
-- Sarı işıq = təhlükə;
-- **Yol** həmişə 1 dənə olur, **səki** və **yol-çiyni** yolun tərkib hissəsidir;
-- **Yolayırıcı** həmişə 1 dənə olur;
-- **Dalan** baş-yol sayılmır.
+- **Yol** həmişə 1 dənə olur, **səki** və **yol-çiyni** yolun tərkib hissəsinə aiddir.
+- **Yolayırıcı** həmişə 1 dənə olur.
+- 2 motosikilet eni = 1 avtomovil eninə bərabərdir.
+- 1 avtomovil eni = 1 hərəkət zolağının eninə bərabərdir.
+- Svetaforun **sarı işığı** = təhlükə bildirir;
 
-**Yol-çiynində** piyadaların hərəkəətinə maneə yaratmadan ***at arabalarının*** və ***adi velosipedin*** hərəkətinə icazə verilir, digər NV-lərin yalnız ``dayanmasına`` və ``durmasına`` icazə verilir.
 
-**Yolayırıcı-nın** əmələ gəlməsi üçün, avtomovil yolları ``eyni səviyyədə`` kəsişməlidir.
-``Asfaltla-torpaq`` kəsişməsi olan yol və ``kruq`` da **yolayıcı** hesab olunur. (Dairəvi hərəkət təşkil olunmuş yolayıcı).
+**Yol-çiynində** piyadaların hərəkətinə maneə yaratmadan yalnız **at arabaları** və **adi velosipedlər** hərəkət edə bilər.  **Digər NV-lərin isə yalnız ``dayanmasına`` və ``durmasına`` icazə verilir!**
+
+- **Yolayırıcı-nın** əmələ gəlməsi üçün, avtomovil yolları ``eyni səviyyədə`` kəsişməlidir.
+	- ``Asfalt və torpaq`` yolların kəsişməsi və ``kruq`` da **yolayıcı** hesab olunur.
 Bitişik ərazilərdən yola çıxış yeri **yolayırıcı** hesab olunmur!
 
-Əgər **baş yol** nişanı yoxdursa, kəsişən yolun hər iki örtüyü bərk olarsa ``(asfalt, daş, beton)`` bu yollar - **eyni əhəmiyyətli yollar** hesab olunur. 
-Eyni əhəmiyyətli yolların kəsişməsində sağdan yaxınlaşan üstündür!
+- Əgər **baş yol** nişanı yoxdursa, kəsişən yolun hər iki örtüyü bərkdirsə ``(asfalt, daş, beton)`` bu yollar - **eyni əhəmiyyətli** yollar hesab olunur. 
+	- Eyni əhəmiyyətli yolların kəsişməsində **sağdan yaxınlaşan üstündür!**
+	- **Dalan** yolayırıcında üstünlük vermir (baş-yol sayılmır).
+
+- **Avtoqatar** - bir mexaniki NV-yə qoşularaq birlikdə hərəkət edən bir neçə NV-dən ibarət olan tərkibdir.
+- **Mütəşəkkil nəqliyyat dəstəsi** - qarşıda qırmızı və ya göy sayrışan işıq və xüsusi səs siqnalı ilə təchiz edilmiş operativ NV-nin müşayiəti ilə bir hərəkət zolağında bir-birinin ardınca faraları yandırılmış vəziyyətdə hərəkət edən **3 və ya daha artıq** mexaniki NV-dən ibarət olan dəstədir.
+
+![1](https://user-images.githubusercontent.com/38986496/50398375-78824880-0790-11e9-8a88-327ce7f5b25e.jpg)
+
+ - Y - yol 
+ - H - hərəkət hissəsi 
+ - Z - hərəkət zolağı 
+ - S - səki 
+ - A - ayırıcı zolağ 
+ - Ç - yol çiyni 
+ - T - tramvay yolları
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 02. 
  <h1 align="center">Əsas anlayışlar - №2 | Date: 28/03/2018; </h1>
 
-**NV aşağıdaki 2 hissəyə bölünür: Mexaniki və Non-Mexaniki.**
+**Nəqliyyat Vasitələri 2 hissəyə bölünür:** ``Mexaniki`` və ``Non-Mexaniki``.
 
-|		Mexaniki NV	   | Non-Mexaniki NV      |
-|----------------------|----------------------------------|
-`Minik-Yük Avtomobili` :car: |`Tranvay`       :train:    
-`Motosikilet`     :bike:     |`Qatar`           :bullettrain_front: 
-`Traktor`	:tractor:		   |`Velosiped` :bicyclist:
-`Avtobus` 	:bus:		   |`Asma mühərrikli velosiped`
-`Traleybus ` 	:trolleybus:	   |`Moped`
-`A1 kat motosikilet`   |`Araba`
-`Özügedən maşınlar`    |`Qoşqu`, `Yarım-qoşqu`, `Yük-kirşəsi`.
+|		Mexaniki NV	         | Non-Mexaniki NV                  |
+|----------------------------|----------------------------------|
+`Traktor` :tractor:          |`Araba`
+`Avtobus` :bus:              |`Moped`
+`Traleybus ` :trolleybus:    |`Qatar` :bullettrain_front:
+`Motosikilet` :bike:         |`Tranvay` :train:  
+`Özügedən maşınlar`          |`Velosiped` :bicyclist:
+`A1 kat motosikilet`         |`Asma mühərrikli velosiped`
+`Minik-Yük Avtomobili` :car: |`Qoşqu`, `Yarım-qoşqu`, `Yük-kirşəsi`.
 
-**Avtomobil qrupuna aid olan NV-ləri:** *`minik-yük, avtobus, traleybus.`*
+Avtomobil qrupuna aid olan NV-lər: **`minik-yük, avtobus, traleybus.`**
 
- - **Dayanma** - sərnişinin mindirilib-düşürdülməsi, yük götürüb-boşaldılması prosesi.
- - **Durma** - telefonla danışmaq, sərnişin gözləmək, sərnişinlə söhbət etmək, su almaq, qazet oxumaq, mühərriki söndürüb düşmək.
- - **Yol hərəkəti qaydası** - siftoforun qırmızı işığında, piyada keçidində olan piyadalara, üstün hərəkət rejimində olan nəqliyyat vasitələrinə `[Operativ NV-lərə]` yol vermək üçün dayanmaq.
-   **Məcburi dayanma** - sürücü və ya sərnişinin səhəti pisləşdikdə, aparılan yükün dağılması təhlükəsində və ya avtomobildə yaranan texniki nasazlıq.
+### Dayanma və Durma
 
-Dayanma, durmanı qadağan olunduğu yollarda NV məcburi dayandıqda, NV-ni işarələmək üçün `qəza işıq siqnalları` və ya `qəza dayanma nişanı` :warning: quraşdırılmalıdır **[30m]**.
+ - **Dayanma:** 
+	 - sərnişinin mindirilib-düşürdülməsi, 
+	 - yük götürüb-boşaldılması prosesi.
+ - **Durma:** 
+	 - telefonla danışmaq, 
+	 - sərnişin gözləmək, 
+	 - sərnişinlə söhbət etmək, 
+	 - su almaq, 
+	 - qazet oxumaq, 
+	 - mühərriki söndürüb düşmək.
+ - **Yol hərəkəti qaydası:** 
+	 - siftoforun qırmızı işığında, 
+	 - piyada keçidində olan piyadalara, 
+	 - üstün hərəkət rejimində olan nəqliyyat vasitələrinə, 
+	 - Operativ NV-lərə yol vermək üçün dayanmaq.
+- **Məcburi dayanma:** 
+	- sürücü və ya sərnişinin səhəti pisləşdikdə, 
+	- aparılan yükün dağılması təhlükəsində, 
+	- avtomobildə yaranan texniki nasazlıq.
+
+Dayanma və Durmanı qadağan olunduğu yollarda NV məcburi dayandıqda, NV-ni işarələmək üçün **`qəza işıq siqnalları`** və ya **`qəza dayanma nişanı`** :warning: quraşdırılmalıdır! **[30m məsafədə]**.
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 03. 
  <h1 align="center">Kategoriyalar  | Date: 29/03/2018; </h1>
  
- **1.**  :bicyclist: `Velosiped` və `arabaları` yollarda sürməyə **14 yaşından** icazə verilir.
+ **1.**  :bicyclist: `Velosiped` və `arabanı` yollarda sürməyə **14 yaşından** icazə verilir.
+ 
+ **2.**  🛵`Asma mühərrikli velosiped` və ya  `mopedləri` **16 yaşından** icazə verilir.
+ 
+ **3.** **[A1]** - mühərrikin işçi həcmi `125sm^2` və mühərrik gücü `11kV`-dan çox olmayan motosikiletləri yollarda sürməyə **16 yaşından** icazə verilir.
  ___
- **2.** `Asma mühərrikli velosiped` və ya `mopedləri` **16 yaşından** icazə verilir.
- ___
- **3.** **[A1]** - mühərrikin işçi həcmi `125sm^2`, və mühərrik gücü `11kV`-dan çox olmayan motosikiletləri yollarda sürməyə **16 yaşından** icazə verilir.
- ___
- **4.** **[A]**  :bike: - bütün növ motosikiletləri idarə etmək üçün **18 yaşından** icazə verilir. 
+ **4.** **[A]**  🏍- bütün növ motosikiletləri idarə etmək üçün **18 yaşından** icazə verilir. 
  ___
  **5.** **[B]** :oncoming_automobile:- minik avtomobili və icazə verilən maksimum kütləsi **3.5t**-dan çox olmayan yük avtomobilini idarə etmək üçündür. 
 
-Qoşqusunun icazə verilən maksimum  kütləsi **750kq** olmalıdır.  Əgər qoşqusunun kütləsi **750kq**-dan çox olarsa vəsiqəyə **[E]** kategoriyası əlavə olunmalıdır.  **[B E]** - kategoriyalı vəsiqəni almaq üçün ən azı ***19 yaş + 1il təcrübə*** lazımdır. ***(18+1=19)***
-
-Oturacaqlarının sayı 1 + max. 8 nəfər daşımağa icazə verilir ***(1+8=9)*** .  
-**[B]** kategoriyalı yük avtomobillərinin banında **`sərnişin daşımaq qəti qadağandır`**!
+- Qoşqusunun icazə verilən maksimum  kütləsi **750kq** olmalıdır.  
+- Əgər qoşqusunun kütləsi **750kq**-dan çox olarsa vəsiqəyə **[E]** kategoriyası əlavə olunmalıdır.  
+- **[B E]** - kategoriyalı vəsiqəni almaq üçün ən azı ***19 yaş + 1il təcrübə*** lazımdır. ***(18+1=19)***
+- Oturacaqlarının sayı 1 + max. 8 nəfər daşımağa icazə verilir ***(1+8=9)*** .  
+- **[B]** kategoriyalı yük avtomobillərinin banında **`sərnişin daşımaq qəti qadağandır`**!
 ___
 **6.** **[C]** :truck:  - icazə verilən max. kütləsi **3.5t**-dan çox olan yük avtomobillərinə aiddir.   
 
-Qoşqusunun icazə verilən maksimum  kütləsi **750kq** olmalıdır. Əgər qoşqusunun kütləsi **750kq**-dan çox olarsa vəsiqəyə **[E]** kategoriyası əlavə olunmalıdır.  **[B E]** - kategoriyalı vəsiqəni almaq üçün ən azı ***21 yaş + 3il təcrübə*** lazımdır. (18+3=21) 
-
-Oturacaqlarının sayı 1 + max. 8 nəfər daşımağa icazə verilir ***(1+8=9)*** .  
+- Qoşqusunun icazə verilən maksimum  kütləsi **750kq** olmalıdır. 
+- Əgər qoşqusunun kütləsi **750kq**-dan çox olarsa vəsiqəyə **[E]** kategoriyası əlavə olunmalıdır.  
+- **[B E]** - kategoriyalı vəsiqəni almaq üçün ən azı ***21 yaş + 3il təcrübə*** lazımdır. (18+3=21) 
+- Oturacaqlarının sayı 1 + max. 8 nəfər daşımağa icazə verilir ***(1+8=9)*** .  
 ___
 **7.** **[D]** :bus: - sürücü oturacağından əlavə sərnişin oturacaqlarının sayı 8-dən çox olan avtomobillər aiddir **[Avtobuslar]** .
 
-Qoşqusunun icazə verilən maksimum  kütləsi **750kq** olmalıdır. Əgər qoşqusunun kütləsi **750kq**-dan çox olarsa vəsiqəyə **[E]** kategoriyası əlavə olunmalıdır.  **[D E]** - kategoriyalı vəsiqəni almaq üçün ən azı ***26 yaş + 3il təcrübə*** lazımdır. ***(23+3=26)*** .
+- Qoşqusunun icazə verilən maksimum  kütləsi **750kq** olmalıdır. 
+- Əgər qoşqusunun kütləsi **750kq**-dan çox olarsa vəsiqəyə **[E]** kategoriyası əlavə olunmalıdır.  
+- **[D E]** - kategoriyalı vəsiqəni almaq üçün ən azı ***26 yaş + 3il təcrübə*** lazımdır. ***(23+3=26)*** .
 ___
 **8.** **[E]** - icazə verilən max. kütləsi **750kq** olan qoşquları idarə etmək üçün.
 ___
-**9.** Hərbi qulluqçular: **[CE], [CD], [D], [DE]** kategoriyalı sürücülük vəsiqələrinin hər birini **19 yaşdan** əldə edə bilərlər.
+- **Hərbi qulluqçular:** **[CE], [CD], [D], [DE]** kategoriyalı sürücülük vəsiqələrinin hər birini **19 yaşdan** əldə edə bilərlər.
+
+![2](https://user-images.githubusercontent.com/38986496/50398966-3f000c00-0795-11e9-9e71-9a4d08dc0444.jpg)
 
  <h3 align="center">Kəmər </h3> 
  
-:passport_control:   **Yaşayış `məntəqəsində` və `məntəqədən kənarda` kimlərə təhlükəsizlik kəməri bağlamamağa icazə verilir:**
+:passport_control:  Yaşayış `məntəqəsində` və `məntəqədən kənarda`  **kimlərə təhlükəsizlik kəməri bağlamamağa icazə verilir:**
 
-|		Məntəqədə	   | Məntəqədən kənarda	         |
-|----------------------|----------------------------------|
+
+|				Məntəqədə	 		  |    Məntəqədən kənarda	         |
+|-------------------------------------|----------------------------------|
 `Operativ NV sürücü və sərnişini.`    |       `---`    
 `Hamilə qadın.`          		      |`Hamilə qadın.`            
+`Sürməyi öyrədən şəxs.` 		      |`Sürməyi öyrədən şəxs.`
 `Yaşı 12-yə çatmamış uşaq.`		      |`Yaşı 12-yə çatmamış uşaq.`
 `Geriyə hərəkət manevri edən sürücü.` |`Geriyə hərəkət manevri edən sürücü.`
-`Sürməyi öyrədən şəxs.` 		      |`Sürməyi öyrədən şəxs.`
+
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
@@ -130,13 +169,14 @@ ___
  <h1 align="center">Sənədlər, Vəzifələr | Date: 30/03/2018; </h1>
  
 **Avtomobildə bu sənədlərin olması mütləqdir:**  :bookmark_tabs: :page_facing_up: :page_with_curl: :passport_control:
-1) Sürücülük vəsiqəsi;
-2) NV-nin dövlət qeydiyyaat şəhadətnaməsi (Texpasport);
-3) Etibarnamə (Dovernost);
-4) İcbari sığorta;
 
-- **Avtomobili əldə etdiyiniz 10 gün ərzində qeydiyyata salmaq lazımdır.**
-- **Mopedçilərin dəstəsi olmur!**
+ 1. Sürücülük vəsiqəsi; 
+ 2. NV-nin dövlət qeydiyyaat şəhadətnaməsi (Texpasport); 
+ 3. Etibarnamə (Dovernost); 
+ 4. İcbari sığorta;
+
+ - **Mopedçilərin dəstəsi olmur!**
+ - **Avtomobili əldə etdiyiniz 10 gün ərzində qeydiyyata salmaq lazımdır.**   
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
@@ -148,17 +188,27 @@ ___
  - Yaşayış məntəqəsində **50-100m** məsafədə quraşdırılır. 
  - Yaşayış məntəqəsindən kənarda **150-300m** məsafədə quraşdırılır.
 
-:x: [1.3.1 və 1.3.2](https://drive.google.com/file/d/1bhd5mUWT8xVOgB5zgfTDmrT70VhAQf4s/view?usp=sharing) nişanları bilavasitə dəmir yol ***keçidinin qarşısında*** quraşdırılır.
+:x: [1.3.1 və 1.3.2](https://drive.google.com/file/d/1bhd5mUWT8xVOgB5zgfTDmrT70VhAQf4s/view?usp=sharing) nişanları bilavasitə dəmir yol **keçidinin qarşısında** quraşdırılır.
 
-:tram: [1.4.1 - 1.4.6](https://drive.google.com/file/d/1bhd5mUWT8xVOgB5zgfTDmrT70VhAQf4s/view?usp=sharing) nişanları ***yalnız yaşayış məntəqəsindən kənarda*** şlaqbaunlu və ya şlaqbaunsuz dəmir yol nişanı ilə birlikdə quraşdırılır. 
+:tram: [1.4.1 - 1.4.6](https://drive.google.com/file/d/1bhd5mUWT8xVOgB5zgfTDmrT70VhAQf4s/view?usp=sharing) nişanları **yalnız yaşayış məntəqəsindən kənarda** şlaqbaunlu və ya şlaqbaunsuz dəmir yol nişanı ilə birlikdə quraşdırılır. 
+
+![d1](https://user-images.githubusercontent.com/38986496/50399810-9012fe80-079b-11e9-910e-9115116eeb50.jpg)
+
 Yolun hərəkət hissəsində **qısa müddətli** iş aparılarkən  [1.23](https://drive.google.com/open?id=1aLvBYj3Ri2JtcYF2CaUcwCr5WmxxFDwO) nişanı - işlərin aparıldığı yerə **10-15m** məsafədə quraşdırılır.
+
+![1 23](https://user-images.githubusercontent.com/38986496/50399853-e2ecb600-079b-11e9-9373-a5386d8dd0f2.png)
 
 **Üstünlük nişanları:**
 
-:children_crossing: Bu **[\[6\]](https://drive.google.com/file/d/10qbLBsSj56g5YWahWqZAKVnqY_P--2TB/view?usp=sharing)** nişan ***yalnız yaşayış məntəqəsindən kənarda*** təhlükəli sahənin başlanğıcına **təkrar 50m**-dən bir quraşdırılır. 
+:children_crossing: Bu **[\[6\]](https://drive.google.com/file/d/10qbLBsSj56g5YWahWqZAKVnqY_P--2TB/view?usp=sharing)** nişan **yalnız yaşayış məntəqəsindən kənarda** təhlükəli sahənin başlanğıcına **təkrar 50m**-dən bir quraşdırılır. 
 
-[2.6 və 2.7](https://drive.google.com/file/d/1FVZv-joKCyLrwnVVOC4uQbYJjyo7Vnmi/view?usp=sharing) üstünlük nişanları ***yolayrıcında quraşdırılmır***, dar yol və körpülərdə quraşdırılır.
+![d2](https://user-images.githubusercontent.com/38986496/50399963-981f6e00-079c-11e9-84ca-2d4ece747e15.jpg)
+
+[2.6 və 2.7](https://drive.google.com/file/d/1FVZv-joKCyLrwnVVOC4uQbYJjyo7Vnmi/view?usp=sharing) üstünlük nişanları **yolayrıcında quraşdırılmır**, dar yol və körpülərdə quraşdırılır.
 Uzun ox kimin qarşısındadırsa ilk növbədə o keçir. Bir-birinə maneə yaratmasalar eyni vaxtda keçə bilərlər.
+
+
+![d3](https://user-images.githubusercontent.com/38986496/50399962-981f6e00-079c-11e9-8db5-6071160f32a1.gif)
 
 :warning: **Svetafor və nizamlayıcı olduğu halda üstünlük nişanlarına baxmağa ehtiyac yoxdur!** 
 Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**: 
@@ -174,11 +224,17 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
 
 **[\[3.2 - 3.8\]](https://drive.google.com/file/d/1tqJgBy71tYn5x24tbr8o8TSR2goRzTxT/view?usp=sharing)** - **Bu qadağa nişanları həmin ərazidə işləyib yaşayanlara aid edilmir.**
 
+![d4](https://user-images.githubusercontent.com/38986496/50400046-2562c280-079d-11e9-98ba-2861e83f63a0.jpg)
+
+
 **[\[3.7\]](https://drive.google.com/file/d/15uMMQLymbabs19_T3vxjG89gmZNi3XM0/view?usp=sharing)** - **Bu nişanıb təsiri sahəsini keçəməsi qadağandır:**
 - Qoşqulu yük
 - Traktor
 - Yedəkdə nasaz (xarab) aparan bütün NV-lər. 	
-	- Minik avtomobili **qoşqu apararsa** bu nişanın təsiri sahəsinə birbaşa keçə bilər.
+	- Minik avtomobili **qoşqu apararsa** bu nişanın təsiri sahəsinə birbaşa keçə bilər!
+
+![d5](https://user-images.githubusercontent.com/38986496/50400057-3f040a00-079d-11e9-8201-c6a9de9d6049.jpg)
+
 
 **`Sağa, sola, geriyə`** dönmək qadağandır nişanlarının **qüvvəsi birinci kəsişməyə aiddir**, kəsişməni keçdikdən sonra nişan öz qüvvəsini itirir.
 
@@ -204,6 +260,9 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
 	 - Əgər **[3.31]** yoxdursa bu nişanların qüvvəsi **yolayırıcına** qədərdir.  
 	 - Əgər yolayırıcı yoxdursa bu nişanların qüvvəsi **yaşayış məntəqəsinin qurtaracağına** qədərdir. **`[ağ fon üstü qırmızı xətt]`** 
 	 - Əgər məntəqənin qurtaracağında nişan yoxdursa bu nişanların qüvvəsi **qarşıda müvafiq nişan qoyulmuş ikinci dərəcəli yollarla kəsişmə yerinə** qədərdir.
+
+![merge_from_ofoct](https://user-images.githubusercontent.com/38986496/50400265-cb62fc80-079e-11e9-874d-4c543dbe29a1.jpg)
+
 
 **Maksimum sürət məhdudlaşdırılması nişanı [\[3.24\]](https://drive.google.com/open?id=14DVH7UkjuUSXpTFya8IqFrNMINJxwjNY)** -  bu qeyd etdiyimiz yerlərdən əlavə olaraq yaşayış məntəqəsinin başlanğıcında da öz qüvvəsini itirir. `[ağ fon].`
 
