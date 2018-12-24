@@ -196,19 +196,18 @@ ___
 
 Yolun hərəkət hissəsində **qısa müddətli** iş aparılarkən  [1.23](https://drive.google.com/open?id=1aLvBYj3Ri2JtcYF2CaUcwCr5WmxxFDwO) nişanı - işlərin aparıldığı yerə **10-15m** məsafədə quraşdırılır.
 
-![1 23](https://user-images.githubusercontent.com/38986496/50399853-e2ecb600-079b-11e9-9373-a5386d8dd0f2.png)
+![1](https://user-images.githubusercontent.com/25200958/50401078-4202f880-07a5-11e9-865a-00840b4874dc.jpg)
 
 **Üstünlük nişanları:**
 
 :children_crossing: Bu **[\[6\]](https://drive.google.com/file/d/10qbLBsSj56g5YWahWqZAKVnqY_P--2TB/view?usp=sharing)** nişan **yalnız yaşayış məntəqəsindən kənarda** təhlükəli sahənin başlanğıcına **təkrar 50m**-dən bir quraşdırılır. 
 
-![d2](https://user-images.githubusercontent.com/38986496/50399963-981f6e00-079c-11e9-84ca-2d4ece747e15.jpg)
+![2](https://user-images.githubusercontent.com/25200958/50401081-43342580-07a5-11e9-9ab5-8f0c5f18c858.jpg)
 
 [2.6 və 2.7](https://drive.google.com/file/d/1FVZv-joKCyLrwnVVOC4uQbYJjyo7Vnmi/view?usp=sharing) üstünlük nişanları **yolayrıcında quraşdırılmır**, dar yol və körpülərdə quraşdırılır.
 Uzun ox kimin qarşısındadırsa ilk növbədə o keçir. Bir-birinə maneə yaratmasalar eyni vaxtda keçə bilərlər.
 
-
-![d3](https://user-images.githubusercontent.com/38986496/50399962-981f6e00-079c-11e9-8db5-6071160f32a1.gif)
+![3](https://user-images.githubusercontent.com/25200958/50401085-47604300-07a5-11e9-86a1-4e920d776c23.jpg)
 
 :warning: **Svetafor və nizamlayıcı olduğu halda üstünlük nişanlarına baxmağa ehtiyac yoxdur!** 
 Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**: 
@@ -233,7 +232,7 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
 - Yedəkdə nasaz (xarab) aparan bütün NV-lər. 	
 	- Minik avtomobili **qoşqu apararsa** bu nişanın təsiri sahəsinə birbaşa keçə bilər!
 
-![d5](https://user-images.githubusercontent.com/38986496/50400057-3f040a00-079d-11e9-8201-c6a9de9d6049.jpg)
+![5](https://user-images.githubusercontent.com/25200958/50401088-47f8d980-07a5-11e9-8540-4b6258ba1a76.jpg)
 
 
 **`Sağa, sola, geriyə`** dönmək qadağandır nişanlarının **qüvvəsi birinci kəsişməyə aiddir**, kəsişməni keçdikdən sonra nişan öz qüvvəsini itirir.
@@ -261,8 +260,7 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
 	 - Əgər yolayırıcı yoxdursa bu nişanların qüvvəsi **yaşayış məntəqəsinin qurtaracağına** qədərdir. **`[ağ fon üstü qırmızı xətt]`** 
 	 - Əgər məntəqənin qurtaracağında nişan yoxdursa bu nişanların qüvvəsi **qarşıda müvafiq nişan qoyulmuş ikinci dərəcəli yollarla kəsişmə yerinə** qədərdir.
 
-![merge_from_ofoct](https://user-images.githubusercontent.com/38986496/50400265-cb62fc80-079e-11e9-874d-4c543dbe29a1.jpg)
-
+![6](https://user-images.githubusercontent.com/25200958/50401089-48917000-07a5-11e9-9baf-f22d99f9ab3e.jpg)
 
 **Maksimum sürət məhdudlaşdırılması nişanı [\[3.24\]](https://drive.google.com/open?id=14DVH7UkjuUSXpTFya8IqFrNMINJxwjNY)** -  bu qeyd etdiyimiz yerlərdən əlavə olaraq yaşayış məntəqəsinin başlanğıcında da öz qüvvəsini itirir. `[ağ fon].`
 
