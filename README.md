@@ -260,7 +260,7 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
 	 - Əgər yolayırıcı yoxdursa bu nişanların qüvvəsi **yaşayış məntəqəsinin qurtaracağına** qədərdir. **`[ağ fon üstü qırmızı xətt]`** 
 	 - Əgər məntəqənin qurtaracağında nişan yoxdursa bu nişanların qüvvəsi **qarşıda müvafiq nişan qoyulmuş ikinci dərəcəli yollarla kəsişmə yerinə** qədərdir.
 
-![6](https://user-images.githubusercontent.com/25200958/50401089-48917000-07a5-11e9-9baf-f22d99f9ab3e.jpg)
+![1](https://user-images.githubusercontent.com/25200958/50417816-c60abe00-0841-11e9-86af-5a5fef370615.jpg)
 
 **Maksimum sürət məhdudlaşdırılması nişanı [\[3.24\]](https://drive.google.com/open?id=14DVH7UkjuUSXpTFya8IqFrNMINJxwjNY)** -  bu qeyd etdiyimiz yerlərdən əlavə olaraq yaşayış məntəqəsinin başlanğıcında da öz qüvvəsini itirir. `[ağ fon].`
 
