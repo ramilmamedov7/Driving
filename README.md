@@ -1,4 +1,3 @@
-
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
 # <h1 align="center">Sürücülük  :vertical_traffic_light:   </h1> 
@@ -429,6 +428,8 @@ Traektoriyası kəsişdiyi üçün **A, B-yə** yol verməlidir, amma **B yolay�
  
 a) **"Diqqət. Hərəkət qadağandır"** - bütün NV-lərə hərəkəti qadağan edir.
 
+![4](https://user-images.githubusercontent.com/25200958/50420761-3de0e480-0852-11e9-9fac-395014efcf47.jpg)
+
 b) **"Müəyyən istiqamət üzrə hərəkət"** - [] bu üç siqnalların mənası eynidir. 
 
 - Nizamlayıcının **sinə və arxa tərəfdən gələn** NV-lərə hərəkət qadağandır.
@@ -436,7 +437,14 @@ b) **"Müəyyən istiqamət üzrə hərəkət"** - [] bu üç siqnalların məna
 - **Tramvaylar ancaq düzünə** hərəkət edə bilər. 
 - Bu siqnalda **piyadalar ancaq sinə və arxa tərəfdən** keçə bilər.
 
+![1](https://user-images.githubusercontent.com/25200958/50420703-c4e18d00-0851-11e9-9330-848e11a99649.jpg)
+
+
 v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfindən yaxınlaşan NV-lərə hərəkət qadağandır. 
+
+
+![2](https://user-images.githubusercontent.com/25200958/50420704-c4e18d00-0851-11e9-9515-6af98d61d974.jpg)
+
 
 - **Üzü jezlə olan bütün NV-lər ancaq sağa** getməlidir. 
 - **Qolun içini görən NV-lər bütün istiqamətlərə** gedə bilər, 
@@ -446,6 +454,11 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 ### Qeyd: 
 - Nizamlayıcı fitdən yol hərəkəti iştirakçılarının diqqətini cəlb eləmək üçün istifadə edə bilər.
 - Nizamlayıcının əmri ilə nişan zid olarsa nizamlayıcının əmri üstündür, əgər heç bir alternativ variant olmazsa.
+
+### Konkret NV sürücüsünə və piyaday aid olan siqnallar:
+
+![3](https://user-images.githubusercontent.com/25200958/50420705-c57a2380-0851-11e9-816f-602063d86cdf.jpg)
+
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
