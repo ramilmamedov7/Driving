@@ -314,9 +314,18 @@ Reversiv svetaforu **qırmızı, söndürülmüş** və ya **ümumiyyətlə gör
 # 10. 
  <h1 align="center">Löhvəciklər | Date: 11/04/2018;</h1>
  
-- **[\[[7.1.1] <---> [7.1.4]\]](https://drive.google.com/open?id=1Sni5NTgmvch4q8UlU_xTw4mYAa7kAXwM)** - Qədər!
-- **[\[[7.2.2] <---> [7.2.7]\]](https://drive.google.com/open?id=1Sni5NTgmvch4q8UlU_xTw4mYAa7kAXwM)** - Sahə, zona!
-- **[\[[7.3.1] <---> [7.3.3]\]](https://drive.google.com/open?id=1Sni5NTgmvch4q8UlU_xTw4mYAa7kAXwM)** - İstiqamət!
+- **[\[[7.1.1] <---> [7.1.4]\]](https://drive.google.com/open?id=1Sni5NTgmvch4q8UlU_xTw4mYAa7kAXwM)** - **Qədər!**
+
+![1 q d r](https://user-images.githubusercontent.com/25200958/50420367-62878d00-084f-11e9-8f68-176b9d2dba56.jpg)
+
+- **[\[[7.2.2] <---> [7.2.7]\]](https://drive.google.com/open?id=1Sni5NTgmvch4q8UlU_xTw4mYAa7kAXwM)** - **Sahə, zona!**
+
+![2 sah -zona](https://user-images.githubusercontent.com/25200958/50420368-62878d00-084f-11e9-921c-361c2169b475.jpg)
+
+- **[\[[7.3.1] <---> [7.3.3]\]](https://drive.google.com/open?id=1Sni5NTgmvch4q8UlU_xTw4mYAa7kAXwM)** - **İstiqamət!**
+
+![3 istiqam t](https://user-images.githubusercontent.com/25200958/50420414-b8f4cb80-084f-11e9-84e7-7972ea9c7ccd.jpg)
+
 - **[\[[7.2.2] <---> [7.2.7]\]](https://drive.google.com/open?id=1Sni5NTgmvch4q8UlU_xTw4mYAa7kAXwM)** - Ancaq və ancaq **dayanmaq və durmaq** qadağandır nişanları ilə birlikdə tədbiq olunur.
 - **[\[[7.3.4]\]](https://drive.google.com/open?id=1fUCGUO2L8lhMOreOF5wM5Hie6ctgEHsd)** - bu lövhəcik yalnız "B" kategoriyasına aid olan **minik və 3.5t-dan çox olmayan yük** avtomobillərinə aiddir.
 
@@ -325,8 +334,12 @@ Reversiv svetaforu **qırmızı, söndürülmüş** və ya **ümumiyyətlə gör
 - **[\[[7.6.1, 7.6.4, 7.6.5]\]](https://drive.google.com/open?id=1pbTZodQytDHfFxb75dL1939kp4GapVUe)** - Bu nişanlar olan sahədə səkiyə paralel və ya perpendikulyar parklamağa kütləsi 3.5t-dan artıq olmayan avtomobillərə və digər NV-lərinə icazə verilir.
 	- Bu nişanlar olan sahədə kütləsi **3.5-dan artıq olan avtomobillərin parklanması qadağandır!**
 
+![7 6 1 7 6 4 7 6 5](https://user-images.githubusercontent.com/25200958/50420371-63202380-084f-11e9-81b1-e8ef58cc9e0b.jpg)
+
 - **[\[[7.6.2, 7.6.3] və [7.6.6 <-> 7.6.9]\]](https://drive.google.com/open?id=1WqtNS7fwC8gC62zpCssR0C0aOR9ncmpI)** - Bu nişanlar olan sahədə səkiyə çıxmaqla parklamağa yalnız minik avtomobillərinə, motosikiletlərə, velosipedlərə və mopedlərə icazə verilir.
 Bu nişanlar olan sahədə kütləsindən asılı olmayaraq **yük avtomobillərinin səkiyə çıxaraq parklanması qəti qadağandır!**
+
+![7 6 2 7 6 3 7 6 6-7 6 9](https://user-images.githubusercontent.com/25200958/50420372-63202380-084f-11e9-8c2a-184a96c7e640.jpg)
 
  - Sürücünün parklanma yerində 24 saatdan artıq artıq parklaması üçün **"fərdi parklama talonu"** olmalıdır. 
  - Sürücü ödənişli parklama yerində 15 dəqiqə müddətinə qədər parklama, ödəniş etməməsi qayda pozuntusu sayılmır. 
