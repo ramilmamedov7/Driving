@@ -202,7 +202,7 @@ Yolun hərəkət hissəsində **qısa müddətli** iş aparılarkən  [1.23](htt
 
 :children_crossing: Bu **[\[6\]](https://drive.google.com/file/d/10qbLBsSj56g5YWahWqZAKVnqY_P--2TB/view?usp=sharing)** nişan **yalnız yaşayış məntəqəsindən kənarda** təhlükəli sahənin başlanğıcına **təkrar 50m**-dən bir quraşdırılır. 
 
-![2](https://user-images.githubusercontent.com/25200958/50401081-43342580-07a5-11e9-9ab5-8f0c5f18c858.jpg)
+![2](https://user-images.githubusercontent.com/25200958/50418356-6661e200-0844-11e9-871c-e2a134b7f895.jpg)
 
 [2.6 və 2.7](https://drive.google.com/file/d/1FVZv-joKCyLrwnVVOC4uQbYJjyo7Vnmi/view?usp=sharing) üstünlük nişanları **yolayrıcında quraşdırılmır**, dar yol və körpülərdə quraşdırılır.
 Uzun ox kimin qarşısındadırsa ilk növbədə o keçir. Bir-birinə maneə yaratmasalar eyni vaxtda keçə bilərlər.
