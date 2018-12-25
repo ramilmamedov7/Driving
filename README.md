@@ -23,9 +23,8 @@
 - [17. İstismar.](#17)
 - [18. Hərəkət hissəsində yerləşmə.](#18)
 - [19. Hərəkətə başlama.](#19)
-- [20. Hərəkət hissəsində yerləşmə №2.](#20)
-- [21. Ötmə.](#21)
-- [22. Dayanma, durma.](#22)
+- [20. Ötmə.](#20)
+- [21. Dayanma, durma.](#21)
 
 *By: <a href="https://rommel7.github.io" target="_blank">Ramil Mamedov.</a> All rights reserved 2018 ©.*
 
@@ -600,11 +599,12 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 # 18. 
  <h1 align="center">Hərəkət hissəsində yerləşmə | Date: 26/04/2018;</h1>
 
-- **Yol sahəsində** quraşdırılmış baş yol nişanı, **yolayırıcını keçən NV-yə üstünlük verir**.
+- **Yol sahəsində** quraşdırılmış `baş yol nişanı`, **yolayırıcını keçən NV-yə üstünlük verir**.
 - Avtobus zolağı ``məndən sağda yerləşərsə``, ``qırıq-qırıq xətlə ayrılarsa`` - ümumi istifadədə olan NV-yə **maneə yaratmamaq şərti ilə** həmən zolağa keçib yalnız sərnişin mindirib düşürdə bilərəm.
-- **Yalnız yaşayış məntəqəsində** avtobus dayanacağı nişanı varsa - həmin dayanacaqdan **hərəkətə başlayan avtobusa yol verilməlidir**. (Avtobusda ona yol verildiyindən əmin olduqdan sonra hərəkətə başlamalıdır.) 
+- **Yalnız yaşayış məntəqəsində** `avtobus dayanacağı nişanı` varsa - həmin dayanacaqdan **hərəkətə başlayan avtobusa yol verilməlidir**. 
+	- Avtobus da ona yol verildiyindən əmin olduqdan sonra hərəkətə başlamalıdır.
 
-- **3 və daha artıq hərəkət zolağı olan yollarda**, kütləsi **3.5t - dan çox** olan yük avtomobili - sonuncu sol zolağa **yalnız sola və ya geriyə dönmək məqsədi ilə çıxa bilər.** 
+- **3 və daha artıq hərəkət zolağı**, olan yollarda kütləsi **3.5t - dan çox** olan `yük avtomobili` - sonuncu sol zolağa **yalnız sola və ya geriyə dönmək** məqsədi ilə çıxa bilər. 
 	 - **Düz getməsi və ötməsi qadağandır!**
 
 - **Avtomaqistral [5.1]** və **avtomobillər üçün yol [5.3]** nişanı olan yollarda kütləsi **3.5t - dan çox olan** yük avtomobil yalnız ``I`` və ``II`` zolaqda hərəkət edə bilər.
@@ -617,7 +617,8 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 
 - Yol qırağından **hərəkətə başlamaq istəyən sürücü** hamıya yol verməlidir!
 - Motosikletçilər sola və ya geriyə dönərkən, **sol zolağın sol küncünü** tutmalıdır.
-- **Yolayırıcında geriyə dönmək olar.**
+- Yolayırıcında **geriyə dönmək** olar.
+	- **Geriyə hərəkət** isə qadağandır!.
 
 **Aşağıdaki hallarda geriyə dönmək və geriyə hərəkət qadağandır:**
 - piyada keçidində;
@@ -630,18 +631,6 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 20. 
- <h1 align="center">Hərəkət hissəsində yerləşmə №2 | Date: 01/05/2018;</h1>
- 
-
-- **3 və daha artıq hərəkət zolağı** olan yollarda, **kütləsi 3,5t-dan çox olan** yük avtomobili - sonuncu sol zolağa ``yalnız sola və ya geriyə dönmək`` məqsədi ilə çıxa bilər. 
-	- **Düz getməsi və ötməsi qadağandır!** 
-
-- **Avtomagistral [5.1]** və **avtomobillər üçün yol [5.3]** nişanı olan yollarda, **kütləsi 3,5t-dan çox olan** yük avtomobilləri ``yalnız`` ``I`` və ``II`` ``zolaqda`` hərəkət edə bilər.
-	- **Digər zolaqlarla hərəkəti qadağandır!**
-
-**[⬆ Əvvələ qayıt](#mündəricat-books)**
-
-# 21. 
  <h1 align="center">Ötmə | Date: 02/05/2018;</h1>
  
 
@@ -672,11 +661,11 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
-# 22. 
+# 21. 
  <h1 align="center">Dayanma, durma | Date: 03/05/2018;</h1>
 
-- Bir tərəfli yolun sol tərəfində **kütləsi 3,5t-dan çox olan** yük avtomobili ``yalnız yük götürüb-boşaltmaq`` məqsədiylə dayana bilər.
+- Bir tərəfli yolun sol tərəfində **kütləsi 3,5t-dan çox olan** yük avtomobili **``yalnız yük götürüb-boşaltmaq``** məqsədiylə dayana bilər.
 
-- **Səkinin kənarı - səkinin üstü sayılır.**
+- Səkinin kənarı - səkinin üstü sayılır.
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
