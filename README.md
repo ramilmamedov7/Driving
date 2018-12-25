@@ -1,3 +1,4 @@
+
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
 # <h1 align="center">Sürücülük  :vertical_traffic_light:   </h1> 
@@ -275,7 +276,11 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
 - **[\[4.4\]](https://drive.google.com/open?id=11DHAuJgh0OfarPxrWaSFpBJXnE-0Rt7s)** - məcburi nişan kütləsi **3.5t-dan** çox olan **`yük avtomobilinin`**, **`traktorun`** və **`özügedən maşınların`** hərəkətini qadağan edir. Əgər həmin ərazidə işləyib yaşayırsınızsa o əraziyə keçməyə **icazə verirlir**. 
 	- ``Məcburi [4.4] nişanı [3.4] qadağa nişanı ilə eyni qüvvəlidir.``
 
+![4 4](https://user-images.githubusercontent.com/25200958/50418586-b55c4700-0845-11e9-8e48-5a2516faa332.jpg)
+
 - **[\[[4.1.1] <---> [4.1.6]\]](https://drive.google.com/open?id=102uC-MwV9DlaAQRqASGFxYACT9sftQ_e)** - nişanlarının qüvvəsi birinci kəsişməyə aiddir, kəsişməni keçdikdən sonra qüvvəsini itirir.
+
+![merge_from_ofoct](https://user-images.githubusercontent.com/25200958/50418570-8f36a700-0845-11e9-8093-babded9a70ee.jpg)
 
 - **Yerə çəkilən** və **yuxarıdan asılan** nişanların qüvvəsi **bütün yolayırıcına aiddir**, yolayırıcını keçdikdən sonra qüvvəsini itirir!.
 
@@ -311,7 +316,7 @@ Reversiv svetaforu **qırmızı, söndürülmüş** və ya **ümumiyyətlə gör
  
 - **[\[[7.1.1] <---> [7.1.4]\]](https://drive.google.com/open?id=1Sni5NTgmvch4q8UlU_xTw4mYAa7kAXwM)** - Qədər!
 - **[\[[7.2.2] <---> [7.2.7]\]](https://drive.google.com/open?id=1Sni5NTgmvch4q8UlU_xTw4mYAa7kAXwM)** - Sahə, zona!
-- **[\[[7.3.1] <---> [7.1.3]\]](https://drive.google.com/open?id=1Sni5NTgmvch4q8UlU_xTw4mYAa7kAXwM)** - İstiqamət!
+- **[\[[7.3.1] <---> [7.3.3]\]](https://drive.google.com/open?id=1Sni5NTgmvch4q8UlU_xTw4mYAa7kAXwM)** - İstiqamət!
 - **[\[[7.2.2] <---> [7.2.7]\]](https://drive.google.com/open?id=1Sni5NTgmvch4q8UlU_xTw4mYAa7kAXwM)** - Ancaq və ancaq **dayanmaq və durmaq** qadağandır nişanları ilə birlikdə tədbiq olunur.
 - **[\[[7.3.4]\]](https://drive.google.com/open?id=1fUCGUO2L8lhMOreOF5wM5Hie6ctgEHsd)** - bu lövhəcik yalnız "B" kategoriyasına aid olan **minik və 3.5t-dan çox olmayan yük** avtomobillərinə aiddir.
 
