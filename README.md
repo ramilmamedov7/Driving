@@ -584,10 +584,19 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 
 |NV-nin növəri|Tormoz yolu (m) ən çox|Müəyyən edilmiş yavaşıma (m/s) ən azı|
 |-------------|----------------------|-------------------------------------|
-`Tək NV-lər: minik avtomobilləri və onların yükdaşıma üçün modifikasiyaları`|       `12,2 (14,5)` | `6,8 (6,1)` 
-`İcazə verilən maksimal kütləsi 3,5 tonadək olan (3,5t daxil olmaqla) yük avtomobilləri`|`15,1 (19)`| `5,7 (5)`
+`Tək NV-lər: minik avtomobilləri və onların yükdaşıma üçün modifikasiyaları`|          `12,2 (14,5)` | `6,8 (6,1)`
+`İcazə verilən maksimal kütləsi 3,5 tonadək olan (3,5t daxil olmaqla) yük avtomobilləri` | `15,1 (19)` | `5,7 (5)`
 
-**2.**  Sükanında idarəetmə mexanizmində nasaz olduqda və aşağıdakı qaydalara uyğun gəlmədikdə:
+
+**2.** Duracaq tormoz sistemi aşağıdakı NV-lərin tərpənməz vəziyyətini təmin etmədikdə:
+
+|NV-nin növü|Tərpənməzlik vəziyyətinin qiymətləri (dərəcə ilə), ən az
+|---------------------------------------------------------|----|
+`Tam yüklü NV-lər`								   	      |`16º-dən çox olmayan enişdə`| 
+`Təchiz olunmuş Minik avtomobilləri və Avtobuslar` 		  |`23º-dən çox olmayan enişdə`|
+`Təchiz olunmuş Yük avtomobillər və avtomobil qatarları`  |`31º-dən çox olmayan enişdə`|
+
+**3.**  Sükanında idarəetmə mexanizmində nasaz olduqda və aşağıdakı qaydalara uyğun gəlmədikdə:
 
 
 |NV-nin növəri|Cəmi lüftün son hədd qiymətləri (dərəcə ilə), ən çox |
@@ -596,26 +605,12 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 `Avtobuslar`|`20`|
 `Yük daşıyan avtomobillər`|`25`|
 
-**3.**  Sutkanın qaranlıq vaxtı və ya məhdud görünmə şəraitində - faralar və ya qabarit işıqları nasaz olduqda.
-
 **4.**  Sutkanın qaranlıq vaxtı və ya məhdud görünmə şəraitində - faralar və ya qabarit işıqları nasaz olduqda.
 
 **5.**  Yanacaq sisteminin hermetikliyi pozulduqda.
 
 **6.**  Yedəkdə nasaz və ya qoşqu apardıqda - ilişmə dartı və ya ilişmə dayaq qurğusu nasaz olduqda.
 
----
-- **Duracaq tormoz sistemi:**
-
-<center>
-	
-|NV-nin növü|Tərpənməzlik vəziyyətinin qiymətləri (dərəcə ilə), ən az
-|-------------|------------------------------------|
-`Tam yüklü NV-lər`|`16`| 
-`Təchiz olunmuş Minik avtomobilləri və Avtobuslar`|`23`|
-`Təchiz olunmuş Yük avtomobillər`|`31`|
-
-</center>
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
