@@ -592,14 +592,14 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 
 |NV-nin növü|Tərpənməzlik vəziyyətinin qiymətləri (dərəcə ilə, ən az)
 |---------------------------------------------------------|----|
-`Tam yüklü NV-lər`								   	      |`16º-dən çox olmayan enişdə`| 
-`Təchiz olunmuş Minik avtomobilləri və Avtobuslar` 		  |`23º-dən çox olmayan enişdə`|
-`Təchiz olunmuş Yük avtomobillər və avtomobil qatarları`  |`31º-dən çox olmayan enişdə`|
+`Tam yüklü NV-lər`								   	      |`16-dən çox olmayan enişdə`| 
+`Təchiz olunmuş Minik avtomobilləri və Avtobuslar` 		  |`23-dən çox olmayan enişdə`|
+`Təchiz olunmuş Yük avtomobillər və avtomobil qatarları`  |`31-dən çox olmayan enişdə`|
 
 **3.**  Sükanında idarəetmə mexanizmində nasaz olduqda və aşağıdakı qaydalara uyğun gəlmədikdə:
 
 
-|NV-nin növəri|Cəmi lüftün son hədd qiymətləri (dərəcə ilə), ən çox |
+|NV-nin növəri|Cəmi lüftün son hədd qiymətləri (dərəcə ilə, ən çox) |
 |-------------|------------------------------------------------------|
 `Minik avtomovilləri və onların bazasında yaradılmış yük avtomobilləri (pikup) və avtobuslar`|`10`| 
 `Avtobuslar`|`20`|
@@ -623,6 +623,14 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 
 ### Qeyd:
 - Qoşqular üçün şinlәrin protektorundakı naxışların qalmış hündürlüyü normaları yedәkçi nәqliyyat vasitәlәrinin şinlәri üçün olan normalarda müәyyәn edilir.
+
+**8.** Aşağıdakılar olmadıqda:
+
+- **avtobusda, minik vә yük daşıyan avtomobillәrindә, tәkәrli traktorda** — dәrman qutusu, odsöndürәn, qәza dayanma nişanı (yanıb-sönәn qırmızı fәnәr);
+
+- **icazә verilmiş maksimum kütlәsi 3,5 tondan çox olan yük avtomobillәrindә** vә icazә verilmiş maksimum kütlәsi **5 tondan çox olan avtobuslarda** — diyirlәnmәyә qarşı dayaqlar (azı ikisi);
+
+- **yanqoşqulu motosikletdә** — dәrman qutusu, qәza dayanma nişanı (yanıb-sönәn qırmızı fәnәr).
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
