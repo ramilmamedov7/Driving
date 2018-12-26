@@ -133,7 +133,7 @@ ___
 
 - Qoşqusunun icazə verilən maksimum  kütləsi **750kq** olmalıdır. 
 - Əgər qoşqusunun kütləsi **750kq**-dan çox olarsa vəsiqəyə **[E]** kategoriyası əlavə olunmalıdır.  
-- **[B E]** - kategoriyalı vəsiqəni almaq üçün ən azı ***21 yaş + 3il təcrübə*** lazımdır. (18+3=21) 
+- **[C E]** - kategoriyalı vəsiqəni almaq üçün ən azı ***21 yaş + 3il təcrübə*** lazımdır. (18+3=21) 
 - Oturacaqlarının sayı 1 + max. 8 nəfər daşımağa icazə verilir ***(1+8=9)*** .  
 ___
 **7.** **[D]** :bus: - sürücü oturacağından əlavə sərnişin oturacaqlarının sayı 8-dən çox olan avtomobillər aiddir **[Avtobuslar]** .
@@ -469,10 +469,13 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
  - **Yolun işıqlandırılan** sahəsində - **``yaxın işıq``** faralarını yandırmalısınız.
 	- bu şəraitdə **duman** və **uzaq işıq** faralarından istifadə etmək **qadağandır!** 🚫
  - **Yolun işıqlandırılmayan** sahəsində - **``yaxın-uzaq işıq``** faralarını yandırmalısınız.
-	- bu şəraitdə **duman faralarını** yalnız **yaxın-uzaq işıq faraları ilə birlikdə** yandıra bilərsiniz. **Duman faralarını ayrıca yandırmaq qadağandır!** 🚫
+	- bu şəraitdə **duman faralarını** yalnız **yaxın-uzaq işıq faraları ilə birlikdə** yandıra bilərsiniz. 
+	- **Duman faralarını ayrıca yandırmaq qadağandır!** 🚫
 
 **3) Məhdud görünmə şəraitində** - **``yaxın-uzaq işıq``** faralarını yandırmalısınız.
-	- bu şəraitdə **duman faralarını** - **``həm ayrıca, həm də yaxın-uzaq işıq``** faraları ilə birlikdə yandırmaq olar.
+
+- bu şəraitdə **duman faralarını** - **``həm ayrıca, həm də yaxın-uzaq
+   işıq``** faraları ilə birlikdə yandırmaq olar.
 
  **4) Tunnellərdə və yedəyə alan NV-lər** - **``yaxın-uzaq işıq``** faraları yandırmalıdır.
 
