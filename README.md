@@ -590,7 +590,7 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 
 **2.** Duracaq tormoz sistemi aşağıdakı NV-lərin tərpənməz vəziyyətini təmin etmədikdə:
 
-|NV-nin növü|Tərpənməzlik vəziyyətinin qiymətləri (dərəcə ilə), ən az
+|NV-nin növü|Tərpənməzlik vəziyyətinin qiymətləri (dərəcə ilə, ən az)
 |---------------------------------------------------------|----|
 `Tam yüklü NV-lər`								   	      |`16º-dən çox olmayan enişdə`| 
 `Təchiz olunmuş Minik avtomobilləri və Avtobuslar` 		  |`23º-dən çox olmayan enişdə`|
@@ -611,6 +611,18 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 
 **6.**  Yedəkdə nasaz və ya qoşqu apardıqda - ilişmə dartı və ya ilişmə dayaq qurğusu nasaz olduqda.
 
+**7.** Təkərlər və  şinlәrinin protektorundakı naxışların qalmış hündürlüyü:
+
+|NV-nin növü				|Qalmış hündürlüyü az olduqda (ən az)
+|---------------------------|-------|
+`Motosiklet vә Mopedlәrdә`  |`0.8mm`|
+`Yük` 		   		 		|`1mm`|
+`Minik`					    |`1.6mm`| 
+`Avtobus` 				    |`2mm`|
+
+
+### Qeyd:
+- Qoşqular üçün şinlәrin protektorundakı naxışların qalmış hündürlüyü normaları yedәkçi nәqliyyat vasitәlәrinin şinlәri üçün olan normalarda müәyyәn edilir.
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
