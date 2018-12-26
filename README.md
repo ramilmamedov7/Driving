@@ -516,13 +516,33 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 
 2) **Sutkanın qaranlıq vaxtı**, yaxın işıqları **dəfələrlə uzaq işıqlara keçirməklə** verilir.
 
+3) **Yaşayış məntəqəsində** ötmə barədə xəbardarlıq siqnalı vermək üçün **ancaq işıq siqnalından** istifadə etmək olar.
+
+	- **Məntəqədən kənar** isə **həm səs həm də işıq** siqnallarından birgə istifadə etmək olar.
+
+4) Minik avtomobilinə əlavə olaraq 1 və ya 2 ədəd tormozlama siqnalı quraşdırılmasına icazə verilir.
 
 ### Qeyd: 
-- **Duman faraları qabaqda olur, duman fənərləri arxada.**
-- **Arxa duman fənəri yalnız məhdud görünmə şəraitində yandırılır.**
-- **Qarşıdan gələn NV-yə azı 150m qalmış uzaq işıqları yaxına keçirmək lazımdır.**
+- Duman faraları qabaqda olur, duman fənərləri arxada.
+	- Arxa duman fənəri yalnız məhdud görünmə şəraitində yandırılır.
+	- Duman faraları ağ-sarımtıl, arxa duman fənəri isə qırmızı rəngdə olur!
+- Qarşıdan gələn NV-yə **azı 150m qalmış** uzaq işıqları yaxına keçirmək lazımdır.
 - Avtoqatar tanınma nişanı **sutkanın işıqlı vaxtı, hərəkətdə olarkən** yandırmalır.
 - Avtoqatar tanınma nişanı **sutkanın qaranlıq vaxtı və ya məhdud görünmə şəraitində həm hərəkətdə olarkən həm də dayanarkən-durarkən** yandırmalır.
+
+
+![1](https://user-images.githubusercontent.com/25200958/50451184-e888fe00-094b-11e9-90ae-7113132727c3.jpg)
+
+
+ 1. Dönmə göstəriciləri 
+ 2. Yaxın-Uzaq ışıqlar 
+ 3. Duman faraları
+ 4. Qabarit işıqları - Stop (tormoz) siqnalları
+ 5. Geriyə hərəkət fənərləri
+ 6. Arxa duman fənərləri
+ 7. İşıqqaytarıcılar  
+ 8. Dövlət qeydiyyat nişanının işıqlandırıcı işıqları
+ 9. Əlavə stop (tormoz) siqnalı
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
