@@ -265,9 +265,10 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
 - **[\[4.4\]](https://drive.google.com/open?id=11DHAuJgh0OfarPxrWaSFpBJXnE-0Rt7s)** - məcburi nişan kütləsi **3.5t-dan** çox olan **`yük avtomobilinin`**, **`traktorun`** və **`özügedən maşınların`** hərəkətini qadağan edir. Əgər həmin ərazidə işləyib yaşayırsınızsa o əraziyə keçməyə **icazə verirlir**. 
 	- ``Məcburi [4.4] nişanı [3.4] qadağa nişanı ilə eyni qüvvəlidir.``
 
-![4 4](https://user-images.githubusercontent.com/25200958/50418586-b55c4700-0845-11e9-8e48-5a2516faa332.jpg)
+![4](https://user-images.githubusercontent.com/25200958/51071281-f0dd7a80-1667-11e9-9b39-c17c0815c8a6.jpg)
 
-- **[\[[4.1.1] <---> [4.1.6]\]](https://drive.google.com/open?id=102uC-MwV9DlaAQRqASGFxYACT9sftQ_e)** - nişanlarının qüvvəsi birinci kəsişməyə aiddir, kəsişməni keçdikdən sonra qüvvəsini itirir.
+
+- **[4.1.1] <---> [4.1.6]** - bu 6 nişanın **qüvvəsi birinci kəsişməyə aiddir**, kəsişməni keçdikdən sonra qüvvəsini itirir.
 
 ![merge_from_ofoct](https://user-images.githubusercontent.com/25200958/50418570-8f36a700-0845-11e9-8093-babded9a70ee.jpg)
 
@@ -303,20 +304,26 @@ Reversiv svetaforu **qırmızı, söndürülmüş** və ya **ümumiyyətlə gör
 # 08. 
  <h1 align="center">Löhvəciklər | Date: 11/04/2018;</h1>
  
-- **[\[[7.1.1] <---> [7.1.4]\]](https://drive.google.com/open?id=1Sni5NTgmvch4q8UlU_xTw4mYAa7kAXwM)** - **Qədər!**
-
-![1 q d r](https://user-images.githubusercontent.com/25200958/50420367-62878d00-084f-11e9-8f68-176b9d2dba56.jpg)
-
-- **[\[[7.2.2] <---> [7.2.7]\]](https://drive.google.com/open?id=1Sni5NTgmvch4q8UlU_xTw4mYAa7kAXwM)** - **Sahə, zona!**
+- **[7.2.2] <---> [7.2.7]** nişanları - **Qədər** məsafə bildirir.
 
 ![2 sah -zona](https://user-images.githubusercontent.com/25200958/50420368-62878d00-084f-11e9-921c-361c2169b475.jpg)
 
-- **[\[[7.3.1] <---> [7.3.3]\]](https://drive.google.com/open?id=1Sni5NTgmvch4q8UlU_xTw4mYAa7kAXwM)** - **İstiqamət!**
+- **[7.1.1] <---> [7.1.4]** nişanları - **Sahə, zona** bildirir.
 
-![3 istiqam t](https://user-images.githubusercontent.com/25200958/50420414-b8f4cb80-084f-11e9-84e7-7972ea9c7ccd.jpg)
+![5](https://user-images.githubusercontent.com/25200958/51071232-03a37f80-1667-11e9-83fc-68be4069cfd5.jpg)
 
-- **[\[[7.2.2] <---> [7.2.7]\]](https://drive.google.com/open?id=1Sni5NTgmvch4q8UlU_xTw4mYAa7kAXwM)** - Ancaq və ancaq **dayanmaq və durmaq** qadağandır nişanları ilə birlikdə tədbiq olunur.
-- **[\[[7.3.4]\]](https://drive.google.com/open?id=1fUCGUO2L8lhMOreOF5wM5Hie6ctgEHsd)** - bu lövhəcik yalnız "B" kategoriyasına aid olan **minik və 3.5t-dan çox olmayan yük** avtomobillərinə aiddir.
+- **[7.3.1] <---> [7.3.3]** -  nişanları **İstiqamət** bildirir.
+
+![1](https://user-images.githubusercontent.com/25200958/51071195-65171e80-1666-11e9-989c-140cc3e1db27.jpg)
+
+- **[7.2.2] <---> [7.2.7]** - Ancaq və ancaq **dayanmaq və durmaq** qadağandır nişanları ilə birlikdə tədbiq olunur.
+
+![1](https://user-images.githubusercontent.com/25200958/51071334-b9bb9900-1668-11e9-91fb-0a2512435e87.jpg)
+
+
+- **[7.3.4]** - bu lövhəcik yalnız "B" kategoriyasına aid olan **minik və 3.5t-dan çox olmayan yük** avtomobillərinə aiddir.
+
+![7 4 3](https://user-images.githubusercontent.com/25200958/51071139-c7235400-1665-11e9-829a-ad854e29cd9d.jpg)
 
  <h3 align="center">Parklama</h3>
  
