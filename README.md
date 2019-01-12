@@ -245,12 +245,15 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
 
 **[3.10], [3.27], [3.28], [3.29], [3.30]** - nişanlarının qüvvəsi yalnız yolun qoyulduğu tərəfəinə şamil olunur.
 
+![11](https://user-images.githubusercontent.com/25200958/51071616-66981500-166d-11e9-840c-c902527f987c.jpg)
+
+
 - **[\[Bu 10 qadağa nişanın\]](https://drive.google.com/open?id=1IN2Ya2NCusl1GomE6_Xlri3Hk1Bt_u1s)** qüvvəsi **[\[3.31\]](https://drive.google.com/open?id=1OQ4pyaSIHoLQwi8_hjGuqhsi9J7k-Zhq)** - nışanına qədərdir.  
 	 - Əgər **[3.31]** yoxdursa bu nişanların qüvvəsi **yolayırıcına** qədərdir.  
 	 - Əgər yolayırıcı yoxdursa bu nişanların qüvvəsi **yaşayış məntəqəsinin qurtaracağına** qədərdir. **`[ağ fon üstü qırmızı xətt]`** 
 	 - Əgər məntəqənin qurtaracağında nişan yoxdursa bu nişanların qüvvəsi **qarşıda müvafiq nişan qoyulmuş ikinci dərəcəli yollarla kəsişmə yerinə** qədərdir.
 
-![1](https://user-images.githubusercontent.com/25200958/50417816-c60abe00-0841-11e9-86af-5a5fef370615.jpg)
+![12](https://user-images.githubusercontent.com/25200958/51071602-381a3a00-166d-11e9-8314-a5f1e6c754ed.jpg)
 
 **Maksimum sürət məhdudlaşdırılması nişanı [\[3.24\]](https://drive.google.com/open?id=14DVH7UkjuUSXpTFya8IqFrNMINJxwjNY)** -  bu qeyd etdiyimiz yerlərdən əlavə olaraq yaşayış məntəqəsinin başlanğıcında da öz qüvvəsini itirir. `[ağ fon].`
 
@@ -288,16 +291,28 @@ Svetafor və nizamlayıcı bu üstünlük nişanlarını **ləğv edir**:
 # 07. 
  <h1 align="center">Məlumatverici-Göstərici nişanlar | Date: 10/04/2018;</h1>
 
-**[5.5], [5.6], [5.10.1]** - birtərəfli yol nişanında geriyə dönmək qardaşıdır.
-**[5.7.1], [5.7.2]** - birtərəfli hərəkət yoluna çıxış nişanı düzünə və geriyə getməyə icazə verir.
+- **[5.5], [5.6], [5.10.1]** - birtərəfli yol nişanında geriyə dönmək qardaşıdır.
 
- - **Geriyə dönmə həmişə sonuncu sol zolaqdan aparılmalıdır.**
+![3](https://user-images.githubusercontent.com/25200958/51071382-76adf580-1669-11e9-9fd8-7e87afd950c3.jpg)
 
-**[5.9]** - Ancaq ümumi istifadədə olan nəqliyyat vasitələri üçün təyin olunmuş zolaq nişanıdır.
 
-**[5.35] <-> [5.37]** - Reversiv hərəkət zolağına aid olan nişanlar.
-Reversiv svetaforu **yaşıl olduğu halda** reversiv zolağına çıxmağa **icazə verilir**.
-Reversiv svetaforu **qırmızı, söndürülmüş** və ya **ümumiyyətlə görünmədiyi halda** reversiv zolağa keçmək **qəti qadağandır!**
+- **[5.7.1], [5.7.2]** - birtərəfli hərəkət yoluna çıxış nişanı düzünə və geriyə getməyə icazə verir.
+	- **Geriyə dönmə həmişə sonuncu sol zolaqdan aparılmalıdır.**
+
+![4](https://user-images.githubusercontent.com/25200958/51071400-b379ec80-1669-11e9-8901-baad10398650.jpg)
+
+- **[5.9]** - **Ancaq ümumi istifadədə** olan nəqliyyat vasitələri üçün təyin olunmuş zolaq nişanıdır.
+
+![12](https://user-images.githubusercontent.com/25200958/51071409-ddcbaa00-1669-11e9-8627-7fe56e56f909.jpg)
+
+ <h3 align="center">Reversiv</h3>
+
+- **[5.35] <-> [5.37]** - Reversiv hərəkət zolağına aid olan nişanlar.
+- Reversiv svetaforu **yaşıl olduğu halda** reversiv zolağına çıxmağa **icazə verilir**.
+- Reversiv svetaforu **qırmızı, söndürülmüş** və ya **ümumiyyətlə görünmədiyi halda** reversiv zolağa keçmək **qəti qadağandır!**
+
+![12](https://user-images.githubusercontent.com/25200958/51071432-2a16ea00-166a-11e9-9244-20e3a6d02220.jpg)
+
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
@@ -327,7 +342,7 @@ Reversiv svetaforu **qırmızı, söndürülmüş** və ya **ümumiyyətlə gör
 
  <h3 align="center">Parklama</h3>
  
-- **[\[[7.6.1, 7.6.4, 7.6.5]\]](https://drive.google.com/open?id=1pbTZodQytDHfFxb75dL1939kp4GapVUe)** - Bu nişanlar olan sahədə səkiyə paralel və ya perpendikulyar parklamağa kütləsi 3.5t-dan artıq olmayan avtomobillərə və digər NV-lərinə icazə verilir.
+- **[\[[7.6.1, 7.6.4, 7.6.5]\]]()** - Bu nişanlar olan sahədə səkiyə paralel və ya perpendikulyar parklamağa kütləsi 3.5t-dan artıq olmayan avtomobillərə və digər NV-lərinə icazə verilir.
 	- Bu nişanlar olan sahədə kütləsi **3.5-dan artıq olan avtomobillərin parklanması qadağandır!**
 
 ![7 6 1 7 6 4 7 6 5](https://user-images.githubusercontent.com/25200958/50420371-63202380-084f-11e9-81b1-e8ef58cc9e0b.jpg)
@@ -339,7 +354,7 @@ Bu nişanlar olan sahədə kütləsindən asılı olmayaraq **yük avtomobillər
 
  - Sürücünün parklanma yerində 24 saatdan artıq artıq parklaması üçün **"fərdi parklama talonu"** olmalıdır. 
  - Sürücü ödənişli parklama yerində 15 dəqiqə müddətinə qədər parklama, ödəniş etməməsi qayda pozuntusu sayılmır. 
- - Səkinin kənarı == səkinin üstü.
+ - **Səkinin kənarı == səkinin üstü.**
 
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
