@@ -100,6 +100,20 @@ Avtomobil qrupuna aid olan NV-lər: **`minik-yük, avtobus, traleybus.`**
 
 Dayanma və Durmanı qadağan olunduğu yollarda NV məcburi dayandıqda, NV-ni işarələmək üçün **`qəza işıq siqnalları`** və ya **`qəza dayanma nişanı`** :warning: quraşdırılmalıdır! **[30m məsafədə]**.
 
+
+1) **nəqliyyat vasitəsi (NV)** - yolda hərəkət üçün konstruksiya imkanları olan və insan tərəfindən idarə edilərfqurğu, habelə onun qoşqusudur (NV mexaniki və insanın, yaxud heyvanın əzələ enerjisi ilə hərəkətə gətirilətj NV-nə bölünür); 
+2) **mexaniki NV** - asma mühərrikli velosipedlər və relsli NV istisna olmaqla, hər hansı özügedən NV-dir; 
+3) **avtomobil** - yollarda adamların və ya yüklərin daşınması, yaxud adam və ya yük daşıyan NV-nin yedəyə alınması üçün istifadə edilən mexaniki NV-dir (bu anlayış trolleybusları, yəni elektrik naqili ilə birləşdirilmiş relssiz NV-ni də əhatə edir, lakin yollarda adamların və yüklərin daşınması və ya bu məqsədlə istifadə edilən NV-nin yedəyə alınması üçün istifadə edilən və yalnız yardımçı funksiya daşıyan kənd təsərrüfatı traktorları kimi NV-ni əhatə etmir);
+4) **yarımqoşqu** - avtomobillərə birləşdirilmək üçün nəzərdə tutulan, bir hissəsi avtomobilə söykənərək özünün və yükün kütləsinin xeyli busəsini onun üstünə salan hər hansı qoşqudur; 
+5) **uzunölçülü NV** - uzunluğu **24 metrdən çox olan** NV-dir; 
+6) **özügedən maşınlar** - tırtıllı traktorlar da daxil olmaqla tikintidə, meşə və kənd təsərrüfatında, başqa işlərdə istifadə üçün nəzərdətutulan NV-dir. 
+7) **ötmə** - hərəkət etdiyi zolağı dəyişməklə hərəkətdə olan bir və ya bir neçəjyv-ni ötüb keçməkdi; 
+8) **məhdudiyyətii görünmə** - duman, yağış, qar və başqa şəraitdə, habelə toranlıqda yolun **300 metrdən az** məsajədə görünməsidir;
+9) **ümum istifadədə olan NV** - sərnişin daşınması üçün nəzərdə tutulmuş, müəyyən edilmiş marşrut üzrə təyin edilmiş dayanacaqlarla hərəkətj edən NV-dir (avtobus, trolleybus, tramvay); 
+10) **mütəşəkkil nəqliyyat dəstəsi** - qarşıda, qırmızı və ya göy sayrışan işıq və xüsusi səsi siqnalı ilə təchiz edilmiş operativ NV-nin müşayiəti ilə bir hərəkət zolağında bir-birinin ardınca faraları yabdırılmış vəziyyətdə hərəkət edən **3 və ya daha artıq** mexaniki NV-dən itfarət olan dəstədir; 
+11) **avtoqatar** - bir mexaniki NV-nə qoşularaq hərəkət edən bir neçə NV-dən ibarət tərkibdir.
+12) **icazə verilən maksimum kütlə** - istehsalçı müəssisə tərəfindən müəyyən edilmiş, NV-nin sürücü, sərnişin və yüklə birlikdə yol verilən kütləsinin yuxarı həddidir. Avtoqatann icazə verilən maksimum kütləsi tərkibə daxil olan NV-nin icazə verilən maksimum kütlələrinin cəmindən ibarətdir; 
+
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
 
 # 02. 
