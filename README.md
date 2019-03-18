@@ -710,4 +710,37 @@ v) **"Sola dönmə"** - bu siqnalda nizamlayıcının arxa və dirsək tərəfin
 
 - Səkinin kənarı - səkinin üstü sayılır.
 
+**Aşağıdakı yerlərdə dayanma qadağandır**: 
+
+1) tramvay yollarında, habelə tramvay yollarının bilavasitə yaxınlığında, əgər bu, tramvayın hərəkətinə maneə yaradarsa; 
+
+2) dəmiryol keçidlərində, tunellərdə, habelə estakadalarda, körpülərdə (əgər həmin istiqamətdə 3-dən əz hərəkət zolağı varsa) və onların altında; 
+
+3) 1.1,1.3 və 1.11 (bütöv xətt tərəfdən) üfüqi nişanlanma xətləri ilə dayanmış NV arasında məsafə **3 metrdən** az olan yerlərdə; 
+
+4) piyada keçidlərində və onlara **5 metrdən** az yaxınlıqda; 
+
+5) hərəkət hissəsində təhlükəli döngələrin və yolun uzununa profilinin qabarıq əyintili hissəsinin yaxınlığında - hər hansı bir istiqamətdə yolun görünmə sahəsi **100 metrdən az olduqda**;
+
+6) 1.1, 1.3 nişanlama xətti, yaxud ayırıcı zolağı olan üçtərəfli yolaynclarındakı yan keçidin qarşı tərəfində dayanma halları istisna olmaqla, hərəkət hissələrinin kəsişməsində və kəsişən hərəkət hissəsinin kənarından **5 metrdən** az yaxınlıqda;
+
+7) dayanacaq meydançasına, meydança olmadıqda isə ümumi istifadədə olan NV-nin dayanacaq yerini işarə edən 5.12 və ya 5.13 yol nişanlarına **15 metrdən az** yaxınlıqda;
+
+
+**NV-nin aşağıdakı yerlərdə durması qadağandır**:
+
+1) dayanmanın qadağan edildiyi yerlərdə;
+
+2) yaşayış məntəqələrindən kənarda yolların hərəkət hissəsində; 
+
+3) 5.1 nişanı ilə işarələnmiş yerlərdə; 
+
+4) dəmiryol keçidlərinə **50 metrdən az yaxınlıqda**; 
+
+5) girişin, habelə darvaza qarşısında; 
+
+6) 3.28 yol nişanının və bu nişanla tətbiq edildikdə 1.10 nişanlanma xəttinin təsir zonalarında;
+
+- **2, 3, 4, 5, 6 - bəndlərindəki yerlərdə dayanmaq olar.**
+
 **[⬆ Əvvələ qayıt](#mündəricat-books)**
